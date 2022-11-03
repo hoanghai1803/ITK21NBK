@@ -42,6 +42,7 @@ Register accounts on Online Judges:
   - Concepts:
 
     - Competitive Programming Overview.
+    - Complexity.
     - Setup Environment.
     - Debugging.
     - Brute-force.
@@ -58,6 +59,7 @@ Register accounts on Online Judges:
   
     | OJ        | Name                                           | Categories                     |
     | :---:     | :---:                                          | :----:                         |
+    | **NBKOJ** | [hntower](https://nbk.homes/problem/hntower)   | *Recursion*                    |
     | **NBKOJ** | [bfknight](https://nbk.homes/problem/bfknight) | *Recursion, Backtracking*      |
     | **NBKOJ** | [bfgene](https://nbk.homes/problem/bfgene)     | *Brute-force, Data Structures* |
     | **VNOJ**  | [car](https://oj.vnoi.info/problem/car)        | *Greedy*                       |
