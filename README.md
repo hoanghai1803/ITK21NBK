@@ -54,12 +54,14 @@ Register accounts on Online Judges:
     - [What is Competitive Programming? (William Lin)](https://youtu.be/ueNT-w7Oluw)
     - [Starting Competitive Programming - Steps and Mistakes (William Lin)](https://youtu.be/bVKHRtafgPc)
     - [How to start Competitive Programming? For beginners! (Errichto)](https://youtu.be/xAeiXy8-9Y8)
+    - [Recursion in Programming - freeCodeCamp.org](https://youtu.be/IJDJ0kBx2LM)
 
   - Practice Problems:
   
-    | OJ        | Name                                           | Categories                     |
-    | :---:     | :---:                                          | :----:                         |
-    | **NBKOJ** | [hntower](https://nbk.homes/problem/hntower)   | *Recursion*                    |
-    | **NBKOJ** | [bfknight](https://nbk.homes/problem/bfknight) | *Recursion, Backtracking*      |
-    | **NBKOJ** | [bfgene](https://nbk.homes/problem/bfgene)     | *Brute-force, Data Structures* |
-    | **VNOJ**  | [car](https://oj.vnoi.info/problem/car)        | *Greedy*                       |
+    | OJ        | Name                                             | Categories                      |
+    | :---:     | :---:                                            | :----:                          |
+    | **NBKOJ** | [hntower](https://nbk.homes/problem/hntower)     | *Recursion*                     |
+    | **NBKOJ** | [bfknight](https://nbk.homes/problem/bfknight)   | *Recursion, Backtracking*       |
+    | **NBKOJ** | [gridpaths](https://nbk.homes/problem/gridpaths) | *Backtracking & Branch-N-Bound* |
+    | **NBKOJ** | [bfgene](https://nbk.homes/problem/bfgene)       | *Brute-force, Data Structures*  |
+    | **VNOJ**  | [car](https://oj.vnoi.info/problem/car)          | *Greedy*                        |
