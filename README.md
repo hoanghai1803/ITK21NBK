@@ -65,3 +65,24 @@ Register accounts on Online Judges:
     | **NBKOJ** | [gridpaths](https://nbk.homes/problem/gridpaths) | *Backtracking & Branch-N-Bound* |
     | **NBKOJ** | [bfgene](https://nbk.homes/problem/bfgene)       | *Brute-force, Data Structures*  |
     | **VNOJ**  | [car](https://oj.vnoi.info/problem/car)          | *Greedy*                        |
+
+- **Lesson 2 (??.??)**
+
+  - Concepts:
+
+    - Binary Search.
+    - Two Pointers.
+
+- **Lesson 3 (??.??)**
+
+  - Concepts:
+
+    - Binary Search (continued).
+    - Ternary Search.
+
+- **Lesson 4 (??.??)**
+
+  - Concepts:
+
+    - Parallel Binary Search.
+    - Meet-in-the-middle.
