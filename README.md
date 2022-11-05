@@ -73,6 +73,26 @@ Register accounts on Online Judges:
     - Binary Search.
     - Two Pointers.
 
+  - Resources:
+
+    - [ITMO Academy: pilot course](https://codeforces.com/edu/course/2)
+    - [Binary Search - CP-algorithms](https://cp-algorithms.com/num_methods/binary_search.html)
+    - [Binary Search - VNOI wiki](https://vnoi.info/wiki/algo/basic/binary-search.md)
+    - [Two Pointers - VNOI wiki](https://vnoi.info/wiki/algo/basic/two-pointers.md)
+
+  - Practice Problems:
+
+    | OJ        | Name                                             | Categories                      |
+    | :---:     | :---:                                            | :----:                          |
+    | **VNOJ**  | [nksgame](https://oj.vnoi.info/problem/nksgame)  | *Binary Search, Two Pointers*   |
+    | **VNOJ**  | [ndccard](https://oj.vnoi.info/problem/ndccard)  | *Two Pointers*                  |
+    | **LQDOJ** | [bosotg](https://lqdoj.edu.vn/problem/1819bosotg)| *Binary Search, Two Pointers*   |
+    | **VNOJ**  | [twosum](https://oj.vnoi.info/problem/twosum)    | *Two Pointers*                  |
+    | **NBKOJ** | [minroad](https://nbk.homes/problem/voi14minroad)| *Binary Search, Two Pointers*   |
+    | **VNOJ**  | [sopenp](https://oj.vnoi.info/problem/sopenp)    | *Binary Search, Data Structures*|
+    | **NBKOJ** | [qn21dance](https://nbk.homes/problem/qn21dance) | *Two Pointers*                  |
+    | **VNOJ**  | [vmquabeo](https://oj.vnoi.info/problem/vmquabeo)| *Two Pointers, Data Structures* |
+
 - **Lesson 3 (??.??)**
 
   - Concepts:
@@ -80,9 +100,41 @@ Register accounts on Online Judges:
     - Binary Search (continued).
     - Ternary Search.
 
+  - Resources:
+
+    - [Ternary Search - CP-algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
+    - [Ternary Search - VNOI wiki](https://vnoi.info/wiki/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search.md)
+
+  - Practice Problems:
+
+    | OJ        | Name                                             | Categories                      |
+    | :---:     | :---:                                            | :----:                          |
+    | **NBKOJ** | [socdist](https://nbk.homes/problem/socdist)     | *Binary Search, Greedy*         |
+    | **NBKOJ** | [countpots](https://nbk.homes/problem/countpots) | *Binary Search, Math*           |
+    | **NBKOJ** | [buycard](https://nbk.homes/problem/buycard)     | *Binary Search*                 |
+    | **VNOJ**  | [predhbb21_meteor](https://oj.vnoi.info/problem/predhbb21_meteor) | *Binary Search, Geometry, Algebra* |
+    | **NBKOJ** | [mtwalk](https://nbk.homes/problem/mtwalk)       | *Binary Search, Graph Traversal*|
+    | **NBKOJ** | [bfwall](https://nbk.homes/problem/bfwall)       | *Ternary Search*                |
+    | **Codeforces** | [Weakness and Poorness](https://codeforces.com/problemset/problem/578/C) | *Ternary Search* |
+    | **LQDOJ** | [surebet](https://lqdoj.edu.vn/problem/surebet)  | *Binary Search, Ternary Search, Two Pointers* |
+
 - **Lesson 4 (??.??)**
 
   - Concepts:
 
     - Parallel Binary Search.
     - Meet-in-the-middle.
+
+  - Resources:
+
+    - [Parallel Binary Search [tutorial] - Codeforces blog](https://codeforces.com/blog/entry/45578)
+    - [Meet In The Middle - USACO Guide](https://usaco.guide/gold/meet-in-the-middle?lang=cpp)
+
+  - Practice Problems:
+
+    | OJ        | Name                                             | Categories                            |
+    | :---:     | :---:                                            | :----:                                |
+    | **VNOJ**  | [vector](https://oj.vnoi.info/problem/vector)    | *Meet-in-the-middle, Data Structures* |
+    | **VNOJ**  | [lqddiv](https://oj.vnoi.info/problem/lqddiv)    | *Meet-in-the-middle, Two Pointers*    |
+    | **VNOJ**  | [dttui1](https://oj.vnoi.info/problem/dttui1)    | *Meet-in-the-middle, Two Pointers*    |
+    | **VNOJ**  | [dgold](https://oj.vnoi.info/problem/dgold)      | *Meet-in-the-middle, Two Pointers, Data Structures* |
