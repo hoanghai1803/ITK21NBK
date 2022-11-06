@@ -65,6 +65,8 @@ Register accounts on Online Judges:
     | **NBKOJ** | [gridpaths](https://nbk.homes/problem/gridpaths) | *Backtracking & Branch-N-Bound* |
     | **NBKOJ** | [bfgene](https://nbk.homes/problem/bfgene)       | *Brute-force, Data Structures*  |
     | **VNOJ**  | [car](https://oj.vnoi.info/problem/car)          | *Greedy*                        |
+    | **VNOJ**  | [bedao_g07_resort](https://oj.vnoi.info/problem/bedao_g07_resort) | *Greedy*       |
+    | **VNOJ**  | [heap1](https://oj.vnoi.info/problem/heap1)      | *Greedy, Data Structures*       |
 
 - **Lesson 2 (??.??)**
 
