@@ -37,7 +37,7 @@ Register accounts on Online Judges:
 ----
 ## Syllabus
 
-- **Lesson 1 (10.11)**
+- **Lesson 1 (08.11)**
 
   - Concepts:
 
@@ -55,6 +55,7 @@ Register accounts on Online Judges:
     - [Starting Competitive Programming - Steps and Mistakes (William Lin)](https://youtu.be/bVKHRtafgPc)
     - [How to start Competitive Programming? For beginners! (Errichto)](https://youtu.be/xAeiXy8-9Y8)
     - [Recursion in Programming - freeCodeCamp.org](https://youtu.be/IJDJ0kBx2LM)
+    - [Greedy Algorithms Tutorial - Solve Coding Challenges - freeCodeCamp.org](https://youtu.be/bC7o8P_Ste4)
 
   - Practice Problems:
   
