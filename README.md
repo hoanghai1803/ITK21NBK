@@ -151,6 +151,8 @@ Register accounts on Online Judges:
 
   - Resources:
 
+    - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
+    - [Data Structures Overview - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/data-structures-overview.md)
     - [Introduction to Prefix Sum - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
     - [More on Prefix Sum - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
 
