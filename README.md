@@ -151,7 +151,6 @@ Register accounts on Online Judges:
 
   - Resources:
 
-    - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
     - [Introduction to Prefix Sum - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
     - [More on Prefix Sum - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
 
@@ -163,7 +162,7 @@ Register accounts on Online Judges:
     | **VNOJ**  | [nkseq](https://oj.vnoi.info/problem/nkseq)      | *Prefix Sum*                    |
     | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)    | *Prefix Sum 2D*                 |
     | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
-    | **VNOJ**  | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D, Combinatorics*|
+    | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D, Combinatorics*|
     | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
     | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Binary Search, Prefix Sum 2D* |
     | **NBKOJ** | [candy1](https://nbk.homes/problem/candy1)       | *Prefix Sum 2D*                 |
