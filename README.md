@@ -148,7 +148,6 @@ Register accounts on Online Judges:
 
     - Prefix Sum
     - Prefix Sum 2D
-    - Difference Array
 
   - Resources:
 
@@ -167,3 +166,5 @@ Register accounts on Online Judges:
     | **VNOJ**  | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D*               |
     | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
     | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Binary Search, Prefix Sum 2D* |
+    | **NBKOJ** | [candy1](https://nbk.homes/problem/candy1)       | *Prefix Sum 2D*                 |
+    | **NBKOJ** | [candy2](https://nbk.homes/problem/candy2)       | *Prefix Sum 2D*                 |
