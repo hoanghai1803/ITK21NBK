@@ -69,7 +69,7 @@ Register accounts on Online Judges:
   | **VNOJ**  | [car](https://oj.vnoi.info/problem/car)          | *Greedy*                        |
   | **VNOJ**  | [bedao_g07_resort](https://oj.vnoi.info/problem/bedao_g07_resort) | *Greedy*       |
 
-### Lesson 2 (??.??)
+### Lesson 2 (13.11)
 
 - Concepts:
 
@@ -80,8 +80,8 @@ Register accounts on Online Judges:
 
   - [ITMO Academy: pilot course](https://codeforces.com/edu/course/2)
   - [Binary Search - CP-algorithms](https://cp-algorithms.com/num_methods/binary_search.html)
-  - [Binary Search - VNOI wiki](https://vnoi.info/wiki/algo/basic/binary-search.md)
-  - [Two Pointers - VNOI wiki](https://vnoi.info/wiki/algo/basic/two-pointers.md)
+  - [Binary Search - VNOI Wiki](https://vnoi.info/wiki/algo/basic/binary-search.md)
+  - [Two Pointers - VNOI Wiki](https://vnoi.info/wiki/algo/basic/two-pointers.md)
 
 - Practice Problems:
 
@@ -106,7 +106,7 @@ Register accounts on Online Judges:
 - Resources:
 
   - [Ternary Search - CP-algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
-  - [Ternary Search - VNOI wiki](https://vnoi.info/wiki/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search.md)
+  - [Ternary Search - VNOI Wiki](https://vnoi.info/wiki/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search.md)
 
 - Practice Problems:
 
@@ -141,3 +141,28 @@ Register accounts on Online Judges:
   | **VNOJ**  | [lqddiv](https://oj.vnoi.info/problem/lqddiv)    | *Meet-in-the-middle, Two Pointers*    |
   | **VNOJ**  | [dttui1](https://oj.vnoi.info/problem/dttui1)    | *Meet-in-the-middle, Two Pointers*    |
   | **VNOJ**  | [dgold](https://oj.vnoi.info/problem/dgold)      | *Meet-in-the-middle, Two Pointers, Data Structures* |
+
+### Lesson 5 (??.??)
+
+  - Concepts:
+
+    - Prefix Sum
+    - Prefix Sum 2D
+    - Difference Array
+
+  - Resources:
+
+    - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
+    - [Introduction to Prefix Sum - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
+    - [More on Prefix Sum - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
+
+  - Practice problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **VNOJ**  | [nkseq](https://oj.vnoi.info/problem/nkseq)      | *Prefix Sum*                    |
+  | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)    | *Prefix Sum 2D*                 |
+  | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
+  | **VNOJ**  | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D*               |
+  | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
+  | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Binary Search, Prefix Sum 2D* |
