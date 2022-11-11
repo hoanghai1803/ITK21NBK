@@ -158,11 +158,12 @@ Register accounts on Online Judges:
 
   - Practice problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **VNOJ**  | [nkseq](https://oj.vnoi.info/problem/nkseq)      | *Prefix Sum*                    |
-  | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)    | *Prefix Sum 2D*                 |
-  | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
-  | **VNOJ**  | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D*               |
-  | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
-  | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Binary Search, Prefix Sum 2D* |
+    | OJ        | Name                                             | Categories                      |
+    | :---:     | :---:                                            | :----:                          |
+    | **NBKOJ** | [sumquery](https://nbk.homes/problem/sumquery)   | *Prefix Sum*                    |
+    | **VNOJ**  | [nkseq](https://oj.vnoi.info/problem/nkseq)      | *Prefix Sum*                    |
+    | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)    | *Prefix Sum 2D*                 |
+    | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
+    | **VNOJ**  | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D*               |
+    | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
+    | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Binary Search, Prefix Sum 2D* |
