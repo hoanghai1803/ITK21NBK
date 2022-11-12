@@ -92,7 +92,7 @@ Register accounts on Online Judges:
   | **LQDOJ** | [bosotg](https://lqdoj.edu.vn/problem/1819bosotg)| *Binary Search, Two Pointers*   |
   | **VNOJ**  | [twosum](https://oj.vnoi.info/problem/twosum)    | *Two Pointers*                  |
   | **NBKOJ** | [minroad](https://nbk.homes/problem/voi14minroad)| *Binary Search, Two Pointers*   |
-  | **VNOJ**  | [sopenp](https://oj.vnoi.info/problem/sopenp)    | *Binary Search, Data Structures*|
+  | **VNOJ**  | [sopenp](https://oj.vnoi.info/problem/sopenp)    | *Binary Search, Two Pointers, Data Structures* |
   | **NBKOJ** | [qn21dance](https://nbk.homes/problem/qn21dance) | *Two Pointers*                  |
   | **VNOJ**  | [vmquabeo](https://oj.vnoi.info/problem/vmquabeo)| *Two Pointers, Data Structures* |
 
