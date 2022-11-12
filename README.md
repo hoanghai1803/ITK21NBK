@@ -92,7 +92,7 @@ Register accounts on Online Judges:
   | **LQDOJ** | [bosotg](https://lqdoj.edu.vn/problem/1819bosotg)| *Binary Search, Two Pointers*   |
   | **VNOJ**  | [twosum](https://oj.vnoi.info/problem/twosum)    | *Two Pointers*                  |
   | **NBKOJ** | [minroad](https://nbk.homes/problem/voi14minroad)| *Binary Search, Two Pointers*   |
-  | **VNOJ**  | [sopenp](https://oj.vnoi.info/problem/sopenp)    | *Binary Search, Two Pointers, Data Structures* |
+  | **VNOJ**  | [sopenp](https://oj.vnoi.info/problem/sopenp)    | *Two Pointers, Data Structures* |
   | **NBKOJ** | [qn21dance](https://nbk.homes/problem/qn21dance) | *Two Pointers*                  |
   | **VNOJ**  | [vmquabeo](https://oj.vnoi.info/problem/vmquabeo)| *Two Pointers, Data Structures* |
 
@@ -126,11 +126,15 @@ Register accounts on Online Judges:
 - Concepts:
 
   - Parallel Binary Search.
+  - Bitmask.
   - Meet-in-the-middle.
 
 - Resources:
 
   - [Parallel Binary Search [tutorial] - Codeforces blog](https://codeforces.com/blog/entry/45578)
+  - [BITMASK - FOR BEGINNERS - Codeforces blog](https://codeforces.com/blog/entry/18169)
+  - [Bit Tricks for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/)
+  - [Fun with Bits - VNOI Wiki](https://vnoi.info/wiki/translate/topcoder/fun-with-bits.md)
   - [Meet In The Middle - USACO Guide](https://usaco.guide/gold/meet-in-the-middle?lang=cpp)
 
 - Practice Problems:
@@ -146,8 +150,9 @@ Register accounts on Online Judges:
 
   - Concepts:
 
-    - Prefix Sum
-    - Prefix Sum 2D
+    - Prefix Sum.
+    - Prefix Sum 2D.
+    - Combinatorics: Inclusion-Exclusion Principle.
 
   - Resources:
 
