@@ -214,7 +214,7 @@ Register accounts on Online Judges:
   - Prime Number.
   - Sieve of Eratosthenes.
   - Prime Factorization.
-  - Some Useful Arithmetic Functions.
+  - Some Useful Number Theoretic Functions.
 
 - Resources:
 
@@ -222,6 +222,7 @@ Register accounts on Online Judges:
   - [Prime Number and Sieve of Eratosthenes - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
   - [Integer Factorization - CP-Algorithms](https://cp-algorithms.com/algebra/factorization.html)
   - [Arithmetic Function - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_function)
+  - [Number of Divisors & Sum of Divisors - CP-Algorithms](https://cp-algorithms.com/algebra/divisors.html)
 
 - Practice Problems
 
