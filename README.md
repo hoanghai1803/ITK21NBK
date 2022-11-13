@@ -79,7 +79,7 @@ Register accounts on Online Judges:
 - Resources:
 
   - [ITMO Academy: pilot course](https://codeforces.com/edu/course/2)
-  - [Binary Search - CP-algorithms](https://cp-algorithms.com/num_methods/binary_search.html)
+  - [Binary Search - CP-Algorithms](https://cp-algorithms.com/num_methods/binary_search.html)
   - [Binary Search - VNOI Wiki](https://vnoi.info/wiki/algo/basic/binary-search.md)
   - [Two Pointers - VNOI Wiki](https://vnoi.info/wiki/algo/basic/two-pointers.md)
 
@@ -105,7 +105,7 @@ Register accounts on Online Judges:
 
 - Resources:
 
-  - [Ternary Search - CP-algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
+  - [Ternary Search - CP-Algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
   - [Ternary Search - VNOI Wiki](https://vnoi.info/wiki/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search.md)
 
 - Practice Problems:
@@ -131,8 +131,8 @@ Register accounts on Online Judges:
 
 - Resources:
 
-  - [Parallel Binary Search [tutorial] - Codeforces blog](https://codeforces.com/blog/entry/45578)
-  - [BITMASK - FOR BEGINNERS - Codeforces blog](https://codeforces.com/blog/entry/18169)
+  - [Parallel Binary Search [tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/45578)
+  - [BITMASK - FOR BEGINNERS - Codeforces Blog](https://codeforces.com/blog/entry/18169)
   - [Bit Tricks for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/)
   - [Fun with Bits - VNOI Wiki](https://vnoi.info/wiki/translate/topcoder/fun-with-bits.md)
   - [Meet In The Middle - USACO Guide](https://usaco.guide/gold/meet-in-the-middle?lang=cpp)
@@ -204,9 +204,38 @@ Register accounts on Online Judges:
 
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | Fermat's Little Theorem, Binary Exponentiation |
-  | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | Combinatorics, Modular Inverse  |
-  | **NBKOJ** | [bfcomb](https://nbk.homes/problem/bfcomb)       | Combinatorics, Modular Inverse  |
-  | **NBKOJ** | [bddivan](https://nbk.homes/problem/bddivan)     | DP, Binary Exponentiation, Modular Inverse |
-  | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | Number Theory, Data Structures, Probabilities |
-  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | Graph, Probabilities |
+  | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | *Fermat's Little Theorem, Binary Exponentiation* |
+  | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | *Combinatorics, Modular Inverse* |
+  | **NBKOJ** | [bfcomb](https://nbk.homes/problem/bfcomb)       | *Combinatorics, Modular Inverse*  |
+  | **NBKOJ** | [bddivan](https://nbk.homes/problem/bddivan)     | *Dynamic Programming, Binary Exponentiation, Modular Inverse* |
+  | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | *Number Theory, Data Structures, Probabilities* |
+  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Graph, Probabilities* |
+
+### Lesson 7 (??.??)
+
+- Concepts:
+
+  - Prime Number.
+  - Sieve of Eratosthenes.
+  - Prime Factorization.
+  - Some Useful Arithmetic Functions.
+
+- Resources:
+
+  - [Sieve of Eratosthenes - CP-Algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
+  - [Prime Number and Sieve of Eratosthenes - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
+  - [Integer Factorization - CP-Algorithms](https://cp-algorithms.com/algebra/factorization.html)
+  - [Arithmetic Function - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_function)
+
+- Practice Problems
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **NBKOJ** | [cntdiv](https://nbk.homes/problem/cntdiv)       | *Number Theory, Sieve, Prime Factorization* |
+  | **NBKOJ** | [commondiv](https://nbk.homes/problem/commondiv) | *Sieve*                         |
+  | **NBKOJ** | [qn20natdiv](https://nbk.homes/problem/qn20natdiv) | *Sieve, Prefix Sum*           |
+  | **VNOJ**  | [dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) | *Sieve, Prefix Sum* |
+  | **LQDOJ** | [primecount](https://lqdoj.edu.vn/problem/primecount) | *Sieve*                    |
+  | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Sieve, Combinatorics*        |
+  | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Sieve, Combinatorics*        |
+  
