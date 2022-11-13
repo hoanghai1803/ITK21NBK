@@ -184,9 +184,8 @@ Register accounts on Online Judges:
   - Congruence.
   - Fermat's Little Theorem.
   - Binary Exponentiation.
-  - Combinatorics: Counting Problems.
   - Modular Inverse.
-  - Randomized Algorithm (Probabilities).
+  - Randomized Algorithms (Probabilities).
 
 - Resources:
 
@@ -195,7 +194,6 @@ Register accounts on Online Judges:
   - [Fermat's Little Theorem - GeeksforGeeks](https://www.geeksforgeeks.org/fermats-little-theorem/)
   - [Binary Exponentiation - Cp-Algorithms](https://cp-algorithms.com/algebra/binary-exp.html)
   - [Binary Exponentiation - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-3.md)
-  - [Combinations and Permutations](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
   - [Modular Multiplicative Inverse - CP-Algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
   - [Modular Inverse - VNOI Wiki](https://vnoi.info/wiki/algo/math/modular-inverse.md)
   - [Probabilities - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-6.md)
@@ -204,12 +202,10 @@ Register accounts on Online Judges:
 
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | *Fermat's Little Theorem, Binary Exponentiation* |
-  | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | *Combinatorics, Modular Inverse* |
-  | **NBKOJ** | [bfcomb](https://nbk.homes/problem/bfcomb)       | *Combinatorics, Modular Inverse*  |
+  | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | *Number Theory, Binary Exponentiation* |
   | **NBKOJ** | [bddivan](https://nbk.homes/problem/bddivan)     | *Dynamic Programming, Binary Exponentiation, Modular Inverse* |
   | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | *Number Theory, Data Structures, Probabilities* |
-  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Graph, Probabilities* |
+  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Graphs, Probabilities* |
 
 ### Lesson 7 (??.??)
 
@@ -238,4 +234,51 @@ Register accounts on Online Judges:
   | **LQDOJ** | [primecount](https://lqdoj.edu.vn/problem/primecount) | *Sieve*                    |
   | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Sieve, Combinatorics*        |
   | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Sieve, Combinatorics*        |
-  
+
+### Lesson 8 (??.??)
+
+- Concepts:
+
+  - Arithmetic Progression and Geometric Progression.
+  - Greatest Common Divisors (GCD) and Least Common Multiple (LCM).
+  - Euclidean Algorithm.
+  - Euler's Totient Function.
+
+- Resources:
+
+  - [Arithmetic Progression - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_progression)
+  - [Geometric Progression - Wikipedia](https://en.wikipedia.org/wiki/Geometric_progression)
+  - [GCD & LCM - GeeksforGeeks](https://www.geeksforgeeks.org/mathematical-algorithms/mathematical-algorithms-gcd-lcm/)
+  - [Euler's Totient Function - CP-Algorithms](https://cp-algorithms.com/algebra/phi-function.html)
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **VNOJ**  | [icpc22_national_i](https://oj.vnoi.info/problem/icpc22_national_i) | *Adhoc*      |
+  | **Codeforces** | [Make AP](https://codeforces.com/contest/1624/problem/B) | *Adhoc*            |
+  | **NBKOJ** | [goodarr](https://nbk.homes/problem/goodarr)     | *Number Theory*                 |
+  | **Codeforces** | [Same GCDs](https://codeforces.com/gym/361217/problem/D) | *Number Theory*    |
+  | **NBKOJ** | [bfgcd](https://nbk.homes/problem/bfgcd)         | *Number Theory, Prime Factorization, Data Structures* |
+  | **VNOJ**  | [fcb005_lcmseq](https://oj.vnoi.info/problem/fcb005_lcmseq) | *Number Theory, Dynamic Programming* |
+  | **NBKOJ** | [sumdivisors](https://nbk.homes/problem/sumdivisors) | *Number Theory* |
+
+
+### Lesson 9 (??.??)
+
+- Concepts:
+
+  - Basic of Combinatorics.
+
+- Resources:
+
+  - [Combinations and Permutations - Math is Fun](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
+  - [Basic of Combinatorics - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-5.md)
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **NBKOJ** | [bfcomb](https://nbk.homes/problem/bfcomb)       | *Combinatorics, Modular Inverse*  |
+  | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | *Combinatorics, Modular Inverse* |
+  | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | *Combinatorics, Modular Inverse* |
