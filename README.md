@@ -148,29 +148,65 @@ Register accounts on Online Judges:
 
 ### Lesson 5 (??.??)
 
-  - Concepts:
+- Concepts:
 
-    - Prefix Sum.
-    - Prefix Sum 2D.
-    - Combinatorics: Inclusion-Exclusion Principle.
+  - Prefix Sum.
+  - Prefix Sum 2D.
+  - Combinatorics: Inclusion-Exclusion Principle.
 
-  - Resources:
+- Resources:
 
-    - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
-    - [Data Structures Overview - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/data-structures-overview.md)
-    - [Introduction to Prefix Sum - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
-    - [More on Prefix Sum - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
+  - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
+  - [Data Structures Overview - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/data-structures-overview.md)
+  - [Introduction to Prefix Sum - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
+  - [More on Prefix Sum - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
+  - [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+  - [Inclusion-Exclusion Principle - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-7.md)
 
-  - Practice problems:
+- Practice problems:
 
-    | OJ        | Name                                             | Categories                      |
-    | :---:     | :---:                                            | :----:                          |
-    | **NBKOJ** | [sumquery](https://nbk.homes/problem/sumquery)   | *Prefix Sum*                    |
-    | **VNOJ**  | [nkseq](https://oj.vnoi.info/problem/nkseq)      | *Prefix Sum*                    |
-    | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)    | *Prefix Sum 2D*                 |
-    | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
-    | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D, Combinatorics*|
-    | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
-    | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Binary Search, Prefix Sum 2D* |
-    | **NBKOJ** | [candy1](https://nbk.homes/problem/candy1)       | *Prefix Sum 2D*                 |
-    | **NBKOJ** | [candy2](https://nbk.homes/problem/candy2)       | *Prefix Sum 2D*                 |
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **NBKOJ** | [sumquery](https://nbk.homes/problem/sumquery)   | *Prefix Sum*                    |
+  | **VNOJ**  | [nkseq](https://oj.vnoi.info/problem/nkseq)      | *Prefix Sum*                    |
+  | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)    | *Prefix Sum 2D*                 |
+  | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
+  | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D, Combinatorics*|
+  | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
+  | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Binary Search, Prefix Sum 2D* |
+  | **NBKOJ** | [candy1](https://nbk.homes/problem/candy1)       | *Prefix Sum 2D*                 |
+  | **NBKOJ** | [candy2](https://nbk.homes/problem/candy2)       | *Prefix Sum 2D*                 |
+
+### Lesson 6 (??.??)
+
+- Concepts:
+
+  - Congruence.
+  - Fermat's Little Theorem.
+  - Binary Exponentiation.
+  - Combinatorics: Counting Problems.
+  - Modular Inverse.
+  - Randomized Algorithm (Probabilities).
+
+- Resources:
+
+  - [Congruence - Wolfram MathWorld](https://mathworld.wolfram.com/Congruence.html)
+  - [Modulo - VNOI Wiki](https://vnoi.info/wiki/translate/he/So-hoc-Phan-1-Modulo-gcd.md)
+  - [Fermat's Little Theorem - GeeksforGeeks](https://www.geeksforgeeks.org/fermats-little-theorem/)
+  - [Binary Exponentiation - Cp-Algorithms](https://cp-algorithms.com/algebra/binary-exp.html)
+  - [Binary Exponentiation - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-3.md)
+  - [Combinations and Permutations](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
+  - [Modular Multiplicative Inverse - CP-Algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
+  - [Modular Inverse - VNOI Wiki](https://vnoi.info/wiki/algo/math/modular-inverse.md)
+  - [Probabilities - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-6.md)
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | Fermat's Little Theorem, Binary Exponentiation |
+  | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | Combinatorics, Modular Inverse  |
+  | **NBKOJ** | [bfcomb](https://nbk.homes/problem/bfcomb)       | Combinatorics, Modular Inverse  |
+  | **NBKOJ** | [bddivan](https://nbk.homes/problem/bddivan)     | DP, Binary Exponentiation, Modular Inverse |
+  | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | Number Theory, Data Structures, Probabilities |
+  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | Graph, Probabilities |
