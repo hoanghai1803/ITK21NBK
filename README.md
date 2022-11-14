@@ -205,7 +205,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | *Number Theory, Binary Exponentiation* |
   | **NBKOJ** | [bddivan](https://nbk.homes/problem/bddivan)     | *Dynamic Programming, Binary Exponentiation, Modular Inverse* |
   | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | *Number Theory, Data Structures, Probabilities* |
-  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Graphs, Probabilities* |
+  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Interactive, Graphs, Probabilities* |
 
 ### Lesson 7 (??.??)
 
@@ -282,4 +282,5 @@ Register accounts on Online Judges:
   | :---:     | :---:                                            | :----:                          |
   | **NBKOJ** | [bfcomb](https://nbk.homes/problem/bfcomb)       | *Combinatorics, Modular Inverse*  |
   | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | *Combinatorics, Modular Inverse* |
+  | **NBKOJ** | [bfextreme](https://nbk.homes/problem/bfextreme) | *Combinatorics*                 |
   | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | *Combinatorics, Modular Inverse* |
