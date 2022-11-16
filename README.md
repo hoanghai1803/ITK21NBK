@@ -118,9 +118,10 @@ Register accounts on Online Judges:
   | **VNOJ**  | [c11cave](https://oj.vnoi.info/problem/c11cave)  | *Binary Search*                 |
   | **VNOJ**  | [predhbb21_meteor](https://oj.vnoi.info/problem/predhbb21_meteor) | *Binary Search, Geometry, Algebra* |
   | **NBKOJ** | [mtwalk](https://nbk.homes/problem/mtwalk)       | *Binary Search, Graph Traversal*|
-  | **NBKOJ** | [bfwall](https://nbk.homes/problem/bfwall)       | *Ternary Search*                |
-  | **Codeforces** | [Weakness and Poorness](https://codeforces.com/problemset/problem/578/C) | *Ternary Search* |
-  | **LQDOJ** | [surebet](https://lqdoj.edu.vn/problem/surebet)  | *Binary Search, Ternary Search, Two Pointers* |
+  | **NBKOJ** | [bfwall](https://nbk.homes/problem/bfwall)       | *Ternary Search, Binary Search* |
+  | **Codeforces** | [Weakness and Poorness](https://codeforces.com/problemset/problem/578/C) | *Ternary Search, Binary Search* |
+  | **LQDOJ** | [surebet](https://lqdoj.edu.vn/problem/surebet)  | *Ternary Search, Binary Search, Two Pointers* |
+  | **KATTIS**| [europeantrip](https://open.kattis.com/contests/vietnam-national17-open/problems/europeantrip) | *Ternary Search, Geometry* |
 
 ### Lesson 4 (??.??)
 
