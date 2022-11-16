@@ -115,6 +115,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [socdist](https://nbk.homes/problem/socdist)     | *Binary Search, Greedy*         |
   | **NBKOJ** | [countpots](https://nbk.homes/problem/countpots) | *Binary Search, Math*           |
   | **NBKOJ** | [buycard](https://nbk.homes/problem/buycard)     | *Binary Search*                 |
+  | **VNOJ**  | [c11cave](https://oj.vnoi.info/problem/c11cave)  | *Binary Search*                 |
   | **VNOJ**  | [predhbb21_meteor](https://oj.vnoi.info/problem/predhbb21_meteor) | *Binary Search, Geometry, Algebra* |
   | **NBKOJ** | [mtwalk](https://nbk.homes/problem/mtwalk)       | *Binary Search, Graph Traversal*|
   | **NBKOJ** | [bfwall](https://nbk.homes/problem/bfwall)       | *Ternary Search*                |
