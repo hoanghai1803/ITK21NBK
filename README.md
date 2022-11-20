@@ -143,6 +143,8 @@ Register accounts on Online Judges:
 
   | OJ        | Name                                             | Categories                            |
   | :---:     | :---:                                            | :----:                                |
+  | **SPOJ**  | [meteors](https://www.spoj.com/problems/METEORS/)| *Parallel Binary Search, Data Structures* |
+  | **VNOJ**  | [icpc22_mt_d](https://oj.vnoi.info/problem/icpc22_mt_d) | *Parallel Binary Search, Data Structures* |
   | **VNOJ**  | [vector](https://oj.vnoi.info/problem/vector)    | *Meet-in-the-middle, Data Structures* |
   | **VNOJ**  | [lqddiv](https://oj.vnoi.info/problem/lqddiv)    | *Meet-in-the-middle, Two Pointers*    |
   | **VNOJ**  | [dttui1](https://oj.vnoi.info/problem/dttui1)    | *Meet-in-the-middle, Two Pointers*    |
