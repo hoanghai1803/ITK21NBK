@@ -96,7 +96,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [qn21dance](https://nbk.homes/problem/qn21dance) | *Two Pointers*                  |
   | **VNOJ**  | [vmquabeo](https://oj.vnoi.info/problem/vmquabeo)| *Two Pointers, Data Structures* |
 
-### Lesson 3 (??.??)
+### Lesson 3 (16.11)
 
 - Concepts:
 
@@ -123,7 +123,7 @@ Register accounts on Online Judges:
   | **LQDOJ** | [surebet](https://lqdoj.edu.vn/problem/surebet)  | *Ternary Search, Binary Search, Two Pointers* |
   | **KATTIS**| [europeantrip](https://open.kattis.com/contests/vietnam-national17-open/problems/europeantrip) | *Ternary Search, Geometry* |
 
-### Lesson 4 (??.??)
+### Lesson 4 (24.11)
 
 - Concepts:
 
@@ -150,7 +150,7 @@ Register accounts on Online Judges:
   | **VNOJ**  | [dttui1](https://oj.vnoi.info/problem/dttui1)    | *Meet-in-the-middle, Two Pointers*    |
   | **VNOJ**  | [dgold](https://oj.vnoi.info/problem/dgold)      | *Meet-in-the-middle, Two Pointers, Data Structures* |
 
-### Lesson 5 (??.??)
+### Lesson 5 (26.11)
 
 - Concepts:
 
@@ -171,7 +171,7 @@ Register accounts on Online Judges:
 
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [sumquery](https://nbk.homes/problem/sumquery)   | *Prefix Sum*                    |
+  | **NBKOJ** | [bfsumquery](https://nbk.homes/problem/bfsumquery) | *Prefix Sum*                    |
   | **VNOJ**  | [nkseq](https://oj.vnoi.info/problem/nkseq)      | *Prefix Sum*                    |
   | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)    | *Prefix Sum 2D*                 |
   | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
