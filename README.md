@@ -156,7 +156,6 @@ Register accounts on Online Judges:
 
   - Prefix Sum.
   - Prefix Sum 2D.
-  - Combinatorics: Inclusion-Exclusion Principle.
 
 - Resources:
 
@@ -164,8 +163,6 @@ Register accounts on Online Judges:
   - [Data Structures Overview - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/data-structures-overview.md)
   - [Introduction to Prefix Sum - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
   - [More on Prefix Sum - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
-  - [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
-  - [Inclusion-Exclusion Principle - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-7.md)
 
 - Practice problems:
 
@@ -176,7 +173,6 @@ Register accounts on Online Judges:
   | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)    | *Prefix Sum 2D*                 |
   | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
   | **NBKOJ** | [bfsumquery2d](https://nbk.homes/problem/bfsumquery2d) | *Prefix Sum 2D*           |
-  | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D, Combinatorics*|
   | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
   | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Binary Search, Prefix Sum 2D* |
 
@@ -242,8 +238,6 @@ Register accounts on Online Judges:
   | **NBKOJ** | [qn20natdiv](https://nbk.homes/problem/qn20natdiv) | *Sieve, Prefix Sum*           |
   | **VNOJ**  | [dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) | *Sieve, Prefix Sum* |
   | **LQDOJ** | [primecount](https://lqdoj.edu.vn/problem/primecount) | *Sieve*                    |
-  | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Sieve, Combinatorics*        |
-  | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Sieve, Combinatorics*        |
 
 ### Lesson 8 (??.??)
 
@@ -275,11 +269,14 @@ Register accounts on Online Judges:
 - Concepts:
 
   - Basic of Combinatorics.
+  - Combinatorics: Inclusion-Exclusion Principle.
 
 - Resources:
 
   - [Combinations and Permutations - Math is Fun](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
   - [Basic of Combinatorics - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-5.md)
+  - [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+  - [Inclusion-Exclusion Principle - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-7.md)
 
 - Practice Problems:
 
@@ -289,3 +286,6 @@ Register accounts on Online Judges:
   | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | *Combinatorics, Modular Inverse* |
   | **NBKOJ** | [bfextreme](https://nbk.homes/problem/bfextreme) | *Combinatorics*                 |
   | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | *Combinatorics, Modular Inverse* |
+  | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Sieve, Combinatorics*        |
+  | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Sieve, Combinatorics*        |
+  | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D, Combinatorics*|
