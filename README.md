@@ -268,7 +268,7 @@ Register accounts on Online Judges:
 - Concepts:
 
   - Basic of Combinatorics.
-  - Combinatorics: Inclusion-Exclusion Principle.
+  - Inclusion-Exclusion Principle.
 
 - Resources:
 
