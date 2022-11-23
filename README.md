@@ -185,7 +185,6 @@ Register accounts on Online Judges:
   - Binary Exponentiation.
   - Modular Inverse.
   - Greatest Common Divisors (GCD) and Least Common Multiples (LCM).
-  - Randomized Algorithms (Probabilities).
 
 - Resources:
 
@@ -197,7 +196,6 @@ Register accounts on Online Judges:
   - [Modular Multiplicative Inverse - CP-Algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
   - [Modular Inverse - VNOI Wiki](https://vnoi.info/wiki/algo/math/modular-inverse.md)
   - [GCD & LCM - GeeksforGeeks](https://www.geeksforgeeks.org/mathematical-algorithms/mathematical-algorithms-gcd-lcm/)
-  - [Probabilities - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-6.md)
 
 - Practice Problems:
 
@@ -209,8 +207,6 @@ Register accounts on Online Judges:
   | **Codeforces** | [Almost All Divisors](https://codeforces.com/problemset/problem/1165/D) | *Number Theory* |
   | **Codeforces** | [Same GCDs](https://codeforces.com/gym/361217/problem/D) | *Number Theory*    |
   | **NBKOJ** | [bfgcd](https://nbk.homes/problem/bfgcd)         | *Number Theory, Prime Factorization, Data Structures* |
-  | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | *Number Theory, Data Structures, Probabilities* |
-  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Interactive, Graphs, Probabilities* |
 
 ### Lesson 7 (??.??)
 
@@ -246,22 +242,25 @@ Register accounts on Online Judges:
   - Arithmetic Progression and Geometric Progression.
   - Euclidean Algorithm.
   - Euler's Totient Function.
+  - Randomized Algorithms (Probabilities).
 
 - Resources:
 
   - [Arithmetic Progression - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_progression)
   - [Geometric Progression - Wikipedia](https://en.wikipedia.org/wiki/Geometric_progression)
   - [Euler's Totient Function - CP-Algorithms](https://cp-algorithms.com/algebra/phi-function.html)
+  - [Probabilities - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-6.md)
 
 - Practice Problems:
 
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
   | **VNOJ**  | [icpc22_national_i](https://oj.vnoi.info/problem/icpc22_national_i) | *Adhoc*      |
-  | **Codeforces** | [Make AP](https://codeforces.com/contest/1624/problem/B) | *Adhoc*            |
   | **NBKOJ** | [goodarr](https://nbk.homes/problem/goodarr)     | *Number Theory*                 |
   | **VNOJ**  | [fcb005_lcmseq](https://oj.vnoi.info/problem/fcb005_lcmseq) | *Number Theory, Dynamic Programming* |
   | **NBKOJ** | [sumdivisors](https://nbk.homes/problem/sumdivisors) | *Number Theory* |
+  | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | *Number Theory, Data Structures, Probabilities* |
+  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Interactive, Graphs, Probabilities* |
 
 
 ### Lesson 9 (??.??)
