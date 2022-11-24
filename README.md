@@ -196,6 +196,7 @@ Register accounts on Online Judges:
   - [Modular Multiplicative Inverse - CP-Algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
   - [Modular Inverse - VNOI Wiki](https://vnoi.info/wiki/algo/math/modular-inverse.md)
   - [GCD & LCM - GeeksforGeeks](https://www.geeksforgeeks.org/mathematical-algorithms/mathematical-algorithms-gcd-lcm/)
+  - [Number of Divisors & Sum of Divisors - CP-Algorithms](https://cp-algorithms.com/algebra/divisors.html)
 
 - Practice Problems:
 
@@ -204,7 +205,6 @@ Register accounts on Online Judges:
   | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | *Number Theory, Binary Exponentiation* |
   | **NBKOJ** | [bddivan](https://nbk.homes/problem/bddivan)     | *Dynamic Programming, Binary Exponentiation, Modular Inverse* |
   | **Codeforces** | [Row GCD](https://codeforces.com/problemset/problem/1458/A) | *Number Theory* |
-  | **Codeforces** | [Almost All Divisors](https://codeforces.com/problemset/problem/1165/D) | *Number Theory* |
   | **Codeforces** | [Same GCDs](https://codeforces.com/gym/361217/problem/D) | *Number Theory*    |
   | **NBKOJ** | [bfgcd](https://nbk.homes/problem/bfgcd)         | *Number Theory, Prime Factorization, Data Structures* |
 
@@ -223,7 +223,6 @@ Register accounts on Online Judges:
   - [Prime Number and Sieve of Eratosthenes - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
   - [Integer Factorization - CP-Algorithms](https://cp-algorithms.com/algebra/factorization.html)
   - [Arithmetic Function - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_function)
-  - [Number of Divisors & Sum of Divisors - CP-Algorithms](https://cp-algorithms.com/algebra/divisors.html)
 
 - Practice Problems
 
