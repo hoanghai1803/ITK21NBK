@@ -306,9 +306,9 @@ Register accounts on Online Judges:
   - [Some Optimization Techniques - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
   - [Introduction to DP - USACO](https://usaco.guide/gold/intro-dp?lang=cpp)
   - [Knapsack DP - USACO](https://usaco.guide/gold/knapsack?lang=cpp)
-  - [Path on Grids](https://usaco.guide/gold/paths-grids?lang=cpp)
-  - [Longest Increasing Subsequence](https://usaco.guide/gold/lis?lang=cpp)
-  - **Essential Note:** [DP Tutorial and Problem List](https://codeforces.com/blog/entry/67679)
+  - [Path on Grids - USACO](https://usaco.guide/gold/paths-grids?lang=cpp)
+  - [Longest Increasing Subsequence - USACO](https://usaco.guide/gold/lis?lang=cpp)
+  - **Essential Note:** [DP Tutorial and Problem List - CF Blogs](https://codeforces.com/blog/entry/67679)
 
 - Practice Problems:
   
@@ -316,4 +316,5 @@ Register accounts on Online Judges:
   | :---:     | :---:                                            | :----:                          |
   | **VNOJ**  | [nkpalin](https://oj.vnoi.info/problem/nkpalin)  | *DP, Tracing*                   |
   | **NBKOJ** | [bfprincess](https://nbk.homes/problem/bfprincess) | *DP*                          |
+  | **VNOJ**  | [lis](https://oj.vnoi.info/problem/lis)          | *DP, Binary Search, Data Structures* |
   | **VNOJ**  | [binpack](https://oj.vnoi.info/problem/binpack)  | *Brute-force, Greedy, DP*       |
