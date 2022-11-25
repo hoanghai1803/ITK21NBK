@@ -281,13 +281,15 @@ Register accounts on Online Judges:
 
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [bfcomb](https://nbk.homes/problem/bfcomb)       | *Combinatorics, Modular Inverse*  |
-  | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | *Combinatorics, Modular Inverse* |
+  | **NBKOJ** | [bfcomb](https://nbk.homes/problem/bfcomb)       | *Combinatorics, Modular Inverse*|
+  | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | *Combinatorics, Modular Inverse*|
+  | **NBKOJ** | [bfpea](https://nbk.homes/problem/bfpea)         | *Combinatorics, Modular Inverse*|
   | **NBKOJ** | [bfextreme](https://nbk.homes/problem/bfextreme) | *Combinatorics*                 |
   | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | *Combinatorics, Modular Inverse* |
   | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Sieve, Combinatorics*        |
   | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Sieve, Combinatorics*        |
   | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D, Combinatorics*|
+  | **VNOJ**  | [raygun](https://oj.vnoi.info/problem/raygun)    | *Combinatorics, Number Theory*  |
 
 ### Lesson 10 (??.??)
 
@@ -318,3 +320,5 @@ Register accounts on Online Judges:
   | **NBKOJ** | [bfprincess](https://nbk.homes/problem/bfprincess) | *DP*                          |
   | **VNOJ**  | [lis](https://oj.vnoi.info/problem/lis)          | *DP, Binary Search, Data Structures* |
   | **VNOJ**  | [binpack](https://oj.vnoi.info/problem/binpack)  | *Brute-force, Greedy, DP*       |
+
+  *Recommendation:* [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
