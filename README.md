@@ -200,6 +200,7 @@ Register accounts on Online Judges:
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
   | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | *Number Theory, Binary Exponentiation* |
+  | **NBKOJ** | [nguhanh](https://nbk.homes/problem/nguhanh)     | *Combinatorics, Modular Inverse*|
   | **NBKOJ** | [sumdivisors](https://nbk.homes/problem/sumdivisors) | *Number Theory* |
 
 ### Lesson 7 (??.??)
@@ -271,6 +272,7 @@ Register accounts on Online Judges:
 
   - [Combinations and Permutations - Math is Fun](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
   - [Basic of Combinatorics - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-5.md)
+  - [Binomial Coefficients - CP-Algorithm](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
   - [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
   - [Inclusion-Exclusion Principle - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-7.md)
 
