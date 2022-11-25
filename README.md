@@ -174,7 +174,7 @@ Register accounts on Online Judges:
   | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
   | **NBKOJ** | [bfsumquery2d](https://nbk.homes/problem/bfsumquery2d) | *Prefix Sum 2D*           |
   | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
-  | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Binary Search, Prefix Sum 2D* |
+  | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Prefix Sum 2D, Binary Search* |
 
 ### Lesson 6 (??.??)
 
@@ -225,7 +225,7 @@ Register accounts on Online Judges:
 
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [cntdiv](https://nbk.homes/problem/cntdiv)       | *Number Theory, Sieve, Prime Factorization* |
+  | **NBKOJ** | [cntdiv](https://nbk.homes/problem/cntdiv)       | *Sieve, Prime Factorization* |
   | **NBKOJ** | [commondiv](https://nbk.homes/problem/commondiv) | *Sieve*                         |
   | **NBKOJ** | [qn20natdiv](https://nbk.homes/problem/qn20natdiv) | *Sieve, Prefix Sum*           |
   | **VNOJ**  | [dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) | *Sieve, Prefix Sum* |
@@ -258,8 +258,8 @@ Register accounts on Online Judges:
   | **Codeforces** | [Row GCD](https://codeforces.com/problemset/problem/1458/A) | *Number Theory* |
   | **Codeforces** | [Same GCDs](https://codeforces.com/gym/361217/problem/D) | *Number Theory*    |
   | **NBKOJ** | [bfgcd](https://nbk.homes/problem/bfgcd)         | *Number Theory, Prime Factorization, Data Structures* |
-  | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | *Number Theory, Data Structures, Probabilities* |
-  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Interactive, Graphs, Probabilities* |
+  | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | *Probabilities, Number Theory, Data Structures* |
+  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Probabilities, Interactive, Graphs* |
 
 
 ### Lesson 9 (??.??)
@@ -286,9 +286,9 @@ Register accounts on Online Judges:
   | **NBKOJ** | [bfpea](https://nbk.homes/problem/bfpea)         | *Combinatorics, Modular Inverse*|
   | **NBKOJ** | [bfextreme](https://nbk.homes/problem/bfextreme) | *Combinatorics*                 |
   | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | *Combinatorics, Modular Inverse* |
-  | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Sieve, Combinatorics*        |
-  | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Sieve, Combinatorics*        |
-  | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D, Combinatorics*|
+  | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Combinatorics, Sieve*        |
+  | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Combinatorics, Sieve*        |
+  | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Combinatorics, Prefix Sum 2D*|
   | **VNOJ**  | [raygun](https://oj.vnoi.info/problem/raygun)    | *Combinatorics, Number Theory*  |
 
 ### Lesson 10 (??.??)
@@ -319,6 +319,6 @@ Register accounts on Online Judges:
   | **VNOJ**  | [nkpalin](https://oj.vnoi.info/problem/nkpalin)  | *DP, Tracing*                   |
   | **NBKOJ** | [bfprincess](https://nbk.homes/problem/bfprincess) | *DP*                          |
   | **VNOJ**  | [lis](https://oj.vnoi.info/problem/lis)          | *DP, Binary Search, Data Structures* |
-  | **VNOJ**  | [binpack](https://oj.vnoi.info/problem/binpack)  | *Brute-force, Greedy, DP*       |
+  | **VNOJ**  | [binpack](https://oj.vnoi.info/problem/binpack)  | *DP, Brute-force, Greedy*       |
 
   *Recommendation:* [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
