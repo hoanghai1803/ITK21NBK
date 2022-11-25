@@ -199,9 +199,10 @@ Register accounts on Online Judges:
 
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
+  | **Codeforces** | [Math](https://codeforces.com/problemset/problem/1062/B) | *Number Theory*    |
   | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | *Number Theory, Binary Exponentiation* |
   | **NBKOJ** | [nguhanh](https://nbk.homes/problem/nguhanh)     | *Combinatorics, Modular Inverse*|
-  | **NBKOJ** | [sumdivisors](https://nbk.homes/problem/sumdivisors) | *Number Theory* |
+  | **NBKOJ** | [sumdivisors](https://nbk.homes/problem/sumdivisors) | *Number Theory*             |
 
 ### Lesson 7 (??.??)
 
@@ -287,3 +288,32 @@ Register accounts on Online Judges:
   | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Sieve, Combinatorics*        |
   | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Sieve, Combinatorics*        |
   | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Prefix Sum 2D, Combinatorics*|
+
+### Lesson 10 (??.??)
+
+- Concepts:
+
+  - Dynamic Programming (DP) Overview.
+  - Tracing.
+  - Some Basic Techniques: Memory Optimizization, Swap Labels.
+
+- Resources:
+
+  - [About Dynamic Programming](https://vnoi.info/wiki/algo/dp/thac-mac-ve-qhd.md)
+  - [Dynamic Programming: From Novice to Advanced - Topcoder](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced) (or [Vietnamese version](https://vnoi.info/wiki/translate/topcoder/dynamic-programming.md))
+  - [Palindrome DP - VNOI Wiki](https://vnoi.info/wiki/algo/dp/palindrome-problems.md)
+  - [Some Basic DP Problems - VNOI Wiki](https://vnoi.info/wiki/algo/dp/basic-problems.md)
+  - [Some Optimization Techniques - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
+  - [Introduction to DP - USACO](https://usaco.guide/gold/intro-dp?lang=cpp)
+  - [Knapsack DP - USACO](https://usaco.guide/gold/knapsack?lang=cpp)
+  - [Path on Grids](https://usaco.guide/gold/paths-grids?lang=cpp)
+  - [Longest Increasing Subsequence](https://usaco.guide/gold/lis?lang=cpp)
+  - **Essential Note:** [DP Tutorial and Problem List](https://codeforces.com/blog/entry/67679)
+
+- Practice Problems:
+  
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **VNOJ**  | [nkpalin](https://oj.vnoi.info/problem/nkpalin)  | *DP, Tracing*                   |
+  | **NBKOJ** | [bfprincess](https://nbk.homes/problem/bfprincess) | *DP*                          |
+  | **VNOJ**  | [binpack](https://oj.vnoi.info/problem/binpack)  | *Brute-force, Greedy, DP*       |
