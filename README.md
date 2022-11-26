@@ -194,6 +194,8 @@ Register accounts on Online Judges:
   - [Binary Exponentiation - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-3.md)
   - [Modular Multiplicative Inverse - CP-Algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
   - [Modular Inverse - VNOI Wiki](https://vnoi.info/wiki/algo/math/modular-inverse.md)
+  - [Arithmetic Progression - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_progression)
+  - [Geometric Progression - Wikipedia](https://en.wikipedia.org/wiki/Geometric_progression)
 
 - Practice Problems:
 
@@ -202,6 +204,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Math](https://codeforces.com/problemset/problem/1062/B) | *Number Theory*    |
   | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | *Number Theory, Binary Exponentiation* |
   | **NBKOJ** | [nguhanh](https://nbk.homes/problem/nguhanh)     | *Combinatorics, Modular Inverse*|
+  | **NBKOJ** | [goodarr](https://nbk.homes/problem/goodarr)     | *Number Theory*                 |
   | **NBKOJ** | [sumdivisors](https://nbk.homes/problem/sumdivisors) | *Number Theory*             |
 
 ### Lesson 7 (??.??)
@@ -244,8 +247,6 @@ Register accounts on Online Judges:
 
 - Resources:
 
-  - [Arithmetic Progression - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_progression)
-  - [Geometric Progression - Wikipedia](https://en.wikipedia.org/wiki/Geometric_progression)
   - [Euler's Totient Function - CP-Algorithms](https://cp-algorithms.com/algebra/phi-function.html)
   - [GCD & LCM - GeeksforGeeks](https://www.geeksforgeeks.org/mathematical-algorithms/mathematical-algorithms-gcd-lcm/)
   - [Probabilities - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-6.md)
@@ -254,9 +255,9 @@ Register accounts on Online Judges:
 
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [goodarr](https://nbk.homes/problem/goodarr)     | *Number Theory*                 |
   | **Codeforces** | [Row GCD](https://codeforces.com/problemset/problem/1458/A) | *Number Theory* |
   | **Codeforces** | [Same GCDs](https://codeforces.com/gym/361217/problem/D) | *Number Theory*    |
+  | **Hackerrank** | [The Chosen One](https://www.hackerrank.com/challenges/the-chosen-one/problem?isFullScreen=true) | *Number Theory, Prefix Sum* |
   | **NBKOJ** | [bfgcd](https://nbk.homes/problem/bfgcd)         | *Number Theory, Prime Factorization, Data Structures* |
   | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | *Probabilities, Number Theory, Data Structures* |
   | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Probabilities, Interactive, Graphs* |
