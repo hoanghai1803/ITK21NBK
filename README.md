@@ -184,6 +184,7 @@ Register accounts on Online Judges:
   - Fermat's Little Theorem.
   - Binary Exponentiation.
   - Modular Inverse.
+  - Arithmetic Progression and Geometric Progression.
 
 - Resources:
 
@@ -240,7 +241,6 @@ Register accounts on Online Judges:
 
 - Concepts:
 
-  - Arithmetic Progression and Geometric Progression.
   - Greatest Common Divisors (GCD) and Least Common Multiples (LCM) - Euclidean Algorithm.
   - Euler's Totient Function.
   - Randomized Algorithms (Probabilities).
