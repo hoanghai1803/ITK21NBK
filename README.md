@@ -445,7 +445,7 @@ Register accounts on Online Judges:
   - [Fenwick Tree - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/fenwick.md)
   - [Efficient and Easy Segment Trees - Codeforces Blog](http://codeforces.com/blog/entry/18051) (or [Vietnamese version](https://vnoi.info/wiki/translate/codeforces/Efficient-and-easy-segment-trees.md))
   - [Point Update Range Sum - USACO](https://usaco.guide/gold/PURS?lang=cpp)
-  - - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
+  - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
 
 - Practice Problems:
 
