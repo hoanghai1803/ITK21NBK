@@ -321,10 +321,7 @@ Register accounts on Online Judges:
   - [Some Basic DP Problems - VNOI Wiki](https://vnoi.info/wiki/algo/dp/basic-problems.md)
   - [Some Optimization Techniques - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
   - [Introduction to DP - USACO](https://usaco.guide/gold/intro-dp?lang=cpp)
-  - [Knapsack DP - USACO](https://usaco.guide/gold/knapsack?lang=cpp)
-  - [Path on Grids - USACO](https://usaco.guide/gold/paths-grids?lang=cpp)
   - [Longest Increasing Subsequence - USACO](https://usaco.guide/gold/lis?lang=cpp)
-  - **Essential Note:** [DP Tutorial and Problem List - CF Blogs](https://codeforces.com/blog/entry/67679)
 
 - Practice Problems:
   
@@ -336,3 +333,22 @@ Register accounts on Online Judges:
   | **VNOJ**  | [binpack](https://oj.vnoi.info/problem/binpack)  | *DP, Brute-force, Greedy*       |
 
   *Recommendation:* [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
+
+### Lesson 12 (??.??)
+
+- Concepts:
+
+  - Practice: Dynamic Programming 
+
+- Resources:
+
+  - [Knapsack DP - USACO](https://usaco.guide/gold/knapsack?lang=cpp)
+  - [Path on Grids - USACO](https://usaco.guide/gold/paths-grids?lang=cpp)
+  - **Essential Note:** [DP Tutorial and Problem List - CF Blogs](https://codeforces.com/blog/entry/67679)
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **VNOJ**  | [qbmarket](https://oj.vnoi.info/problem/qbmarket)| *DP*                            |
+  | **VNOJ**  | [stmerge](https://oj.vnoi.info/problem/stmerge)  | *DP*                            |
+  | **NBKOJ** | [qn21altstr](https://nbk.homes/problem/qn21altstr) | *DP, Data Structures*         |
+  | **NBKOJ** | [knapsack](https://nbk.homes/problem/knapsack)   | *DP*                            |
