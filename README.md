@@ -267,16 +267,13 @@ Register accounts on Online Judges:
 
 - Concepts:
 
-  - Basic of Combinatorics.
-  - Inclusion-Exclusion Principle.
+  - Basic of Combinatorics: Some basic counting problems.
 
 - Resources:
 
   - [Combinations and Permutations - Math is Fun](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
   - [Basic of Combinatorics - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-5.md)
   - [Binomial Coefficients - CP-Algorithm](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
-  - [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
-  - [Inclusion-Exclusion Principle - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-7.md)
 
 - Practice Problems:
 
@@ -286,13 +283,29 @@ Register accounts on Online Judges:
   | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | *Combinatorics, Modular Inverse*|
   | **NBKOJ** | [bfpea](https://nbk.homes/problem/bfpea)         | *Combinatorics, Modular Inverse*|
   | **NBKOJ** | [bfextreme](https://nbk.homes/problem/bfextreme) | *Combinatorics*                 |
+  | **Codeforces** | [Benches](https://codeforces.com/problemset/problem/630/H) | *Combinatorics*  |
   | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | *Combinatorics, Modular Inverse* |
+
+### Lesson 10 (??.??)
+
+- Concepts:
+
+  - Combinatorics (continued): Inclusion-Exclusion Principle.
+
+- Resources:
+
+  - [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+  - [Inclusion-Exclusion Principle - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-7.md)
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
   | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Combinatorics, Sieve*        |
   | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Combinatorics, Sieve*        |
   | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Combinatorics, Prefix Sum 2D*|
   | **VNOJ**  | [raygun](https://oj.vnoi.info/problem/raygun)    | *Combinatorics, Number Theory*  |
-
-### Lesson 10 (??.??)
+### Lesson 11 (??.??)
 
 - Concepts:
 
