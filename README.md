@@ -332,7 +332,7 @@ Register accounts on Online Judges:
   | **VNOJ**  | [lis](https://oj.vnoi.info/problem/lis)          | *DP, Binary Search, Data Structures* |
   | **VNOJ**  | [binpack](https://oj.vnoi.info/problem/binpack)  | *DP, Brute-force, Greedy*       |
 
-  *Recommendation:* [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
+  ***Recommendation:*** [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
 
 ### Lesson 12 (??.??)
 
@@ -397,7 +397,8 @@ Register accounts on Online Judges:
 
   - [Minimum Queue - CP-Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
   - [Deque - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/Deque)
-  - [Deque and Finding the Mnimum / Maximum for All Subarrays of Fixed Length - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/deque-min-max.md)
+  - [Deque and Sliding Window Problems - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/deque-min-max.md)
+  - [Sliding Window - USACO Guide](https://usaco.guide/gold/sliding-window?lang=cpp)
 
 - Practice Problems:
 
@@ -427,3 +428,106 @@ Register accounts on Online Judges:
   | **VNOJ**  | [qbheap](https://oj.vnoi.info/problem/qbheap)    | *Data Structures, Greedy*       |
   | **VNOJ**  | [kmin](https://oj.vnoi.info/problem/kmin)        | *Data Structures, Greedy*       |
   | **Codeforces** | [OpenStreetMap](https://codeforces.com/contest/1195/problem/E) | *Data Structures, DP* |
+
+### Lesson 16 (??.??)
+
+- Concepts:
+
+  - Introduction to Segment Tree and Fenwick Tree.
+  - Difference Array.
+
+- Resources:
+
+  - [Segment Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html)
+  - [Fenwick Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/fenwick.html)
+  - [Segment Tree Basic - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-basic.md)
+  - [Segment Tree Extend - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md)
+  - [Fenwick Tree - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/fenwick.md)
+  - [Efficient and Easy Segment Trees - Codeforces Blog](http://codeforces.com/blog/entry/18051) (or [Vietnamese version](https://vnoi.info/wiki/translate/codeforces/Efficient-and-easy-segment-trees.md))
+  - [Point Update Range Sum - USACO](https://usaco.guide/gold/PURS?lang=cpp)
+  - - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **NBKOJ** | [drsq](https://nbk.homes/problem/drsq)           | *Segment Tree, Fenwick Tree*    |
+  | **VNOJ**  | [nkinv](https://oj.vnoi.info/problem/nkinv)      | *Segment Tree, Fenwick Tree*    |
+  | **NBKOJ** | [ruq](https://nbk.homes/problem/ruq)             | *Difference Array, Segment Tree, Fenwick Tree* |
+  | **VNOJ**  | [nkrez](https://oj.vnoi.info/problem/nkrez)      | *Segment Tree, Fenwick Tree, DP*|
+  | **Codeforces** | [Subsequences](https://codeforces.com/contest/597/problem/C) | *Segment Tree, Fenwick Tree, DP* |
+  | **VNOJ**  | [pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4)| *Segment Tree, Fenwick Tree, DP*|
+
+### Lesson 17 (??.??)
+
+- Concepts:
+
+  - Lazy Update (Lazy Propagation) on Segment Tree.
+  - Merge Sort Tree.
+
+- Resources:
+
+  - [Range Update (Lazy Propagation) - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#range-updates-lazy-propagation)
+  - [Lazy Propagation - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#2-lazy-propagation)
+  - [Merge Sort Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#find-the-smallest-number-greater-or-equal-to-a-specified-number-no-modification-queries)
+  - [Merge Sort Tree - Codechef Tutorial](https://discuss.codechef.com/t/merge-sort-tree-tutorial/14277)
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **VNOJ**  | [kquery](https://oj.vnoi.info/problem/KQUERY)    | *Data Structures, Offline Processing, Binary Search*
+  | **NBKOJ** | [lbst](https://nbk.homes/problem/lbst)           | *Segment Tree, Binary Search*   |
+  | **VNOJ**  | [qmax2](https://oj.vnoi.info/problem/qmax2)      | *Segment Tree (Lazy Update)*    |
+  | **VNOJ**  | [lites](https://oj.vnoi.info/problem/lites)      | *Segment Tree (Lazy Update)*    |
+  | **VNOJ**  | [nkbracke](https://oj.vnoi.info/problem/nkbracke)| *Segment Tree (Lazy Update)*    |
+  | **NBKOJ** | [updassign](https://nbk.homes/problem/updassign) | *Segment Tree (Lazy Update)*    |
+  | **NBKOJ** | [polyquery](https://nbk.homes/problem/polyquery) | *Segment Tree (Lazy Update), Math* |
+
+### Lesson 18 (??.??)
+
+- Concepts:
+
+  - Walk on Segment Tree.
+  - Segment Tree combined with other Data Structures.
+  - Segment Tree 2D and Fenwick Tree 2D.
+
+- Resources:
+
+  - [Walk on Segment Tree - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#9-ch%E1%BA%B7t-nh%E1%BB%8B-ph%C3%A2n-tr%C3%AAn-segment-tree)
+  - [Advanced versions of Segment Trees - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#advanced-versions-of-segment-trees)
+  - [Segment Tree: Generalization to higher dimensions - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#generalization-to-higher-dimensions)
+  - [Fenwick Tree: Finding sum in two-dimensional array](https://cp-algorithms.com/data_structures/fenwick.html#finding-sum-in-two-dimensional-array)
+  - [More Applications of Segment Tree - USACO Guide](https://usaco.guide/plat/segtree-ext?lang=cpp)
+  - [2D Range Queries - USACO Guide](https://usaco.guide/plat/2DRQ?lang=cpp)
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **NBKOJ** | [playground](https://nbk.homes/problem/playground) | *Walk on Segment Tree*        |
+  | **NBKOJ** | [bfhorses](https://nbk.homes/problem/bfhorses)   | *Walk on Segment Tree (Lazy Update)* |
+  | **VNOJ**  | [segtree_itds1](https://oj.vnoi.info/problem/segtree_itds1) | *Segment Tree, Data Structures* |
+  | **NBKOJ** | [bfprincess2](https://nbk.homes/problem/bfprincess2) | *Segment Tree 2D, Fenwick Tree 2D* |
+  | **VNOJ**  | [smartdog](https://oj.vnoi.info/problem/smartdog)| *Segment Tree 2D*               |
+
+
+### Lesson 19 (??.??)
+
+- Concepts:
+
+  - Practice: Segment Tree and Fenwick Tree.
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **NBKOJ** | [sumsubarr](https://nbk.homes/problem/sumsubarr) | *Segment Tree*                  |
+  | **Codeforces** | [Sereja and Brackets](https://codeforces.com/contest/380/problem/C) | *Segment Tree* |
+  | **Codeforces** | [Xenia and Bit Operations](https://codeforces.com/contest/339/problem/D) | *Segment Tree* |
+  | **Codeforces** | [Tufurama](https://codeforces.com/contest/961/problem/E) | *Segment Tree, Fenwick Tree* |
+  | **Codeforces** | [Tokitsukaze and Strange Rectangle](https://codeforces.com/contest/1190/problem/D) | *Segment Tree, Fenwick Tree* |
+  | **VNOJ**  | [segtree_itladder](https://oj.vnoi.info/problem/segtree_itladder) | *Segment Tree* |
+  | **VNOJ**  | [bgmine](https://oj.vnoi.info/problem/bgmine)    | *Segment Tree, Fenwick Tree, Prefix Sum* |
+
+  ***Recommendation:*** [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
