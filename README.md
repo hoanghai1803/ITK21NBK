@@ -267,7 +267,7 @@ Register accounts on Online Judges:
 
 - Concepts:
 
-  - Basic of Combinatorics: Some basic counting problems.
+  - Basic of Combinatorics: Counting Problems.
 
 - Resources:
 
@@ -290,7 +290,7 @@ Register accounts on Online Judges:
 
 - Concepts:
 
-  - Combinatorics (continued): Inclusion-Exclusion Principle.
+  - Combinatorics: Inclusion-Exclusion Principle.
 
 - Resources:
 
