@@ -320,8 +320,8 @@ Register accounts on Online Judges:
   - [Palindrome DP - VNOI Wiki](https://vnoi.info/wiki/algo/dp/palindrome-problems.md)
   - [Some Basic DP Problems - VNOI Wiki](https://vnoi.info/wiki/algo/dp/basic-problems.md)
   - [Some Optimization Techniques - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
-  - [Introduction to DP - USACO](https://usaco.guide/gold/intro-dp?lang=cpp)
-  - [Longest Increasing Subsequence - USACO](https://usaco.guide/gold/lis?lang=cpp)
+  - [Introduction to DP - USACO Guide](https://usaco.guide/gold/intro-dp?lang=cpp)
+  - [Longest Increasing Subsequence - USACO Guide](https://usaco.guide/gold/lis?lang=cpp)
 
 - Practice Problems:
   
@@ -338,13 +338,15 @@ Register accounts on Online Judges:
 
 - Concepts:
 
-  - Practice: Dynamic Programming 
+  - Practice: Dynamic Programming.
 
 - Resources:
 
-  - [Knapsack DP - USACO](https://usaco.guide/gold/knapsack?lang=cpp)
-  - [Path on Grids - USACO](https://usaco.guide/gold/paths-grids?lang=cpp)
+  - [Knapsack DP - USACO Guide](https://usaco.guide/gold/knapsack?lang=cpp)
+  - [Path on Grids - USACO Guide](https://usaco.guide/gold/paths-grids?lang=cpp)
   - **Essential Note:** [DP Tutorial and Problem List - CF Blogs](https://codeforces.com/blog/entry/67679)
+
+- Practice Problems:
 
   | OJ        | Name                                             | Categories                      |
   | :---:     | :---:                                            | :----:                          |
@@ -352,3 +354,76 @@ Register accounts on Online Judges:
   | **VNOJ**  | [stmerge](https://oj.vnoi.info/problem/stmerge)  | *DP*                            |
   | **NBKOJ** | [qn21altstr](https://nbk.homes/problem/qn21altstr) | *DP, Data Structures*         |
   | **NBKOJ** | [knapsack](https://nbk.homes/problem/knapsack)   | *DP*                            |
+
+### Lesson 13 (??.??)
+
+- Concepts:
+
+  - Introduction to Data Structures.
+  - Linked List.
+  - Stack.
+
+- Resources:
+
+  - [Introduction to Data Structure - USACO Guide](https://usaco.guide/bronze/intro-ds?lang=cpp)
+  - [Arrays and Linked Lists - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/array-vs-linked-lists.md)
+  - [Linked List Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
+  - [Minimum Stack - CP-Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+  - [Stack - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/Stack.md)
+  - [Stack Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
+
+- Practice Problems
+  
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **VNOJ**  | [nkcard](https://oj.vnoi.info/problem/nkcard)    | *Linked List*                   |
+  | **NBKOJ** | [teammem](https://nbk.homes/problem/teammem)     | *Linked List*                   |
+  | **NBKOJ** | [rmdupl](https://nbk.homes/problem/rmdupl)       | *Stack*                         |
+  | **Hackerrank** | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | *Stack* |
+  | **VNOJ**  | [kplank](https://oj.vnoi.info/problem/kplank)    | *Stack*                         |
+  | **VNOJ**  | [kagain](https://oj.vnoi.info/problem/kagain)    | *Stack*                         |
+  | **Codeforces** | [Catch Overflow!](https://codeforces.com/problemset/problem/1175/B) | *Stack* |
+  | **Codeforces** | [Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B) | *Stack* |
+  | **Codeforces** | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | *Stack, DP*   |
+
+### Lesson 14 (??.??)
+
+- Concepts:
+
+  - Deque.
+  - Practice: Stack.
+
+- Resources:
+
+  - [Minimum Queue - CP-Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+  - [Deque - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/Deque)
+  - [Deque and Finding the Mnimum / Maximum for All Subarrays of Fixed Length - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/deque-min-max.md)
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **VNOJ**  | [mink](https://oj.vnoi.info/problem/mink)        | *Deque*                         |
+  | **VNOJ**  | [ptqmseq](https://oj.vnoi.info/problem/ptqmseq)  | *Deque, Prefix Sum*             |
+  | **VNOJ**  | [kdiff](https://oj.vnoi.info/problem/kdiff)      | *Deque, DP*                     |
+  | **VNOJ**  | [qbrect](https://oj.vnoi.info/problem/qbrect)    | *Stack, DP*                     |
+  | **VNOJ**  | [qbsquare](https://oj.vnoi.info/problem/qbsquare)| *Stack, DP*                     |
+  | **VNOJ**  | [crec01](https://oj.vnoi.info/problem/crec01)    | *Stack, DP*                     |
+  | **VNOJ**  | [crect](https://oj.vnoi.info/problem/crect)      | *Stack, DP, Combinatorics*      |
+
+### Lesson 14 (??.??)
+
+- Concepts:
+
+  - Data Structures Practice.
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **NBKOJ** | [sum4](https://nbk.homes/problem/sum4)           | *Data Structures*               |
+  | **NBKOJ** | [qn18poster](https://nbk.homes/problem/qn18poster) | *Data Structures*             |
+  | **VNOJ**  | [icpc22_mb_h](https://oj.vnoi.info/problem/icpc22_mb_h) | *Data Structures*        |
+  | **VNOJ**  | [qbheap](https://oj.vnoi.info/problem/qbheap)    | *Data Structures, Greedy*       |
+  | **VNOJ**  | [kmin](https://oj.vnoi.info/problem/kmin)        | *Data Structures, Greedy*       |
+  | **Codeforces** | [OpenStreetMap](https://codeforces.com/contest/1195/problem/E) | *Data Structures, DP* |
