@@ -411,7 +411,7 @@ Register accounts on Online Judges:
   | **VNOJ**  | [crec01](https://oj.vnoi.info/problem/crec01)    | *Stack, DP*                     |
   | **VNOJ**  | [crect](https://oj.vnoi.info/problem/crect)      | *Stack, DP, Combinatorics*      |
 
-### Lesson 14 (??.??)
+### Lesson 15 (??.??)
 
 - Concepts:
 
