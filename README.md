@@ -531,3 +531,34 @@ Register accounts on Online Judges:
   | **VNOJ**  | [bgmine](https://oj.vnoi.info/problem/bgmine)    | *Segment Tree, Fenwick Tree, Prefix Sum* |
 
   ***Recommendation:*** [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
+
+### Lesson 20 (??.??)
+
+- Concepts:
+
+  - Graph Theory Overview.
+  - Graph Traversal: Breadth First Search (BFS) and Depth First Search (DFS).
+  - Advanced DFS: Compute Color (to detect cycle) and the Entry & Exit Times.
+  - Advanced BFS: 0-1 BFS and Multi-source BFS.
+
+- Resources:
+
+  - [Algorithms Course - Graph Theory Tutorial - freeCodeCamp.org](https://youtu.be/09_LlHjoEiY)
+  - [Breadth First Search - CP-Algorithms](https://cp-algorithms.com/graph/breadth-first-search.html)
+  - [Breadth First Search - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/breadth-first-search.md)
+  - [Breadth First Search - USACO Guide](https://usaco.guide/gold/bfs?lang=cpp)
+  - [0-1 BFS - CP-Algorithms](https://cp-algorithms.com/graph/01_bfs.html)
+  - [Depth First Search - CP-Algorithms](https://cp-algorithms.com/graph/depth-first-search.html)
+  - [Depth First Search - USACO Guide](https://usaco.guide/silver/dfs?lang=cpp)
+
+- Practice Problems:
+
+  | OJ        | Name                                             | Categories                      |
+  | :---:     | :---:                                            | :----:                          |
+  | **VNOJ**  | [ads](https://oj.vnoi.info/problem/ads)          | *Graph Traversal*               |
+  | **NBKOJ** | [sumsubtree](https://nbk.homes/problem/sumsubtree) | *DFS, Data Structures*        |
+  | **VNOJ**  | [qbbishop](https://oj.vnoi.info/problem/qbbishop) | *BFS, DP*                      |
+  | **VNOJ**  | [robocon](https://oj.vnoi.info/problem/robocon)  | *BFS*                           |
+  | **Codeforces** | [Labyrinth](https://codeforces.com/contest/1063/problem/B) | *0-1 BFS*        |
+  | **VNOJ**  | [voi18specone](https://oj.vnoi.info/problem/voi18specone) | *Multi-source BFS*     |
+  | **VNOJ**  | [qbciarc](https://oj.vnoi.info/problem/qbcirarc) | *DFS Color*                     |
