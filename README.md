@@ -315,7 +315,7 @@ Register accounts on Online Judges:
 
   - Dynamic Programming (DP) Overview.
   - Tracing.
-  - Some Basic Techniques: Memory Optimizization, Swap Labels.
+  - Some Basic Techniques: Memory Optimization, Swap Labels.
 
 - Resources:
 
@@ -568,7 +568,7 @@ Register accounts on Online Judges:
 - Concepts:
 
   - Graph Traversal: Depth First Search (DFS).
-  - Advanced DFS: Assign Colors (to detect cycle) and Compute the Entry & Exit Times.
+  - Advanced DFS: Assign Colors (to Detect Cycles) and Compute the Entry & Exit Times.
 
 - Resources:
 
