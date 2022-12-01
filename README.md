@@ -59,15 +59,15 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [hntower](https://nbk.homes/problem/hntower)     | *Recursion*                     |
-  | **NBKOJ** | [bfknight](https://nbk.homes/problem/bfknight)   | *Recursion, Backtracking*       |
-  | **NBKOJ** | [gridpaths](https://nbk.homes/problem/gridpaths) | *Backtracking & Branch-N-Bound* |
-  | **NBKOJ** | [bfgene](https://nbk.homes/problem/bfgene)       | *Brute-force, Data Structures*  |
-  | **VNOJ**  | [heap1](https://oj.vnoi.info/problem/heap1)      | *Greedy, Data Structures*       |
-  | **VNOJ**  | [car](https://oj.vnoi.info/problem/car)          | *Greedy*                        |
-  | **VNOJ**  | [bedao_g07_resort](https://oj.vnoi.info/problem/bedao_g07_resort) | *Greedy*       |
+  |    OJ     |                               Name                                |           Categories            |
+  | :-------: | :---------------------------------------------------------------: | :-----------------------------: |
+  | **NBKOJ** |           [hntower](https://nbk.homes/problem/hntower)            |           *Recursion*           |
+  | **NBKOJ** |          [bfknight](https://nbk.homes/problem/bfknight)           |    *Recursion, Backtracking*    |
+  | **NBKOJ** |         [gridpaths](https://nbk.homes/problem/gridpaths)          | *Backtracking & Branch-N-Bound* |
+  | **NBKOJ** |            [bfgene](https://nbk.homes/problem/bfgene)             | *Brute-force, Data Structures*  |
+  | **VNOJ**  |            [heap1](https://oj.vnoi.info/problem/heap1)            |    *Greedy, Data Structures*    |
+  | **VNOJ**  |              [car](https://oj.vnoi.info/problem/car)              |            *Greedy*             |
+  | **VNOJ**  | [bedao_g07_resort](https://oj.vnoi.info/problem/bedao_g07_resort) |            *Greedy*             |
 
 ### Lesson 2 (13.11)
 
@@ -85,16 +85,16 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **VNOJ**  | [nksgame](https://oj.vnoi.info/problem/nksgame)  | *Binary Search, Two Pointers*   |
-  | **VNOJ**  | [ndccard](https://oj.vnoi.info/problem/ndccard)  | *Two Pointers*                  |
-  | **LQDOJ** | [bosotg](https://lqdoj.edu.vn/problem/1819bosotg)| *Binary Search, Two Pointers*   |
-  | **VNOJ**  | [twosum](https://oj.vnoi.info/problem/twosum)    | *Two Pointers*                  |
-  | **NBKOJ** | [minroad](https://nbk.homes/problem/voi14minroad)| *Binary Search, Two Pointers*   |
-  | **VNOJ**  | [sopenp](https://oj.vnoi.info/problem/sopenp)    | *Two Pointers, Data Structures* |
-  | **NBKOJ** | [qn21dance](https://nbk.homes/problem/qn21dance) | *Two Pointers*                  |
-  | **VNOJ**  | [vmquabeo](https://oj.vnoi.info/problem/vmquabeo)| *Two Pointers, Data Structures* |
+  |    OJ     |                       Name                        |           Categories            |
+  | :-------: | :-----------------------------------------------: | :-----------------------------: |
+  | **VNOJ**  |  [nksgame](https://oj.vnoi.info/problem/nksgame)  |  *Binary Search, Two Pointers*  |
+  | **VNOJ**  |  [ndccard](https://oj.vnoi.info/problem/ndccard)  |         *Two Pointers*          |
+  | **LQDOJ** | [bosotg](https://lqdoj.edu.vn/problem/1819bosotg) |  *Binary Search, Two Pointers*  |
+  | **VNOJ**  |   [twosum](https://oj.vnoi.info/problem/twosum)   |         *Two Pointers*          |
+  | **NBKOJ** | [minroad](https://nbk.homes/problem/voi14minroad) |  *Binary Search, Two Pointers*  |
+  | **VNOJ**  |   [sopenp](https://oj.vnoi.info/problem/sopenp)   | *Two Pointers, Data Structures* |
+  | **NBKOJ** | [qn21dance](https://nbk.homes/problem/qn21dance)  |         *Two Pointers*          |
+  | **VNOJ**  | [vmquabeo](https://oj.vnoi.info/problem/vmquabeo) | *Two Pointers, Data Structures* |
 
 ### Lesson 3 (16.11)
 
@@ -110,18 +110,18 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [socdist](https://nbk.homes/problem/socdist)     | *Binary Search, Greedy*         |
-  | **NBKOJ** | [countpots](https://nbk.homes/problem/countpots) | *Binary Search, Math*           |
-  | **NBKOJ** | [buycard](https://nbk.homes/problem/buycard)     | *Binary Search*                 |
-  | **VNOJ**  | [c11cave](https://oj.vnoi.info/problem/c11cave)  | *Binary Search*                 |
-  | **VNOJ**  | [predhbb21_meteor](https://oj.vnoi.info/problem/predhbb21_meteor) | *Binary Search, Geometry, Algebra* |
-  | **NBKOJ** | [mtwalk](https://nbk.homes/problem/mtwalk)       | *Binary Search, Graph Traversal*|
-  | **NBKOJ** | [bfwall](https://nbk.homes/problem/bfwall)       | *Ternary Search, Binary Search* |
-  | **Codeforces** | [Weakness and Poorness](https://codeforces.com/problemset/problem/578/C) | *Ternary Search, Binary Search* |
-  | **LQDOJ** | [surebet](https://lqdoj.edu.vn/problem/surebet)  | *Ternary Search, Binary Search, Two Pointers* |
-  | **KATTIS**| [europeantrip](https://open.kattis.com/contests/vietnam-national17-open/problems/europeantrip) | *Ternary Search, Geometry* |
+  |       OJ       |                                              Name                                              |                  Categories                   |
+  | :------------: | :--------------------------------------------------------------------------------------------: | :-------------------------------------------: |
+  |   **NBKOJ**    |                          [socdist](https://nbk.homes/problem/socdist)                          |            *Binary Search, Greedy*            |
+  |   **NBKOJ**    |                        [countpots](https://nbk.homes/problem/countpots)                        |             *Binary Search, Math*             |
+  |   **NBKOJ**    |                          [buycard](https://nbk.homes/problem/buycard)                          |                *Binary Search*                |
+  |    **VNOJ**    |                        [c11cave](https://oj.vnoi.info/problem/c11cave)                         |                *Binary Search*                |
+  |    **VNOJ**    |               [predhbb21_meteor](https://oj.vnoi.info/problem/predhbb21_meteor)                |      *Binary Search, Geometry, Algebra*       |
+  |   **NBKOJ**    |                           [mtwalk](https://nbk.homes/problem/mtwalk)                           |       *Binary Search, Graph Traversal*        |
+  |   **NBKOJ**    |                           [bfwall](https://nbk.homes/problem/bfwall)                           |        *Ternary Search, Binary Search*        |
+  | **Codeforces** |            [Weakness and Poorness](https://codeforces.com/problemset/problem/578/C)            |        *Ternary Search, Binary Search*        |
+  |   **LQDOJ**    |                        [surebet](https://lqdoj.edu.vn/problem/surebet)                         | *Ternary Search, Binary Search, Two Pointers* |
+  |   **KATTIS**   | [europeantrip](https://open.kattis.com/contests/vietnam-national17-open/problems/europeantrip) |          *Ternary Search, Geometry*           |
 
 ### Lesson 4 (24.11)
 
@@ -141,14 +141,14 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                            |
-  | :---:     | :---:                                            | :----:                                |
-  | **SPOJ**  | [meteors](https://www.spoj.com/problems/METEORS/)| *Parallel Binary Search, Data Structures* |
-  | **VNOJ**  | [icpc22_mt_d](https://oj.vnoi.info/problem/icpc22_mt_d) | *Parallel Binary Search, Data Structures* |
-  | **VNOJ**  | [vector](https://oj.vnoi.info/problem/vector)    | *Meet-in-the-middle, Data Structures* |
-  | **VNOJ**  | [lqddiv](https://oj.vnoi.info/problem/lqddiv)    | *Meet-in-the-middle, Two Pointers*    |
-  | **VNOJ**  | [dttui1](https://oj.vnoi.info/problem/dttui1)    | *Meet-in-the-middle, Two Pointers*    |
-  | **VNOJ**  | [dgold](https://oj.vnoi.info/problem/dgold)      | *Meet-in-the-middle, Two Pointers, Data Structures* |
+  |    OJ    |                          Name                           |                     Categories                      |
+  | :------: | :-----------------------------------------------------: | :-------------------------------------------------: |
+  | **SPOJ** |    [meteors](https://www.spoj.com/problems/METEORS/)    |      *Parallel Binary Search, Data Structures*      |
+  | **VNOJ** | [icpc22_mt_d](https://oj.vnoi.info/problem/icpc22_mt_d) |      *Parallel Binary Search, Data Structures*      |
+  | **VNOJ** |      [vector](https://oj.vnoi.info/problem/vector)      |        *Meet-in-the-middle, Data Structures*        |
+  | **VNOJ** |      [lqddiv](https://oj.vnoi.info/problem/lqddiv)      |         *Meet-in-the-middle, Two Pointers*          |
+  | **VNOJ** |      [dttui1](https://oj.vnoi.info/problem/dttui1)      |         *Meet-in-the-middle, Two Pointers*          |
+  | **VNOJ** |       [dgold](https://oj.vnoi.info/problem/dgold)       | *Meet-in-the-middle, Two Pointers, Data Structures* |
 
 ### Lesson 5 (26.11)
 
@@ -166,15 +166,15 @@ Register accounts on Online Judges:
 
 - Practice problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [bfsumquery](https://nbk.homes/problem/bfsumquery) | *Prefix Sum*                    |
-  | **VNOJ**  | [nkseq](https://oj.vnoi.info/problem/nkseq)      | *Prefix Sum*                    |
-  | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)    | *Prefix Sum 2D*                 |
-  | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)    | *Prefix Sum 3D*                 |
-  | **NBKOJ** | [bfsumquery2d](https://nbk.homes/problem/bfsumquery2d) | *Prefix Sum 2D*           |
-  | **NBKOJ** | [plants](https://nbk.homes/problem/plants)       | *Prefix Sum 2D*                 |
-  | **NBKOJ** | [voi15mincut](https://nbk.homes/problem/voi15mincut) | *Prefix Sum 2D, Binary Search* |
+  |    OJ     |                          Name                          |           Categories           |
+  | :-------: | :----------------------------------------------------: | :----------------------------: |
+  | **NBKOJ** |   [bfsumquery](https://nbk.homes/problem/bfsumquery)   |          *Prefix Sum*          |
+  | **VNOJ**  |      [nkseq](https://oj.vnoi.info/problem/nkseq)       |          *Prefix Sum*          |
+  | **VNOJ**  |     [vboard](https://oj.vnoi.info/problem/vboard)      |        *Prefix Sum 2D*         |
+  | **VNOJ**  |     [maxcub](https://oj.vnoi.info/problem/maxcub)      |        *Prefix Sum 3D*         |
+  | **NBKOJ** | [bfsumquery2d](https://nbk.homes/problem/bfsumquery2d) |        *Prefix Sum 2D*         |
+  | **NBKOJ** |       [plants](https://nbk.homes/problem/plants)       |        *Prefix Sum 2D*         |
+  | **NBKOJ** |  [voi15mincut](https://nbk.homes/problem/voi15mincut)  | *Prefix Sum 2D, Binary Search* |
 
 ### Lesson 6 (??.??)
 
@@ -200,13 +200,13 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **Codeforces** | [Math](https://codeforces.com/problemset/problem/1062/B) | *Number Theory*    |
-  | **NBKOJ** | [exp](https://nbk.homes/problem/exp)             | *Number Theory, Binary Exponentiation* |
-  | **NBKOJ** | [nguhanh](https://nbk.homes/problem/nguhanh)     | *Combinatorics, Modular Inverse*|
-  | **NBKOJ** | [goodarr](https://nbk.homes/problem/goodarr)     | *Number Theory*                 |
-  | **NBKOJ** | [sumdivisors](https://nbk.homes/problem/sumdivisors) | *Number Theory*             |
+  |       OJ       |                           Name                           |               Categories               |
+  | :------------: | :------------------------------------------------------: | :------------------------------------: |
+  | **Codeforces** | [Math](https://codeforces.com/problemset/problem/1062/B) |            *Number Theory*             |
+  |   **NBKOJ**    |           [exp](https://nbk.homes/problem/exp)           | *Number Theory, Binary Exponentiation* |
+  |   **NBKOJ**    |       [nguhanh](https://nbk.homes/problem/nguhanh)       |    *Combinatorics, Modular Inverse*    |
+  |   **NBKOJ**    |       [goodarr](https://nbk.homes/problem/goodarr)       |            *Number Theory*             |
+  |   **NBKOJ**    |   [sumdivisors](https://nbk.homes/problem/sumdivisors)   |            *Number Theory*             |
 
 ### Lesson 7 (??.??)
 
@@ -227,15 +227,15 @@ Register accounts on Online Judges:
 
 - Practice Problems
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [cntdiv](https://nbk.homes/problem/cntdiv)       | *Sieve, Prime Factorization* |
-  | **NBKOJ** | [commondiv](https://nbk.homes/problem/commondiv) | *Sieve*                         |
-  | **NBKOJ** | [qn20natdiv](https://nbk.homes/problem/qn20natdiv) | *Sieve, Prefix Sum*           |
-  | **VNOJ**  | [dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) | *Sieve, Prefix Sum* |
-  | **LQDOJ** | [primecount](https://lqdoj.edu.vn/problem/primecount) | *Sieve*                    |
-  | **VNOJ**  | [ctnown](https://oj.vnoi.info/problem/ctnown) | *Sieve, Dynamic Programming* |
-  | **NBKOJ** | [bddivan](https://nbk.homes/problem/bddivan)     | *Dynamic Programming, Binary Exponentiation, Modular Inverse* |
+  |    OJ     |                              Name                               |                          Categories                           |
+  | :-------: | :-------------------------------------------------------------: | :-----------------------------------------------------------: |
+  | **NBKOJ** |           [cntdiv](https://nbk.homes/problem/cntdiv)            |                 *Sieve, Prime Factorization*                  |
+  | **NBKOJ** |        [commondiv](https://nbk.homes/problem/commondiv)         |                            *Sieve*                            |
+  | **NBKOJ** |       [qn20natdiv](https://nbk.homes/problem/qn20natdiv)        |                      *Sieve, Prefix Sum*                      |
+  | **VNOJ**  | [dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) |                      *Sieve, Prefix Sum*                      |
+  | **LQDOJ** |      [primecount](https://lqdoj.edu.vn/problem/primecount)      |                            *Sieve*                            |
+  | **VNOJ**  |          [ctnown](https://oj.vnoi.info/problem/ctnown)          |                 *Sieve, Dynamic Programming*                  |
+  | **NBKOJ** |          [bddivan](https://nbk.homes/problem/bddivan)           | *Dynamic Programming, Binary Exponentiation, Modular Inverse* |
 
 ### Lesson 8 (??.??)
 
@@ -253,14 +253,14 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **Codeforces** | [Row GCD](https://codeforces.com/problemset/problem/1458/A) | *Number Theory* |
-  | **Codeforces** | [Same GCDs](https://codeforces.com/gym/361217/problem/D) | *Number Theory*    |
-  | **Hackerrank** | [The Chosen One](https://www.hackerrank.com/challenges/the-chosen-one/problem?isFullScreen=true) | *Number Theory, Prefix Sum* |
-  | **NBKOJ** | [bfgcd](https://nbk.homes/problem/bfgcd)         | *Number Theory, Prime Factorization, Data Structures* |
-  | **NBKOJ** | [cwdsquare](https://nbk.homes/problem/cwdsquare) | *Probabilities, Number Theory, Data Structures* |
-  | **VNOJ**  | [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d) | *Probabilities, Interactive, Graphs* |
+  |       OJ       |                                               Name                                               |                      Categories                       |
+  | :------------: | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
+  | **Codeforces** |                   [Row GCD](https://codeforces.com/problemset/problem/1458/A)                    |                    *Number Theory*                    |
+  | **Codeforces** |                     [Same GCDs](https://codeforces.com/gym/361217/problem/D)                     |                    *Number Theory*                    |
+  | **Hackerrank** | [The Chosen One](https://www.hackerrank.com/challenges/the-chosen-one/problem?isFullScreen=true) |              *Number Theory, Prefix Sum*              |
+  |   **NBKOJ**    |                             [bfgcd](https://nbk.homes/problem/bfgcd)                             | *Number Theory, Prime Factorization, Data Structures* |
+  |   **NBKOJ**    |                         [cwdsquare](https://nbk.homes/problem/cwdsquare)                         |    *Probabilities, Number Theory, Data Structures*    |
+  |    **VNOJ**    |               [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d)                |         *Probabilities, Interactive, Graphs*          |
 
 
 ### Lesson 9 (??.??)
@@ -277,13 +277,13 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [bfcomb](https://nbk.homes/problem/bfcomb)       | *Combinatorics, Modular Inverse*|
-  | **NBKOJ** | [bfpermstr](https://nbk.homes/problem/bfpermstr) | *Combinatorics, Modular Inverse*|
-  | **NBKOJ** | [bfpea](https://nbk.homes/problem/bfpea)         | *Combinatorics, Modular Inverse*|
-  | **NBKOJ** | [bfextreme](https://nbk.homes/problem/bfextreme) | *Combinatorics*                 |
-  | **Codeforces** | [Benches](https://codeforces.com/problemset/problem/630/H) | *Combinatorics*  |
+  |       OJ       |                             Name                              |            Categories            |
+  | :------------: | :-----------------------------------------------------------: | :------------------------------: |
+  |   **NBKOJ**    |          [bfcomb](https://nbk.homes/problem/bfcomb)           | *Combinatorics, Modular Inverse* |
+  |   **NBKOJ**    |       [bfpermstr](https://nbk.homes/problem/bfpermstr)        | *Combinatorics, Modular Inverse* |
+  |   **NBKOJ**    |           [bfpea](https://nbk.homes/problem/bfpea)            | *Combinatorics, Modular Inverse* |
+  |   **NBKOJ**    |       [bfextreme](https://nbk.homes/problem/bfextreme)        |         *Combinatorics*          |
+  | **Codeforces** |  [Benches](https://codeforces.com/problemset/problem/630/H)   |         *Combinatorics*          |
   | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | *Combinatorics, Modular Inverse* |
 
 ### Lesson 10 (??.??)
@@ -299,12 +299,12 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) | *Combinatorics, Sieve*        |
-  | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) | *Combinatorics, Sieve*        |
-  | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Combinatorics, Prefix Sum 2D*|
-  | **VNOJ**  | [raygun](https://oj.vnoi.info/problem/raygun)    | *Combinatorics, Number Theory*  |
+  |    OJ     |                        Name                        |           Categories           |
+  | :-------: | :------------------------------------------------: | :----------------------------: |
+  | **NBKOJ** | [coprimearr](https://nbk.homes/problem/coprimearr) |     *Combinatorics, Sieve*     |
+  | **NBKOJ** | [bfprimediv](https://nbk.homes/problem/bfprimediv) |     *Combinatorics, Sieve*     |
+  | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | *Combinatorics, Prefix Sum 2D* |
+  | **VNOJ**  |   [raygun](https://oj.vnoi.info/problem/raygun)    | *Combinatorics, Number Theory* |
 ### Lesson 11 (??.??)
 
 - Concepts:
@@ -325,12 +325,12 @@ Register accounts on Online Judges:
 
 - Practice Problems:
   
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **VNOJ**  | [nkpalin](https://oj.vnoi.info/problem/nkpalin)  | *DP, Tracing*                   |
-  | **NBKOJ** | [bfprincess](https://nbk.homes/problem/bfprincess) | *DP*                          |
-  | **VNOJ**  | [lis](https://oj.vnoi.info/problem/lis)          | *DP, Binary Search, Data Structures* |
-  | **VNOJ**  | [binpack](https://oj.vnoi.info/problem/binpack)  | *DP, Brute-force, Greedy*       |
+  |    OJ     |                        Name                        |              Categories              |
+  | :-------: | :------------------------------------------------: | :----------------------------------: |
+  | **VNOJ**  |  [nkpalin](https://oj.vnoi.info/problem/nkpalin)   |            *DP, Tracing*             |
+  | **NBKOJ** | [bfprincess](https://nbk.homes/problem/bfprincess) |                 *DP*                 |
+  | **VNOJ**  |      [lis](https://oj.vnoi.info/problem/lis)       | *DP, Binary Search, Data Structures* |
+  | **VNOJ**  |  [binpack](https://oj.vnoi.info/problem/binpack)   |      *DP, Brute-force, Greedy*       |
 
   ***Recommendation:*** [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
 
@@ -348,12 +348,12 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **VNOJ**  | [qbmarket](https://oj.vnoi.info/problem/qbmarket)| *DP*                            |
-  | **VNOJ**  | [stmerge](https://oj.vnoi.info/problem/stmerge)  | *DP*                            |
-  | **NBKOJ** | [qn21altstr](https://nbk.homes/problem/qn21altstr) | *DP, Data Structures*         |
-  | **NBKOJ** | [knapsack](https://nbk.homes/problem/knapsack)   | *DP*                            |
+  |    OJ     |                        Name                        |      Categories       |
+  | :-------: | :------------------------------------------------: | :-------------------: |
+  | **VNOJ**  | [qbmarket](https://oj.vnoi.info/problem/qbmarket)  |         *DP*          |
+  | **VNOJ**  |  [stmerge](https://oj.vnoi.info/problem/stmerge)   |         *DP*          |
+  | **NBKOJ** | [qn21altstr](https://nbk.homes/problem/qn21altstr) | *DP, Data Structures* |
+  | **NBKOJ** |   [knapsack](https://nbk.homes/problem/knapsack)   |         *DP*          |
 
 ### Lesson 13 (??.??)
 
@@ -374,17 +374,17 @@ Register accounts on Online Judges:
 
 - Practice Problems
   
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **VNOJ**  | [nkcard](https://oj.vnoi.info/problem/nkcard)    | *Linked List*                   |
-  | **NBKOJ** | [teammem](https://nbk.homes/problem/teammem)     | *Linked List*                   |
-  | **NBKOJ** | [rmdupl](https://nbk.homes/problem/rmdupl)       | *Stack*                         |
-  | **Hackerrank** | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | *Stack* |
-  | **VNOJ**  | [kplank](https://oj.vnoi.info/problem/kplank)    | *Stack*                         |
-  | **VNOJ**  | [kagain](https://oj.vnoi.info/problem/kagain)    | *Stack*                         |
-  | **Codeforces** | [Catch Overflow!](https://codeforces.com/problemset/problem/1175/B) | *Stack* |
-  | **Codeforces** | [Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B) | *Stack* |
-  | **Codeforces** | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | *Stack, DP*   |
+  |       OJ       |                                         Name                                         |  Categories   |
+  | :------------: | :----------------------------------------------------------------------------------: | :-----------: |
+  |    **VNOJ**    |                    [nkcard](https://oj.vnoi.info/problem/nkcard)                     | *Linked List* |
+  |   **NBKOJ**    |                     [teammem](https://nbk.homes/problem/teammem)                     | *Linked List* |
+  |   **NBKOJ**    |                      [rmdupl](https://nbk.homes/problem/rmdupl)                      |    *Stack*    |
+  | **Hackerrank** | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) |    *Stack*    |
+  |    **VNOJ**    |                    [kplank](https://oj.vnoi.info/problem/kplank)                     |    *Stack*    |
+  |    **VNOJ**    |                    [kagain](https://oj.vnoi.info/problem/kagain)                     |    *Stack*    |
+  | **Codeforces** |         [Catch Overflow!](https://codeforces.com/problemset/problem/1175/B)          |    *Stack*    |
+  | **Codeforces** |        [Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)         |    *Stack*    |
+  | **Codeforces** |            [Mike and Feet](https://codeforces.com/contest/547/problem/B)             |  *Stack, DP*  |
 
 ### Lesson 14 (??.??)
 
@@ -402,32 +402,33 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **VNOJ**  | [mink](https://oj.vnoi.info/problem/mink)        | *Deque*                         |
-  | **VNOJ**  | [ptqmseq](https://oj.vnoi.info/problem/ptqmseq)  | *Deque, Prefix Sum*             |
-  | **VNOJ**  | [kdiff](https://oj.vnoi.info/problem/kdiff)      | *Deque, DP*                     |
-  | **VNOJ**  | [qbrect](https://oj.vnoi.info/problem/qbrect)    | *Stack, DP*                     |
-  | **VNOJ**  | [qbsquare](https://oj.vnoi.info/problem/qbsquare)| *Stack, DP*                     |
-  | **VNOJ**  | [crec01](https://oj.vnoi.info/problem/crec01)    | *Stack, DP*                     |
-  | **VNOJ**  | [crect](https://oj.vnoi.info/problem/crect)      | *Stack, DP, Combinatorics*      |
+  |    OJ    |                       Name                        |         Categories         |
+  | :------: | :-----------------------------------------------: | :------------------------: |
+  | **VNOJ** |     [mink](https://oj.vnoi.info/problem/mink)     |          *Deque*           |
+  | **VNOJ** |  [ptqmseq](https://oj.vnoi.info/problem/ptqmseq)  |    *Deque, Prefix Sum*     |
+  | **VNOJ** |    [kdiff](https://oj.vnoi.info/problem/kdiff)    |        *Deque, DP*         |
+  | **VNOJ** |   [qbrect](https://oj.vnoi.info/problem/qbrect)   |        *Stack, DP*         |
+  | **VNOJ** | [qbsquare](https://oj.vnoi.info/problem/qbsquare) |        *Stack, DP*         |
+  | **VNOJ** |   [crec01](https://oj.vnoi.info/problem/crec01)   |        *Stack, DP*         |
+  | **VNOJ** |    [crect](https://oj.vnoi.info/problem/crect)    | *Stack, DP, Combinatorics* |
 
 ### Lesson 15 (??.??)
 
 - Concepts:
 
   - Data Structures Practice.
+  - Some Useful Built-in Data Structures in C++.
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [sum4](https://nbk.homes/problem/sum4)           | *Data Structures*               |
-  | **NBKOJ** | [qn18poster](https://nbk.homes/problem/qn18poster) | *Data Structures*             |
-  | **VNOJ**  | [icpc22_mb_h](https://oj.vnoi.info/problem/icpc22_mb_h) | *Data Structures*        |
-  | **VNOJ**  | [qbheap](https://oj.vnoi.info/problem/qbheap)    | *Data Structures, Greedy*       |
-  | **VNOJ**  | [kmin](https://oj.vnoi.info/problem/kmin)        | *Data Structures, Greedy*       |
-  | **Codeforces** | [OpenStreetMap](https://codeforces.com/contest/1195/problem/E) | *Data Structures, DP* |
+  |       OJ       |                              Name                              |        Categories         |
+  | :------------: | :------------------------------------------------------------: | :-----------------------: |
+  |   **NBKOJ**    |             [sum4](https://nbk.homes/problem/sum4)             |     *Data Structures*     |
+  |   **NBKOJ**    |       [qn18poster](https://nbk.homes/problem/qn18poster)       |     *Data Structures*     |
+  |    **VNOJ**    |    [icpc22_mb_h](https://oj.vnoi.info/problem/icpc22_mb_h)     |     *Data Structures*     |
+  |    **VNOJ**    |         [qbheap](https://oj.vnoi.info/problem/qbheap)          | *Data Structures, Greedy* |
+  |    **VNOJ**    |           [kmin](https://oj.vnoi.info/problem/kmin)            | *Data Structures, Greedy* |
+  | **Codeforces** | [OpenStreetMap](https://codeforces.com/contest/1195/problem/E) |   *Data Structures, DP*   |
 
 ### Lesson 16 (??.??)
 
@@ -449,14 +450,14 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [drsq](https://nbk.homes/problem/drsq)           | *Segment Tree, Fenwick Tree*    |
-  | **VNOJ**  | [nkinv](https://oj.vnoi.info/problem/nkinv)      | *Segment Tree, Fenwick Tree*    |
-  | **NBKOJ** | [ruq](https://nbk.homes/problem/ruq)             | *Difference Array, Segment Tree, Fenwick Tree* |
-  | **VNOJ**  | [nkrez](https://oj.vnoi.info/problem/nkrez)      | *Segment Tree, Fenwick Tree, DP*|
-  | **Codeforces** | [Subsequences](https://codeforces.com/contest/597/problem/C) | *Segment Tree, Fenwick Tree, DP* |
-  | **VNOJ**  | [pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4)| *Segment Tree, Fenwick Tree, DP*|
+  |       OJ       |                             Name                             |                   Categories                   |
+  | :------------: | :----------------------------------------------------------: | :--------------------------------------------: |
+  |   **NBKOJ**    |            [drsq](https://nbk.homes/problem/drsq)            |          *Segment Tree, Fenwick Tree*          |
+  |    **VNOJ**    |         [nkinv](https://oj.vnoi.info/problem/nkinv)          |          *Segment Tree, Fenwick Tree*          |
+  |   **NBKOJ**    |             [ruq](https://nbk.homes/problem/ruq)             | *Difference Array, Segment Tree, Fenwick Tree* |
+  |    **VNOJ**    |         [nkrez](https://oj.vnoi.info/problem/nkrez)          |        *Segment Tree, Fenwick Tree, DP*        |
+  | **Codeforces** | [Subsequences](https://codeforces.com/contest/597/problem/C) |        *Segment Tree, Fenwick Tree, DP*        |
+  |    **VNOJ**    |      [pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4)       |        *Segment Tree, Fenwick Tree, DP*        |
 
 ### Lesson 17 (??.??)
 
@@ -474,15 +475,15 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **VNOJ**  | [kquery](https://oj.vnoi.info/problem/KQUERY)    | *Data Structures, Offline Processing, Binary Search*
-  | **NBKOJ** | [lbst](https://nbk.homes/problem/lbst)           | *Segment Tree, Binary Search*   |
-  | **VNOJ**  | [qmax2](https://oj.vnoi.info/problem/qmax2)      | *Segment Tree (Lazy Update)*    |
-  | **VNOJ**  | [lites](https://oj.vnoi.info/problem/lites)      | *Segment Tree (Lazy Update)*    |
-  | **VNOJ**  | [nkbracke](https://oj.vnoi.info/problem/nkbracke)| *Segment Tree (Lazy Update)*    |
-  | **NBKOJ** | [updassign](https://nbk.homes/problem/updassign) | *Segment Tree (Lazy Update)*    |
-  | **NBKOJ** | [polyquery](https://nbk.homes/problem/polyquery) | *Segment Tree (Lazy Update), Math* |
+  |    OJ     |                       Name                        |                      Categories                      |
+  | :-------: | :-----------------------------------------------: | :--------------------------------------------------: |
+  | **VNOJ**  |   [kquery](https://oj.vnoi.info/problem/KQUERY)   | *Data Structures, Offline Processing, Binary Search* |
+  | **NBKOJ** |      [lbst](https://nbk.homes/problem/lbst)       |            *Segment Tree, Binary Search*             |
+  | **VNOJ**  |    [qmax2](https://oj.vnoi.info/problem/qmax2)    |             *Segment Tree (Lazy Update)*             |
+  | **VNOJ**  |    [lites](https://oj.vnoi.info/problem/lites)    |             *Segment Tree (Lazy Update)*             |
+  | **VNOJ**  | [nkbracke](https://oj.vnoi.info/problem/nkbracke) |             *Segment Tree (Lazy Update)*             |
+  | **NBKOJ** | [updassign](https://nbk.homes/problem/updassign)  |             *Segment Tree (Lazy Update)*             |
+  | **NBKOJ** | [polyquery](https://nbk.homes/problem/polyquery)  |          *Segment Tree (Lazy Update), Math*          |
 
 ### Lesson 18 (??.??)
 
@@ -503,13 +504,13 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [playground](https://nbk.homes/problem/playground) | *Walk on Segment Tree*        |
-  | **NBKOJ** | [bfhorses](https://nbk.homes/problem/bfhorses)   | *Walk on Segment Tree (Lazy Update)* |
-  | **VNOJ**  | [segtree_itds1](https://oj.vnoi.info/problem/segtree_itds1) | *Segment Tree, Data Structures* |
-  | **NBKOJ** | [bfprincess2](https://nbk.homes/problem/bfprincess2) | *Segment Tree 2D, Fenwick Tree 2D* |
-  | **VNOJ**  | [smartdog](https://oj.vnoi.info/problem/smartdog)| *Segment Tree 2D*               |
+  |    OJ     |                            Name                             |              Categories              |
+  | :-------: | :---------------------------------------------------------: | :----------------------------------: |
+  | **NBKOJ** |     [playground](https://nbk.homes/problem/playground)      |        *Walk on Segment Tree*        |
+  | **NBKOJ** |       [bfhorses](https://nbk.homes/problem/bfhorses)        | *Walk on Segment Tree (Lazy Update)* |
+  | **VNOJ**  | [segtree_itds1](https://oj.vnoi.info/problem/segtree_itds1) |   *Segment Tree, Data Structures*    |
+  | **NBKOJ** |    [bfprincess2](https://nbk.homes/problem/bfprincess2)     |  *Segment Tree 2D, Fenwick Tree 2D*  |
+  | **VNOJ**  |      [smartdog](https://oj.vnoi.info/problem/smartdog)      |          *Segment Tree 2D*           |
 
 
 ### Lesson 19 (??.??)
@@ -520,15 +521,15 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **NBKOJ** | [sumsubarr](https://nbk.homes/problem/sumsubarr) | *Segment Tree*                  |
-  | **Codeforces** | [Sereja and Brackets](https://codeforces.com/contest/380/problem/C) | *Segment Tree* |
-  | **Codeforces** | [Xenia and Bit Operations](https://codeforces.com/contest/339/problem/D) | *Segment Tree* |
-  | **Codeforces** | [Tufurama](https://codeforces.com/contest/961/problem/E) | *Segment Tree, Fenwick Tree* |
-  | **Codeforces** | [Tokitsukaze and Strange Rectangle](https://codeforces.com/contest/1190/problem/D) | *Segment Tree, Fenwick Tree* |
-  | **VNOJ**  | [segtree_itladder](https://oj.vnoi.info/problem/segtree_itladder) | *Segment Tree* |
-  | **VNOJ**  | [bgmine](https://oj.vnoi.info/problem/bgmine)    | *Segment Tree, Fenwick Tree, Prefix Sum* |
+  |       OJ       |                                        Name                                        |                Categories                |
+  | :------------: | :--------------------------------------------------------------------------------: | :--------------------------------------: |
+  |   **NBKOJ**    |                  [sumsubarr](https://nbk.homes/problem/sumsubarr)                  |              *Segment Tree*              |
+  | **Codeforces** |        [Sereja and Brackets](https://codeforces.com/contest/380/problem/C)         |              *Segment Tree*              |
+  | **Codeforces** |      [Xenia and Bit Operations](https://codeforces.com/contest/339/problem/D)      |              *Segment Tree*              |
+  | **Codeforces** |              [Tufurama](https://codeforces.com/contest/961/problem/E)              |       *Segment Tree, Fenwick Tree*       |
+  | **Codeforces** | [Tokitsukaze and Strange Rectangle](https://codeforces.com/contest/1190/problem/D) |       *Segment Tree, Fenwick Tree*       |
+  |    **VNOJ**    |         [segtree_itladder](https://oj.vnoi.info/problem/segtree_itladder)          |              *Segment Tree*              |
+  |    **VNOJ**    |                   [bgmine](https://oj.vnoi.info/problem/bgmine)                    | *Segment Tree, Fenwick Tree, Prefix Sum* |
 
   ***Recommendation:*** [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
@@ -538,7 +539,7 @@ Register accounts on Online Judges:
 
   - Graph Theory Overview.
   - Graph Traversal: Breadth First Search (BFS) and Depth First Search (DFS).
-  - Advanced DFS: Compute Color (to detect cycle) and the Entry & Exit Times.
+  - Advanced DFS: Assign Color (to detect cycle) and Compute the Entry & Exit Times.
   - Advanced BFS: 0-1 BFS and Multi-source BFS.
 
 - Resources:
@@ -553,12 +554,12 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ        | Name                                             | Categories                      |
-  | :---:     | :---:                                            | :----:                          |
-  | **VNOJ**  | [ads](https://oj.vnoi.info/problem/ads)          | *Graph Traversal*               |
-  | **NBKOJ** | [sumsubtree](https://nbk.homes/problem/sumsubtree) | *DFS, Data Structures*        |
-  | **VNOJ**  | [qbbishop](https://oj.vnoi.info/problem/qbbishop) | *BFS, DP*                      |
-  | **VNOJ**  | [robocon](https://oj.vnoi.info/problem/robocon)  | *BFS*                           |
-  | **Codeforces** | [Labyrinth](https://codeforces.com/contest/1063/problem/B) | *0-1 BFS*        |
-  | **VNOJ**  | [voi18specone](https://oj.vnoi.info/problem/voi18specone) | *Multi-source BFS*     |
-  | **VNOJ**  | [qbciarc](https://oj.vnoi.info/problem/qbcirarc) | *DFS Color*                     |
+  |       OJ       |                            Name                            |       Categories       |
+  | :------------: | :--------------------------------------------------------: | :--------------------: |
+  |    **VNOJ**    |          [ads](https://oj.vnoi.info/problem/ads)           |   *Graph Traversal*    |
+  |   **NBKOJ**    |     [sumsubtree](https://nbk.homes/problem/sumsubtree)     | *DFS, Data Structures* |
+  |    **VNOJ**    |     [qbbishop](https://oj.vnoi.info/problem/qbbishop)      |       *BFS, DP*        |
+  |    **VNOJ**    |      [robocon](https://oj.vnoi.info/problem/robocon)       |         *BFS*          |
+  | **Codeforces** | [Labyrinth](https://codeforces.com/contest/1063/problem/B) |       *0-1 BFS*        |
+  |    **VNOJ**    | [voi18specone](https://oj.vnoi.info/problem/voi18specone)  |   *Multi-source BFS*   |
+  |    **VNOJ**    |      [qbciarc](https://oj.vnoi.info/problem/qbcirarc)      |      *DFS Color*       |
