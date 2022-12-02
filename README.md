@@ -231,15 +231,16 @@ Register accounts on Online Judges:
 
 - Practice Problems
 
-  |    OJ     |                              Name                               |                          Categories                           |
-  | :-------: | :-------------------------------------------------------------: | :-----------------------------------------------------------: |
-  | **NBKOJ** |           [cntdiv](https://nbk.homes/problem/cntdiv)            |                 _Sieve, Prime Factorization_                  |
-  | **NBKOJ** |        [commondiv](https://nbk.homes/problem/commondiv)         |                            _Sieve_                            |
-  | **NBKOJ** |       [qn20natdiv](https://nbk.homes/problem/qn20natdiv)        |                      _Sieve, Prefix Sum_                      |
-  | **VNOJ**  | [dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) |                      _Sieve, Prefix Sum_                      |
-  | **LQDOJ** |      [primecount](https://lqdoj.edu.vn/problem/primecount)      |                            _Sieve_                            |
-  | **VNOJ**  |          [ctnown](https://oj.vnoi.info/problem/ctnown)          |                 _Sieve, Dynamic Programming_                  |
-  | **NBKOJ** |          [bddivan](https://nbk.homes/problem/bddivan)           | _Dynamic Programming, Binary Exponentiation, Modular Inverse_ |
+  |    OJ     |                              Name                               |                  Categories                  |
+  | :-------: | :-------------------------------------------------------------: | :------------------------------------------: |
+  | **NBKOJ** |           [cntdiv](https://nbk.homes/problem/cntdiv)            |         _Sieve, Prime Factorization_         |
+  | **NBKOJ** |        [commondiv](https://nbk.homes/problem/commondiv)         |                   _Sieve_                    |
+  | **NBKOJ** |       [qn20natdiv](https://nbk.homes/problem/qn20natdiv)        |             _Sieve, Prefix Sum_              |
+  | **NBKOJ** |       [qn17mprime](https://nbk.homes/problem/qn17mprime)        |                   _Sieve_                    |
+  | **VNOJ**  | [dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) |             _Sieve, Prefix Sum_              |
+  | **LQDOJ** |      [primecount](https://lqdoj.edu.vn/problem/primecount)      |                   _Sieve_                    |
+  | **VNOJ**  |          [ctnown](https://oj.vnoi.info/problem/ctnown)          |         _Sieve, Dynamic Programming_         |
+  | **NBKOJ** |          [bddivan](https://nbk.homes/problem/bddivan)           | _DP, Binary Exponentiation, Modular Inverse_ |
 
 ### Lesson 8 (??.??)
 
