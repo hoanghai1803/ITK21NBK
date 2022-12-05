@@ -180,7 +180,7 @@ Register accounts on Online Judges:
   | **NBKOJ** |       [plants](https://nbk.homes/problem/plants)       |        _Prefix Sum 2D_         |
   | **NBKOJ** |  [voi15mincut](https://nbk.homes/problem/voi15mincut)  | _Prefix Sum 2D, Binary Search_ |
 
-### Lesson 6 (??.??)
+### Lesson 6 (03.12)
 
 - Concepts:
 
@@ -228,6 +228,7 @@ Register accounts on Online Judges:
   - [Integer Factorization - CP-Algorithms](https://cp-algorithms.com/algebra/factorization.html)
   - [Arithmetic Function - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_function)
   - [Number of Divisors & Sum of Divisors - CP-Algorithms](https://cp-algorithms.com/algebra/divisors.html)
+  - CodeCungRR Blogs: [blog 1](https://www.facebook.com/code.cung.rr/posts/pfbid0hfZaxATnTTtmm9Zvwx3FwkZ4159KVetcfPj93CLRmEoDRk4uSiKS8bMsswZrGSpml) and [blog 2](https://www.facebook.com/code.cung.rr/posts/pfbid02i2RMbeiaLrdBTEqdSyZSoxvUgbXSQaWCqRxV3XYKjEoK7DctdHJd4fDVfHEe1GDql)
 
 - Practice Problems
 
