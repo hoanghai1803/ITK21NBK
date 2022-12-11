@@ -255,6 +255,7 @@ Register accounts on Online Judges:
 
   - [Euler's Totient Function - CP-Algorithms](https://cp-algorithms.com/algebra/phi-function.html)
   - [GCD & LCM - GeeksforGeeks](https://www.geeksforgeeks.org/mathematical-algorithms/mathematical-algorithms-gcd-lcm/)
+  - [Primality Tests](https://cp-algorithms.com/algebra/primality_tests.html)
   - [Probabilities - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-6.md)
 
 - Practice Problems:
@@ -265,6 +266,7 @@ Register accounts on Online Judges:
   | **Codeforces** |                     [Same GCDs](https://codeforces.com/gym/361217/problem/D)                     |                    _Number Theory_                    |
   | **Hackerrank** | [The Chosen One](https://www.hackerrank.com/challenges/the-chosen-one/problem?isFullScreen=true) |              _Number Theory, Prefix Sum_              |
   |   **NBKOJ**    |                             [bfgcd](https://nbk.homes/problem/bfgcd)                             | _Number Theory, Prime Factorization, Data Structures_ |
+  |   **NBKOJ**    |                           [cntdiv2](https://nbk.homes/problem/cntdiv2)                           |                   _Primality Tests_                   |
   |   **NBKOJ**    |                         [cwdsquare](https://nbk.homes/problem/cwdsquare)                         |    _Probabilities, Number Theory, Data Structures_    |
   |    **VNOJ**    |               [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d)                |         _Probabilities, Interactive, Graphs_          |
 
@@ -570,7 +572,7 @@ Register accounts on Online Judges:
 - Concepts:
 
   - Graph Traversal: Depth First Search (DFS).
-  - Advanced DFS: Assign Colors (to Detect Cycles) and Compute the Entry & Exit Times.
+  - Advanced DFS: Assign Colors (to Detect Cycles and Bipartite Graph) and Compute the Entry & Exit Times.
 
 - Resources:
 
