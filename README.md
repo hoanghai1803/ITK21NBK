@@ -212,7 +212,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |       [goodarr](https://nbk.homes/problem/goodarr)       |            _Number Theory_             |
   |   **NBKOJ**    |   [sumdivisors](https://nbk.homes/problem/sumdivisors)   |            _Number Theory_             |
 
-### Lesson 7 (??.??)
+### Lesson 7 (11.12)
 
 - Concepts:
 
@@ -243,7 +243,7 @@ Register accounts on Online Judges:
   | **VNOJ**  |          [ctnown](https://oj.vnoi.info/problem/ctnown)          |         _Sieve, Dynamic Programming_         |
   | **NBKOJ** |          [bddivan](https://nbk.homes/problem/bddivan)           | _DP, Binary Exponentiation, Modular Inverse_ |
 
-### Lesson 8 (??.??)
+### Lesson 8 (15.12)
 
 - Concepts:
 
@@ -270,7 +270,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                         [cwdsquare](https://nbk.homes/problem/cwdsquare)                         |    _Probabilities, Number Theory, Data Structures_    |
   |    **VNOJ**    |               [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d)                |         _Probabilities, Interactive, Graphs_          |
 
-### Lesson 9 (??.??)
+### Lesson 9 (18.12)
 
 - Concepts:
 
@@ -581,8 +581,9 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                        Name                        |       Categories       |
-  | :-------: | :------------------------------------------------: | :--------------------: |
-  | **VNOJ**  |      [ads](https://oj.vnoi.info/problem/ads)       |   _Graph Traversal_    |
-  | **NBKOJ** | [sumsubtree](https://nbk.homes/problem/sumsubtree) | _DFS, Data Structures_ |
-  | **VNOJ**  |  [qbciarc](https://oj.vnoi.info/problem/qbcirarc)  |      _DFS Color_       |
+  |    OJ     |                                Name                                 |       Categories       |
+  | :-------: | :-----------------------------------------------------------------: | :--------------------: |
+  | **VNOJ**  |               [ads](https://oj.vnoi.info/problem/ads)               |   _Graph Traversal_    |
+  | **NBKOJ** |         [sumsubtree](https://nbk.homes/problem/sumsubtree)          | _DFS, Data Structures_ |
+  | **VNOJ**  |          [qbciarc](https://oj.vnoi.info/problem/qbcirarc)           |         _DFS_          |
+  | **VNOJ**  | [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d) |         _DFS_          |
