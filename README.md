@@ -249,6 +249,7 @@ Register accounts on Online Judges:
 
   - Greatest Common Divisors (GCD) and Least Common Multiples (LCM) - Euclidean Algorithm.
   - Euler's Totient Function.
+  - Primality Tests.
   - Randomized Algorithms (Probabilities).
 
 - Resources:
@@ -263,7 +264,7 @@ Register accounts on Online Judges:
   |       OJ       |                                               Name                                               |                      Categories                       |
   | :------------: | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
   | **Codeforces** |                   [Row GCD](https://codeforces.com/problemset/problem/1458/A)                    |                    _Number Theory_                    |
-  | **Codeforces** |                     [Same GCDs](https://codeforces.com/gym/361217/problem/D)                     |                    _Number Theory_                    |
+  | **Codeforces** |                    [Same GCDs](https://codeforces.com/contest/1295/problem/D)                    |                    _Number Theory_                    |
   | **Hackerrank** | [The Chosen One](https://www.hackerrank.com/challenges/the-chosen-one/problem?isFullScreen=true) |              _Number Theory, Prefix Sum_              |
   |   **NBKOJ**    |                             [bfgcd](https://nbk.homes/problem/bfgcd)                             | _Number Theory, Prime Factorization, Data Structures_ |
   |   **NBKOJ**    |                           [cntdiv2](https://nbk.homes/problem/cntdiv2)                           |                   _Primality Tests_                   |
