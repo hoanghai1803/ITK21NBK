@@ -314,7 +314,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | _Combinatorics, Prefix Sum 2D_ |
   | **VNOJ**  |   [raygun](https://oj.vnoi.info/problem/raygun)    | _Combinatorics, Number Theory_ |
 
-### Lesson 11 (??.??)
+### Lesson 11 (22.12)
 
 - Concepts:
 
@@ -334,12 +334,13 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                        Name                        |              Categories              |
-  | :-------: | :------------------------------------------------: | :----------------------------------: |
-  | **VNOJ**  |  [nkpalin](https://oj.vnoi.info/problem/nkpalin)   |            _DP, Tracing_             |
-  | **NBKOJ** | [bfprincess](https://nbk.homes/problem/bfprincess) |                 _DP_                 |
-  | **VNOJ**  |      [lis](https://oj.vnoi.info/problem/lis)       | _DP, Binary Search, Data Structures_ |
-  | **VNOJ**  |  [binpack](https://oj.vnoi.info/problem/binpack)   |      _DP, Brute-force, Greedy_       |
+  |    OJ     |                           Name                           |              Categories              |
+  | :-------: | :------------------------------------------------------: | :----------------------------------: |
+  | **VNOJ**  |     [nkpalin](https://oj.vnoi.info/problem/nkpalin)      |            _DP, Tracing_             |
+  | **NBKOJ** |    [bfprincess](https://nbk.homes/problem/bfprincess)    |                 _DP_                 |
+  | **VNOJ**  |         [lis](https://oj.vnoi.info/problem/lis)          | _DP, Binary Search, Data Structures_ |
+  | **NBKOJ** | [qn17doanthang](https://nbk.homes/problem/qn17doanthang) | _DP, Binary Search, Data Structures_ |
+  | **VNOJ**  |     [binpack](https://oj.vnoi.info/problem/binpack)      |      _DP, Brute-force, Greedy_       |
 
   **_Recommendation:_** [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
 
