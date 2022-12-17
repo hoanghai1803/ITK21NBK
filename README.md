@@ -73,7 +73,7 @@ Register accounts on Online Judges:
   | **VNOJ**  |              [car](https://oj.vnoi.info/problem/car)              |            _Greedy_             |
   | **VNOJ**  | [bedao_g07_resort](https://oj.vnoi.info/problem/bedao_g07_resort) |            _Greedy_             |
   
-  **_Recommendation:_** [[VNOJ] Educational Backtracking Contest](https://oj.vnoi.info/contest/backtrack)
+  **_Recommendation:_** [[ VNOJ ] Educational Backtracking Contest](https://oj.vnoi.info/contest/backtrack)
 
 ### Lesson 2 (13.11)
 
@@ -344,7 +344,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [qn17doanthang](https://nbk.homes/problem/qn17doanthang) | _DP, Binary Search, Data Structures_ |
   | **VNOJ**  |     [binpack](https://oj.vnoi.info/problem/binpack)      |      _DP, Brute-force, Greedy_       |
 
-  **_Recommendation:_** [[AtCoder] Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
+  **_Recommendation:_** [[ AtCoder ] Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
 
 ### Lesson 12 (??.??)
 
@@ -542,7 +542,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |         [segtree_itladder](https://oj.vnoi.info/problem/segtree_itladder)          |              _Segment Tree_              |
   |    **VNOJ**    |                   [bgmine](https://oj.vnoi.info/problem/bgmine)                    | _Segment Tree, Fenwick Tree, Prefix Sum_ |
 
-  **_Recommendation:_** [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
+  **_Recommendation:_** [[ VNOJ ] Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
 ### Lesson 20 (??.??)
 
