@@ -72,6 +72,8 @@ Register accounts on Online Judges:
   | **VNOJ**  |            [heap1](https://oj.vnoi.info/problem/heap1)            |    _Greedy, Data Structures_    |
   | **VNOJ**  |              [car](https://oj.vnoi.info/problem/car)              |            _Greedy_             |
   | **VNOJ**  | [bedao_g07_resort](https://oj.vnoi.info/problem/bedao_g07_resort) |            _Greedy_             |
+  
+  **_Recommendation:_** [[VNOJ] Educational Backtracking Contest](https://oj.vnoi.info/contest/backtrack)
 
 ### Lesson 2 (13.11)
 
@@ -342,7 +344,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [qn17doanthang](https://nbk.homes/problem/qn17doanthang) | _DP, Binary Search, Data Structures_ |
   | **VNOJ**  |     [binpack](https://oj.vnoi.info/problem/binpack)      |      _DP, Brute-force, Greedy_       |
 
-  **_Recommendation:_** [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
+  **_Recommendation:_** [[AtCoder] Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
 
 ### Lesson 12 (??.??)
 
