@@ -271,7 +271,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                         [cwdsquare](https://nbk.homes/problem/cwdsquare)                         |    _Probabilities, Number Theory, Data Structures_    |
   |    **VNOJ**    |               [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d)                |         _Probabilities, Interactive, Graphs_          |
 
-### Lesson 9 (18.12)
+### Lesson 9 (31.12)
 
 - Concepts:
 
@@ -314,7 +314,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | _Combinatorics, Prefix Sum 2D_ |
   | **VNOJ**  |   [raygun](https://oj.vnoi.info/problem/raygun)    | _Combinatorics, Number Theory_ |
 
-### Lesson 11 (22.12)
+### Lesson 11 (??.??)
 
 - Concepts:
 
