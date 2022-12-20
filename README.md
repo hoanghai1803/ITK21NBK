@@ -72,7 +72,7 @@ Register accounts on Online Judges:
   | **VNOJ**  |            [heap1](https://oj.vnoi.info/problem/heap1)            |    _Greedy, Data Structures_    |
   | **VNOJ**  |              [car](https://oj.vnoi.info/problem/car)              |            _Greedy_             |
   | **VNOJ**  | [bedao_g07_resort](https://oj.vnoi.info/problem/bedao_g07_resort) |            _Greedy_             |
-  
+
   **_Recommendation:_** [[ VNOJ ] Educational Backtracking Contest](https://oj.vnoi.info/contest/backtrack)
 
 ### Lesson 2 (13.11)
@@ -558,20 +558,36 @@ Register accounts on Online Judges:
   - [Breadth First Search - CP-Algorithms](https://cp-algorithms.com/graph/breadth-first-search.html)
   - [Breadth First Search - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/breadth-first-search.md)
   - [Breadth First Search - USACO Guide](https://usaco.guide/gold/bfs?lang=cpp)
+
+- Practice Problems:
+
+  |       OJ       |                             Name                              |       Categories       |
+  | :------------: | :-----------------------------------------------------------: | :--------------------: |
+  |    **VNOJ**    |       [qbbishop](https://oj.vnoi.info/problem/qbbishop)       |       _BFS, DP_        |
+  |    **VNOJ**    |        [robocon](https://oj.vnoi.info/problem/robocon)        |         _BFS_          |
+  | **Codeforces** | [Subsequences](https://codeforces.com/contest/1183/problem/E) | _BFS, Data Strucutres_ |
+
+### Lesson 21 (??.??)
+
+- Concepts:
+
+  - Advanced BFS: 0-1 BFS and Multi-source BFS.
+
+- Resources:
+
   - [0-1 BFS - CP-Algorithms](https://cp-algorithms.com/graph/01_bfs.html)
 
 - Practice Problems:
 
-  |       OJ       |                              Name                               |       Categories       |
-  | :------------: | :-------------------------------------------------------------: | :--------------------: |
-  |    **VNOJ**    |        [qbbishop](https://oj.vnoi.info/problem/qbbishop)        |       _BFS, DP_        |
-  |    **VNOJ**    |         [robocon](https://oj.vnoi.info/problem/robocon)         |         _BFS_          |
-  | **Codeforces** |  [Shortest Path](https://codeforces.com/contest/59/problem/E)   | _BFS, Data Structures_ |
-  | **Codeforces** | [Police Stations](https://codeforces.com/contest/796/problem/D) |         _BFS_          |
-  | **Codeforces** |   [Labyrinth](https://codeforces.com/contest/1063/problem/B)    |       _0-1 BFS_        |
-  |    **VNOJ**    |    [voi18specone](https://oj.vnoi.info/problem/voi18specone)    |   _Multi-source BFS_   |
+  |       OJ       |                                   Name                                   |             Categories              |
+  | :------------: | :----------------------------------------------------------------------: | :---------------------------------: |
+  | **Codeforces** |        [Labyrinth](https://codeforces.com/contest/1063/problem/B)        |              _0-1 BFS_              |
+  | **Codeforces** | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) |         _Multi-source BFS_          |
+  | **Codeforces** |       [Shortest Path](https://codeforces.com/contest/59/problem/E)       | _Multi-source BFS, Data Structures_ |
+  | **Codeforces** |     [Police Stations](https://codeforces.com/contest/796/problem/D)      |         _Multi-source BFS_          |
+  |    **VNOJ**    |        [voi18specone](https://oj.vnoi.info/problem/voi18specone)         | _Multi-source BFS, Data Structures_ |
 
-### Lesson 21 (??.??)
+### Lesson 22 (??.??)
 
 - Concepts:
 
