@@ -583,8 +583,8 @@ Register accounts on Online Judges:
   | :------------: | :----------------------------------------------------------------------: | :---------------------------------: |
   | **Codeforces** |        [Labyrinth](https://codeforces.com/contest/1063/problem/B)        |              _0-1 BFS_              |
   | **Codeforces** | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) |         _Multi-source BFS_          |
-  | **Codeforces** |       [Shortest Path](https://codeforces.com/contest/59/problem/E)       | _Multi-source BFS, Data Structures_ |
   | **Codeforces** |     [Police Stations](https://codeforces.com/contest/796/problem/D)      |         _Multi-source BFS_          |
+  | **Codeforces** |       [Shortest Path](https://codeforces.com/contest/59/problem/E)       | _Multi-source BFS, Data Structures_ |
   |    **VNOJ**    |        [voi18specone](https://oj.vnoi.info/problem/voi18specone)         | _Multi-source BFS, Data Structures_ |
 
 ### Lesson 22 (??.??)
