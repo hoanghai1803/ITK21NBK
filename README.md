@@ -562,7 +562,8 @@ Register accounts on Online Judges:
 
   |       OJ       |                             Name                              |       Categories       |
   | :------------: | :-----------------------------------------------------------: | :--------------------: |
-  |    **VNOJ**    |       [qbbishop](https://oj.vnoi.info/problem/qbbishop)       |       _BFS, DP_        |
+  |    **VNOJ**    |            [ads](https://oj.vnoi.info/problem/ads)            |   _Graph Traversal_    |
+  |    **VNOJ**    |       [qbbishop](https://oj.vnoi.info/problem/qbbishop)       |         _BFS_          |
   |    **VNOJ**    |         [vosnet](https://oj.vnoi.info/problem/vosnet)         |       _BFS, DP_        |
   |    **VNOJ**    |        [robocon](https://oj.vnoi.info/problem/robocon)        |         _BFS_          |
   | **Codeforces** | [Subsequences](https://codeforces.com/contest/1183/problem/E) | _BFS, Data Strucutres_ |
@@ -601,10 +602,10 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                                Name                                 |       Categories       |
-  | :-------: | :-----------------------------------------------------------------: | :--------------------: |
-  | **VNOJ**  |               [ads](https://oj.vnoi.info/problem/ads)               |   _Graph Traversal_    |
-  | **VNOJ**  |           [nkguard](https://oj.vnoi.info/problem/nkguard)           |   _Graph Traversal_    |
-  | **NBKOJ** |         [sumsubtree](https://nbk.homes/problem/sumsubtree)          | _DFS, Data Structures_ |
-  | **VNOJ**  |          [qbciarc](https://oj.vnoi.info/problem/qbcirarc)           |         _DFS_          |
-  | **VNOJ**  | [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d) |         _DFS_          |
+  |       OJ       |                                Name                                 |       Categories       |
+  | :------------: | :-----------------------------------------------------------------: | :--------------------: |
+  |    **VNOJ**    |           [nkguard](https://oj.vnoi.info/problem/nkguard)           |   _Graph Traversal_    |
+  | **Codeforces** |      [DFS Order](https://codeforces.com/gym/103861/problem/A)       |         _DFS_          |
+  |   **NBKOJ**    |         [sumsubtree](https://nbk.homes/problem/sumsubtree)          | _DFS, Data Structures_ |
+  |    **VNOJ**    |          [qbciarc](https://oj.vnoi.info/problem/qbcirarc)           |         _DFS_          |
+  |    **VNOJ**    | [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d) |         _DFS_          |
