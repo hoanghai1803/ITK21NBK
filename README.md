@@ -609,3 +609,60 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |         [sumsubtree](https://nbk.homes/problem/sumsubtree)          | _DFS, Data Structures_ |
   |    **VNOJ**    |          [qbciarc](https://oj.vnoi.info/problem/qbcirarc)           |         _DFS_          |
   |    **VNOJ**    | [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d) |         _DFS_          |
+
+### Lesson 23 (??.??)
+
+- Concepts:
+
+  - Disjont Set Union (DSU or Union Find).
+
+- Resources:
+
+  - [Disjoint Set Union - CP-Algorithms](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+
+- Practice Problems:
+
+  |       OJ       |                                Name                                | Categories |
+  | :------------: | :----------------------------------------------------------------: | :--------: |
+  |    **VNOJ**    |         [pbcgangs](https://oj.vnoi.info/problem/pbcgangs)          |   _DSU_    |
+  |    **VNOJ**    |          [vosplay](https://oj.vnoi.info/problem/vosplay)           |   _DSU_    |
+  |    **VNOJ**    |           [qhroad](https://oj.vnoi.info/problem/qhroad)            |   _DSU_    |
+  |    **VNOJ**    |           [cwdctnce](https://nbk.homes/problem/cwdctnce)           |   _DSU_    |
+  | **Codeforces** | [Information Graphs](https://codeforces.com/contest/466/problem/E) |   _DSU_    |
+
+### Lesson 24 (??.??)
+
+- Concepts:
+
+  - Minimum Spanning Tree (MST): Prim's Algorithm and Kruskal's Algorithm.
+
+- Resources:
+
+  - [MST - Prim's Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
+  - [MST - Kruskal's Algorithm](https://cp-algorithms.com/graph/mst_kruskal.html)
+
+- Practice Problems:
+
+  |       OJ       |                                 Name                                 |      Categories      |
+  | :------------: | :------------------------------------------------------------------: | :------------------: |
+  |    **VNOJ**    |            [fwater](https://oj.vnoi.info/problem/fwater)             |        _MST_         |
+  |    **VNOJ**    |          [vnempire](https://oj.vnoi.info/problem/vnempire)           |     _MST, Math_      |
+  |   **NBKOJ**    |          [qn16emoter](https://nbk.homes/problem/qn16emotor)          |        _MST_         |
+  | **Codeforces** |    [Path Queries](https://codeforces.com/contest/1213/problem/G)     | _MST, Combinatorics_ |
+  | **Codeforces** | [Connected Components](https://codeforces.com/contest/292/problem/D) |        _MST_         |
+
+### Lesson 25 (??.??)
+
+- Concepts:
+
+  - MST & DSU Practice.
+
+- Practice Problems:
+
+  |       OJ       |                                               Name                                                |       Categories       |
+  | :------------: | :-----------------------------------------------------------------------------------------------: | :--------------------: |
+  | **Hackerrank** | [johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) |     _MST, Bitwise_     |
+  |    **VNOJ**    |                            [cheer](https://oj.vnoi.info/problem/cheer)                            |         _MST_          |
+  |    **VNOJ**    |                             [vmst](https://oj.vnoi.info/problem/vmst)                             | _MST, Graph Traversal_ |
+  |    **VNOJ**    |                            [aznet](https://oj.vnoi.info/problem/aznet)                            |         _MST_          |
+  | **Codeforces** |             [Roads not only in Berland](https://codeforces.com/contest/25/problem/D)              |         _DSU_          |
