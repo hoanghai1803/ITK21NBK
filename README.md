@@ -619,6 +619,8 @@ Register accounts on Online Judges:
 - Resources:
 
   - [Disjoint Set Union - CP-Algorithms](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+  - [Disjoint Set Union - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/disjoint-set-union.md)
+  - [Disjoint Set Union - USACO Guide](https://usaco.guide/gold/dsu?lang=cpp)
 
 - Practice Problems:
 
@@ -640,6 +642,8 @@ Register accounts on Online Judges:
 
   - [MST - Prim's Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
   - [MST - Kruskal's Algorithm](https://cp-algorithms.com/graph/mst_kruskal.html)
+  - [Minimum Spanning Tree - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/minimum-spanning-tree.md)
+  - [Minimum Spanning Tree - USACO Guide](https://usaco.guide/gold/mst?lang=cpp)
 
 - Practice Problems:
 
@@ -655,7 +659,7 @@ Register accounts on Online Judges:
 
 - Concepts:
 
-  - MST & DSU Practice.
+  - DSU & MST Practice.
 
 - Practice Problems:
 
