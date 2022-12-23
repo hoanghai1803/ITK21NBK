@@ -42,40 +42,26 @@ Register accounts on Online Judges:
 
 ### Lesson 1 (08.11)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Competitive Programming Overview.
+  - Setup Environment.
+  - Debugging.
+  - Complexity.
+  - Brute-force.
+  - Recursion & Backtracking
+  - Branch-N-Bound.
+  - Greedy.
 
-  * Competitive Programming Overview.
-  * Setup Environment.
-  * Debugging.
-  * Complexity.
-  * Brute-force.
-  * Recursion & Backtracking
-  * Branch-N-Bound.
-  * Greedy.
+- Resources:
 
-</details>
+  - [What is Competitive Programming? (William Lin)](https://youtu.be/ueNT-w7Oluw)
+  - [Starting Competitive Programming - Steps and Mistakes (William Lin)](https://youtu.be/bVKHRtafgPc)
+  - [How to start Competitive Programming? For beginners! (Errichto)](https://youtu.be/xAeiXy8-9Y8)
+  - [Recursion in Programming - freeCodeCamp.org](https://youtu.be/IJDJ0kBx2LM)
+  - [Greedy Algorithms Tutorial - Solve Coding Challenges - freeCodeCamp.org](https://youtu.be/bC7o8P_Ste4)
 
-
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [What is Competitive Programming? (William Lin)](https://youtu.be/ueNT-w7Oluw)
-  * [Starting Competitive Programming - Steps and Mistakes (William Lin)](https://youtu.be/bVKHRtafgPc)
-  * [How to start Competitive Programming? For beginners! (Errichto)](https://youtu.be/xAeiXy8-9Y8)
-  * [Recursion in Programming - freeCodeCamp.org](https://youtu.be/IJDJ0kBx2LM)
-  * [Greedy Algorithms Tutorial - Solve Coding Challenges - freeCodeCamp.org](https://youtu.be/bC7o8P_Ste4)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |    OJ     |                               Name                                |           Categories            |
   | :-------: | :---------------------------------------------------------------: | :-----------------------------: |
@@ -89,36 +75,21 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ VNOJ ] Educational Backtracking Contest](https://oj.vnoi.info/contest/backtrack)
 
-</details>
-
 ### Lesson 2 (13.11)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Binary Search.
+  - Two Pointers.
 
-  * Binary Search.
-  * Two Pointers.
+- Resources:
 
-</details>
+  - [ITMO Academy: pilot course](https://codeforces.com/edu/course/2)
+  - [Binary Search - CP-Algorithms](https://cp-algorithms.com/num_methods/binary_search.html)
+  - [Binary Search - VNOI Wiki](https://vnoi.info/wiki/algo/basic/binary-search.md)
+  - [Two Pointers - VNOI Wiki](https://vnoi.info/wiki/algo/basic/two-pointers.md)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [ITMO Academy: pilot course](https://codeforces.com/edu/course/2)
-  * [Binary Search - CP-Algorithms](https://cp-algorithms.com/num_methods/binary_search.html)
-  * [Binary Search - VNOI Wiki](https://vnoi.info/wiki/algo/basic/binary-search.md)
-  * [Two Pointers - VNOI Wiki](https://vnoi.info/wiki/algo/basic/two-pointers.md)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |    OJ     |                       Name                        |           Categories            |
   | :-------: | :-----------------------------------------------: | :-----------------------------: |
@@ -131,34 +102,19 @@ Register accounts on Online Judges:
   | **NBKOJ** | [qn21dance](https://nbk.homes/problem/qn21dance)  |         _Two Pointers_          |
   | **VNOJ**  | [vmquabeo](https://oj.vnoi.info/problem/vmquabeo) | _Two Pointers, Data Structures_ |
 
-</details>
-
 ### Lesson 3 (16.11)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Binary Search (continued).
+  - Ternary Search.
 
-  * Binary Search (continued).
-  * Ternary Search.
+- Resources:
 
-</details>
+  - [Ternary Search - CP-Algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
+  - [Ternary Search - VNOI Wiki](https://vnoi.info/wiki/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search.md)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Ternary Search - CP-Algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
-  * [Ternary Search - VNOI Wiki](https://vnoi.info/wiki/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search.md)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                                              Name                                              |                  Categories                   |
   | :------------: | :--------------------------------------------------------------------------------------------: | :-------------------------------------------: |
@@ -173,38 +129,23 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |                        [surebet](https://lqdoj.edu.vn/problem/surebet)                         | _Ternary Search, Binary Search, Two Pointers_ |
   |   **KATTIS**   | [europeantrip](https://open.kattis.com/contests/vietnam-national17-open/problems/europeantrip) |          _Ternary Search, Geometry_           |
 
-</details>
-
 ### Lesson 4 (24.11)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Parallel Binary Search.
+  - Bitmask.
+  - Meet-in-the-middle.
 
-  * Parallel Binary Search.
-  * Bitmask.
-  * Meet-in-the-middle.
+- Resources:
 
-</details>
+  - [Parallel Binary Search [tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/45578)
+  - [BITMASK - FOR BEGINNERS - Codeforces Blog](https://codeforces.com/blog/entry/18169)
+  - [Bit Tricks for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/)
+  - [Fun with Bits - VNOI Wiki](https://vnoi.info/wiki/translate/topcoder/fun-with-bits.md)
+  - [Meet In The Middle - USACO Guide](https://usaco.guide/gold/meet-in-the-middle?lang=cpp)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Parallel Binary Search [tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/45578)
-  * [BITMASK - FOR BEGINNERS - Codeforces Blog](https://codeforces.com/blog/entry/18169)
-  * [Bit Tricks for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/)
-  * [Fun with Bits - VNOI Wiki](https://vnoi.info/wiki/translate/topcoder/fun-with-bits.md)
-  * [Meet In The Middle - USACO Guide](https://usaco.guide/gold/meet-in-the-middle?lang=cpp)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |    OJ    |                          Name                           |                     Categories                      |
   | :------: | :-----------------------------------------------------: | :-------------------------------------------------: |
@@ -215,36 +156,21 @@ Register accounts on Online Judges:
   | **VNOJ** |      [dttui1](https://oj.vnoi.info/problem/dttui1)      |         _Meet-in-the-middle, Two Pointers_          |
   | **VNOJ** |       [dgold](https://oj.vnoi.info/problem/dgold)       | _Meet-in-the-middle, Two Pointers, Data Structures_ |
 
-</details>
-
 ### Lesson 5 (26.11)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Prefix Sum.
+  - Prefix Sum 2D.
 
-  * Prefix Sum.
-  * Prefix Sum 2D.
+- Resources:
 
-</details>
+  - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
+  - [Data Structures Overview - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/data-structures-overview.md)
+  - [Introduction to Prefix Sum - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
+  - [More on Prefix Sum - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
-  * [Data Structures Overview - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/data-structures-overview.md)
-  * [Introduction to Prefix Sum - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
-  * [More on Prefix Sum - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
-  
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice problems:
 
   |    OJ     |                          Name                          |           Categories           |
   | :-------: | :----------------------------------------------------: | :----------------------------: |
@@ -256,44 +182,29 @@ Register accounts on Online Judges:
   | **NBKOJ** |       [plants](https://nbk.homes/problem/plants)       |        _Prefix Sum 2D_         |
   | **NBKOJ** |  [voi15mincut](https://nbk.homes/problem/voi15mincut)  | _Prefix Sum 2D, Binary Search_ |
 
-</details>
-
 ### Lesson 6 (03.12)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Congruence.
+  - Fermat's Little Theorem.
+  - Binary Exponentiation.
+  - Modular Inverse.
+  - Arithmetic Progression and Geometric Progression.
 
-  * Congruence.
-  * Fermat's Little Theorem.
-  * Binary Exponentiation.
-  * Modular Inverse.
-  * Arithmetic Progression and Geometric Progression.
+- Resources:
 
-</details>
+  - [Congruence - Wolfram MathWorld](https://mathworld.wolfram.com/Congruence.html)
+  - [Modulo - VNOI Wiki](https://vnoi.info/wiki/translate/he/So-hoc-Phan-1-Modulo-gcd.md)
+  - [Fermat's Little Theorem - GeeksforGeeks](https://www.geeksforgeeks.org/fermats-little-theorem/)
+  - [Binary Exponentiation - Cp-Algorithms](https://cp-algorithms.com/algebra/binary-exp.html)
+  - [Binary Exponentiation - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-3.md)
+  - [Modular Multiplicative Inverse - CP-Algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
+  - [Modular Inverse - VNOI Wiki](https://vnoi.info/wiki/algo/math/modular-inverse.md)
+  - [Arithmetic Progression - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_progression)
+  - [Geometric Progression - Wikipedia](https://en.wikipedia.org/wiki/Geometric_progression)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Congruence - Wolfram MathWorld](https://mathworld.wolfram.com/Congruence.html)
-  * [Modulo - VNOI Wiki](https://vnoi.info/wiki/translate/he/So-hoc-Phan-1-Modulo-gcd.md)
-  * [Fermat's Little Theorem - GeeksforGeeks](https://www.geeksforgeeks.org/fermats-little-theorem/)
-  * [Binary Exponentiation - Cp-Algorithms](https://cp-algorithms.com/algebra/binary-exp.html)
-  * [Binary Exponentiation - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-3.md)
-  * [Modular Multiplicative Inverse - CP-Algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
-  * [Modular Inverse - VNOI Wiki](https://vnoi.info/wiki/algo/math/modular-inverse.md)
-  * [Arithmetic Progression - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_progression)
-  * [Geometric Progression - Wikipedia](https://en.wikipedia.org/wiki/Geometric_progression)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                           Name                           |               Categories               |
   | :------------: | :------------------------------------------------------: | :------------------------------------: |
@@ -303,40 +214,25 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |       [goodarr](https://nbk.homes/problem/goodarr)       |            _Number Theory_             |
   |   **NBKOJ**    |   [sumdivisors](https://nbk.homes/problem/sumdivisors)   |            _Number Theory_             |
 
-</details>
-
 ### Lesson 7 (11.12)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Prime Number.
+  - Sieve of Eratosthenes.
+  - Prime Factorization in O(log).
+  - Some Useful Number Theoretic Functions.
 
-  * Prime Number.
-  * Sieve of Eratosthenes.
-  * Prime Factorization in O(log).
-  * Some Useful Number Theoretic Functions.
+- Resources:
 
-</details>
+  - [Sieve of Eratosthenes - CP-Algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
+  - [Prime Number and Sieve of Eratosthenes - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
+  - [Integer Factorization - CP-Algorithms](https://cp-algorithms.com/algebra/factorization.html)
+  - [Arithmetic Function - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_function)
+  - [Number of Divisors & Sum of Divisors - CP-Algorithms](https://cp-algorithms.com/algebra/divisors.html)
+  - CodeCungRR Blogs: [blog 1](https://www.facebook.com/code.cung.rr/posts/pfbid0hfZaxATnTTtmm9Zvwx3FwkZ4159KVetcfPj93CLRmEoDRk4uSiKS8bMsswZrGSpml) and [blog 2](https://www.facebook.com/code.cung.rr/posts/pfbid02i2RMbeiaLrdBTEqdSyZSoxvUgbXSQaWCqRxV3XYKjEoK7DctdHJd4fDVfHEe1GDql)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Sieve of Eratosthenes - CP-Algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
-  * [Prime Number and Sieve of Eratosthenes - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
-  * [Integer Factorization - CP-Algorithms](https://cp-algorithms.com/algebra/factorization.html)
-  * [Arithmetic Function - Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_function)
-  * [Number of Divisors & Sum of Divisors - CP-Algorithms](https://cp-algorithms.com/algebra/divisors.html)
-  * CodeCungRR Blogs: [blog 1](https://www.facebook.com/code.cung.rr/posts/pfbid0hfZaxATnTTtmm9Zvwx3FwkZ4159KVetcfPj93CLRmEoDRk4uSiKS8bMsswZrGSpml) and [blog 2](https://www.facebook.com/code.cung.rr/posts/pfbid02i2RMbeiaLrdBTEqdSyZSoxvUgbXSQaWCqRxV3XYKjEoK7DctdHJd4fDVfHEe1GDql)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems
 
   |    OJ     |                              Name                               |                  Categories                  |
   | :-------: | :-------------------------------------------------------------: | :------------------------------------------: |
@@ -349,38 +245,23 @@ Register accounts on Online Judges:
   | **VNOJ**  |          [ctnown](https://oj.vnoi.info/problem/ctnown)          |         _Sieve, Dynamic Programming_         |
   | **NBKOJ** |          [bddivan](https://nbk.homes/problem/bddivan)           | _DP, Binary Exponentiation, Modular Inverse_ |
 
-</details>
-
 ### Lesson 8 (15.12)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Greatest Common Divisors (GCD) and Least Common Multiples (LCM) - Euclidean Algorithm.
+  - Euler's Totient Function.
+  - Primality Tests.
+  - Randomized Algorithms (Probabilities).
 
-  * Greatest Common Divisors (GCD) and Least Common Multiples (LCM) - Euclidean Algorithm.
-  * Euler's Totient Function.
-  * Primality Tests.
-  * Randomized Algorithms (Probabilities).
+- Resources:
 
-</details>
+  - [Euler's Totient Function - CP-Algorithms](https://cp-algorithms.com/algebra/phi-function.html)
+  - [GCD & LCM - GeeksforGeeks](https://www.geeksforgeeks.org/mathematical-algorithms/mathematical-algorithms-gcd-lcm/)
+  - [Primality Tests](https://cp-algorithms.com/algebra/primality_tests.html)
+  - [Probabilities - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-6.md)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Euler's Totient Function - CP-Algorithms](https://cp-algorithms.com/algebra/phi-function.html)
-  * [GCD & LCM - GeeksforGeeks](https://www.geeksforgeeks.org/mathematical-algorithms/mathematical-algorithms-gcd-lcm/)
-  * [Primality Tests](https://cp-algorithms.com/algebra/primality_tests.html)
-  * [Probabilities - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-6.md)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                                               Name                                               |                      Categories                       |
   | :------------: | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
@@ -392,35 +273,19 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                         [cwdsquare](https://nbk.homes/problem/cwdsquare)                         |    _Probabilities, Number Theory, Data Structures_    |
   |    **VNOJ**    |               [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d)                |         _Probabilities, Interactive, Graphs_          |
 
-</details>
-
 ### Lesson 9 (31.12)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Basic of Combinatorics: Counting Problems.
 
-  * Basic of Combinatorics: Counting Problems.
+- Resources:
 
-</details>
+  - [Combinations and Permutations - Math is Fun](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
+  - [Basic of Combinatorics - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-5.md)
+  - [Binomial Coefficients - CP-Algorithm](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
 
-
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Combinations and Permutations - Math is Fun](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
-  * [Basic of Combinatorics - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-5.md)
-  * [Binomial Coefficients - CP-Algorithm](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                             Name                              |            Categories            |
   | :------------: | :-----------------------------------------------------------: | :------------------------------: |
@@ -431,34 +296,18 @@ Register accounts on Online Judges:
   | **Codeforces** |  [Benches](https://codeforces.com/problemset/problem/630/H)   |         _Combinatorics_          |
   | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | _Combinatorics, Modular Inverse_ |
 
-</details>
-
 ### Lesson 10 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Combinatorics: Inclusion-Exclusion Principle.
 
-  * Combinatorics: Inclusion-Exclusion Principle.
+- Resources:
 
-</details>
+  - [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+  - [Inclusion-Exclusion Principle - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-7.md)
 
-
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
-  * [Inclusion-Exclusion Principle - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-7.md)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |    OJ     |                        Name                        |           Categories           |
   | :-------: | :------------------------------------------------: | :----------------------------: |
@@ -467,40 +316,25 @@ Register accounts on Online Judges:
   | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | _Combinatorics, Prefix Sum 2D_ |
   | **VNOJ**  |   [raygun](https://oj.vnoi.info/problem/raygun)    | _Combinatorics, Number Theory_ |
 
-</details>
-
 ### Lesson 11 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Dynamic Programming (DP) Overview.
+  - Tracing.
+  - Some Basic Techniques: Memory Optimization, Swap Labels.
 
-  * Dynamic Programming (DP) Overview.
-  * Tracing.
-  * Some Basic Techniques: Memory Optimization, Swap Labels.
+- Resources:
 
-</details>
+  - [About Dynamic Programming](https://vnoi.info/wiki/algo/dp/thac-mac-ve-qhd.md)
+  - [Dynamic Programming: From Novice to Advanced - Topcoder](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced) (or [Vietnamese version](https://vnoi.info/wiki/translate/topcoder/dynamic-programming.md))
+  - [Palindrome DP - VNOI Wiki](https://vnoi.info/wiki/algo/dp/palindrome-problems.md)
+  - [Some Basic DP Problems - VNOI Wiki](https://vnoi.info/wiki/algo/dp/basic-problems.md)
+  - [Some Optimization Techniques - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
+  - [Introduction to DP - USACO Guide](https://usaco.guide/gold/intro-dp?lang=cpp)
+  - [Longest Increasing Subsequence - USACO Guide](https://usaco.guide/gold/lis?lang=cpp)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [About Dynamic Programming](https://vnoi.info/wiki/algo/dp/thac-mac-ve-qhd.md)
-  * [Dynamic Programming: From Novice to Advanced - Topcoder](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced) (or [Vietnamese version](https://vnoi.info/wiki/translate/topcoder/dynamic-programming.md))
-  * [Palindrome DP - VNOI Wiki](https://vnoi.info/wiki/algo/dp/palindrome-problems.md)
-  * [Some Basic DP Problems - VNOI Wiki](https://vnoi.info/wiki/algo/dp/basic-problems.md)
-  * [Some Optimization Techniques - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
-  * [Introduction to DP - USACO Guide](https://usaco.guide/gold/intro-dp?lang=cpp)
-  * [Longest Increasing Subsequence - USACO Guide](https://usaco.guide/gold/lis?lang=cpp)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |    OJ     |                           Name                           |              Categories              |
   | :-------: | :------------------------------------------------------: | :----------------------------------: |
@@ -512,34 +346,19 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ AtCoder ] Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
 
-</details>
-
 ### Lesson 12 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Practice: Dynamic Programming.
 
-  * Dynamic Programming Practice.
+- Resources:
 
-</details>
+  - [Knapsack DP - USACO Guide](https://usaco.guide/gold/knapsack?lang=cpp)
+  - [Path on Grids - USACO Guide](https://usaco.guide/gold/paths-grids?lang=cpp)
+  - **Essential Note:** [DP Tutorial and Problem List - CF Blogs](https://codeforces.com/blog/entry/67679)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Knapsack DP - USACO Guide](https://usaco.guide/gold/knapsack?lang=cpp)
-  * [Path on Grids - USACO Guide](https://usaco.guide/gold/paths-grids?lang=cpp)
-  * **Essential Note:** [DP Tutorial and Problem List - CF Blogs](https://codeforces.com/blog/entry/67679)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |    OJ     |                        Name                        |      Categories       |
   | :-------: | :------------------------------------------------: | :-------------------: |
@@ -548,39 +367,24 @@ Register accounts on Online Judges:
   | **NBKOJ** | [qn21altstr](https://nbk.homes/problem/qn21altstr) | _DP, Data Structures_ |
   | **NBKOJ** |   [knapsack](https://nbk.homes/problem/knapsack)   |         _DP_          |
 
-</details>
-
 ### Lesson 13 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Introduction to Data Structures.
+  - Linked List.
+  - Stack.
 
-  * Introduction to Data Structures.
-  * Linked List.
-  * Stack.
+- Resources:
 
-</details>
+  - [Introduction to Data Structure - USACO Guide](https://usaco.guide/bronze/intro-ds?lang=cpp)
+  - [Arrays and Linked Lists - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/array-vs-linked-lists.md)
+  - [Linked List Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
+  - [Minimum Stack - CP-Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+  - [Stack - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/Stack.md)
+  - [Stack Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Introduction to Data Structure - USACO Guide](https://usaco.guide/bronze/intro-ds?lang=cpp)
-  * [Arrays and Linked Lists - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/array-vs-linked-lists.md)
-  * [Linked List Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
-  * [Minimum Stack - CP-Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
-  * [Stack - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/Stack.md)
-  * [Stack Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems
 
   |       OJ       |                                         Name                                         |  Categories   |
   | :------------: | :----------------------------------------------------------------------------------: | :-----------: |
@@ -594,36 +398,21 @@ Register accounts on Online Judges:
   | **Codeforces** |        [Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)         |    _Stack_    |
   | **Codeforces** |            [Mike and Feet](https://codeforces.com/contest/547/problem/B)             |  _Stack, DP_  |
 
-</details>
-
 ### Lesson 14 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Deque.
+  - Practice: Stack.
 
-  * Deque.
-  * Stack Practice.
+- Resources:
 
-</details>
+  - [Minimum Queue - CP-Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+  - [Deque - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/Deque)
+  - [Deque and Sliding Window Problems - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/deque-min-max.md)
+  - [Sliding Window - USACO Guide](https://usaco.guide/gold/sliding-window?lang=cpp)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Minimum Queue - CP-Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
-  * [Deque - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/Deque)
-  * [Deque and Sliding Window Problems - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/deque-min-max.md)
-  * [Sliding Window - USACO Guide](https://usaco.guide/gold/sliding-window?lang=cpp)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |    OJ    |                       Name                        |         Categories         |
   | :------: | :-----------------------------------------------: | :------------------------: |
@@ -635,24 +424,14 @@ Register accounts on Online Judges:
   | **VNOJ** |   [crec01](https://oj.vnoi.info/problem/crec01)   |        _Stack, DP_         |
   | **VNOJ** |    [crect](https://oj.vnoi.info/problem/crect)    | _Stack, DP, Combinatorics_ |
 
-</details>
-
 ### Lesson 15 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Data Structures Practice.
+  - Some Useful Built-in Data Structures in C++.
 
-  * Data Structures Practice.
-  * Some Useful Built-in Data Structures in C++.
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                              Name                              |        Categories         |
   | :------------: | :------------------------------------------------------------: | :-----------------------: |
@@ -663,40 +442,25 @@ Register accounts on Online Judges:
   |    **VNOJ**    |           [kmin](https://oj.vnoi.info/problem/kmin)            | _Data Structures, Greedy_ |
   | **Codeforces** | [OpenStreetMap](https://codeforces.com/contest/1195/problem/E) |   _Data Structures, DP_   |
 
-</details>
-
 ### Lesson 16 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Introduction to Segment Tree and Fenwick Tree.
+  - Difference Array.
 
-  * Introduction to Segment Tree and Fenwick Tree.
-  * Difference Array.
+- Resources:
 
-</details>
+  - [Segment Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html)
+  - [Fenwick Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/fenwick.html)
+  - [Segment Tree Basic - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-basic.md)
+  - [Segment Tree Extend - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md)
+  - [Fenwick Tree - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/fenwick.md)
+  - [Efficient and Easy Segment Trees - Codeforces Blog](http://codeforces.com/blog/entry/18051) (or [Vietnamese version](https://vnoi.info/wiki/translate/codeforces/Efficient-and-easy-segment-trees.md))
+  - [Point Update Range Sum - USACO](https://usaco.guide/gold/PURS?lang=cpp)
+  - [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Segment Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html)
-  * [Fenwick Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/fenwick.html)
-  * [Segment Tree Basic - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-basic.md)
-  * [Segment Tree Extend - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md)
-  * [Fenwick Tree - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/fenwick.md)
-  * [Efficient and Easy Segment Trees - Codeforces Blog](http://codeforces.com/blog/entry/18051) (or [Vietnamese version](https://vnoi.info/wiki/translate/codeforces/Efficient-and-easy-segment-trees.md))
-  * [Point Update Range Sum - USACO](https://usaco.guide/gold/PURS?lang=cpp)
-  * [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                             Name                             |                   Categories                   |
   | :------------: | :----------------------------------------------------------: | :--------------------------------------------: |
@@ -707,36 +471,21 @@ Register accounts on Online Judges:
   | **Codeforces** | [Subsequences](https://codeforces.com/contest/597/problem/C) |        _Segment Tree, Fenwick Tree, DP_        |
   |    **VNOJ**    |      [pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4)       |        _Segment Tree, Fenwick Tree, DP_        |
 
-</details>
-
 ### Lesson 17 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Lazy Update (Lazy Propagation) on Segment Tree.
+  - Merge Sort Tree.
 
-  * Lazy Update (Lazy Propagation) on Segment Tree.
-  * Merge Sort Tree.
+- Resources:
 
-</details>
+  - [Range Update (Lazy Propagation) - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#range-updates-lazy-propagation)
+  - [Lazy Propagation - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#2-lazy-propagation)
+  - [Merge Sort Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#find-the-smallest-number-greater-or-equal-to-a-specified-number-no-modification-queries)
+  - [Merge Sort Tree - Codechef Tutorial](https://discuss.codechef.com/t/merge-sort-tree-tutorial/14277)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Range Update (Lazy Propagation) - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#range-updates-lazy-propagation)
-  * [Lazy Propagation - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#2-lazy-propagation)
-  * [Merge Sort Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#find-the-smallest-number-greater-or-equal-to-a-specified-number-no-modification-queries)
-  * [Merge Sort Tree - Codechef Tutorial](https://discuss.codechef.com/t/merge-sort-tree-tutorial/14277)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |    OJ     |                       Name                        |                      Categories                      |
   | :-------: | :-----------------------------------------------: | :--------------------------------------------------: |
@@ -748,39 +497,24 @@ Register accounts on Online Judges:
   | **NBKOJ** | [updassign](https://nbk.homes/problem/updassign)  |             _Segment Tree (Lazy Update)_             |
   | **NBKOJ** | [polyquery](https://nbk.homes/problem/polyquery)  |          _Segment Tree (Lazy Update), Math_          |
 
-</details>
-
 ### Lesson 18 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Walk on Segment Tree.
+  - Segment Tree combined with other Data Structures.
+  - Segment Tree 2D and Fenwick Tree 2D.
 
-  * Walk on Segment Tree.
-  * Segment Tree combined with other Data Structures.
-  * Segment Tree 2D and Fenwick Tree 2D.
+- Resources:
 
-</details>
+  - [Walk on Segment Tree - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#9-ch%E1%BA%B7t-nh%E1%BB%8B-ph%C3%A2n-tr%C3%AAn-segment-tree)
+  - [Advanced versions of Segment Trees - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#advanced-versions-of-segment-trees)
+  - [Segment Tree: Generalization to higher dimensions - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#generalization-to-higher-dimensions)
+  - [Fenwick Tree: Finding sum in two-dimensional array](https://cp-algorithms.com/data_structures/fenwick.html#finding-sum-in-two-dimensional-array)
+  - [More Applications of Segment Tree - USACO Guide](https://usaco.guide/plat/segtree-ext?lang=cpp)
+  - [2D Range Queries - USACO Guide](https://usaco.guide/plat/2DRQ?lang=cpp)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Walk on Segment Tree - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#9-ch%E1%BA%B7t-nh%E1%BB%8B-ph%C3%A2n-tr%C3%AAn-segment-tree)
-  * [Advanced versions of Segment Trees - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#advanced-versions-of-segment-trees)
-  * [Segment Tree: Generalization to higher dimensions - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#generalization-to-higher-dimensions)
-  * [Fenwick Tree: Finding sum in two-dimensional array](https://cp-algorithms.com/data_structures/fenwick.html#finding-sum-in-two-dimensional-array)
-  * [More Applications of Segment Tree - USACO Guide](https://usaco.guide/plat/segtree-ext?lang=cpp)
-  * [2D Range Queries - USACO Guide](https://usaco.guide/plat/2DRQ?lang=cpp)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |    OJ     |                            Name                             |              Categories              |
   | :-------: | :---------------------------------------------------------: | :----------------------------------: |
@@ -790,23 +524,13 @@ Register accounts on Online Judges:
   | **NBKOJ** |    [bfprincess2](https://nbk.homes/problem/bfprincess2)     |  _Segment Tree 2D, Fenwick Tree 2D_  |
   | **VNOJ**  |      [smartdog](https://oj.vnoi.info/problem/smartdog)      |          _Segment Tree 2D_           |
 
-</details>
-
 ### Lesson 19 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Practice: Segment Tree and Fenwick Tree.
 
-  * Segment Tree and Fenwick Tree Practice.
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                                        Name                                        |                Categories                |
   | :------------: | :--------------------------------------------------------------------------------: | :--------------------------------------: |
@@ -820,36 +544,21 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ VNOJ ] Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
-</details>
-
 ### Lesson 20 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Graph Theory Overview.
+  - Graph Traversal: Breadth First Search (BFS)
 
-  * Graph Theory Overview.
-  * Graph Traversal: Breadth First Search (BFS)
+- Resources:
 
-</details>
+  - [Algorithms Course - Graph Theory Tutorial - freeCodeCamp.org](https://youtu.be/09_LlHjoEiY)
+  - [Breadth First Search - CP-Algorithms](https://cp-algorithms.com/graph/breadth-first-search.html)
+  - [Breadth First Search - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/breadth-first-search.md)
+  - [Breadth First Search - USACO Guide](https://usaco.guide/gold/bfs?lang=cpp)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Algorithms Course - Graph Theory Tutorial - freeCodeCamp.org](https://youtu.be/09_LlHjoEiY)
-  * [Breadth First Search - CP-Algorithms](https://cp-algorithms.com/graph/breadth-first-search.html)
-  * [Breadth First Search - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/breadth-first-search.md)
-  * [Breadth First Search - USACO Guide](https://usaco.guide/gold/bfs?lang=cpp)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                             Name                              |       Categories       |
   | :------------: | :-----------------------------------------------------------: | :--------------------: |
@@ -859,32 +568,17 @@ Register accounts on Online Judges:
   |    **VNOJ**    |        [robocon](https://oj.vnoi.info/problem/robocon)        |         _BFS_          |
   | **Codeforces** | [Subsequences](https://codeforces.com/contest/1183/problem/E) | _BFS, Data Strucutres_ |
 
-</details>
-
 ### Lesson 21 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Advanced BFS: 0-1 BFS and Multi-source BFS.
 
-  * Advanced BFS: 0-1 BFS and Multi-source BFS.
+- Resources:
 
-</details>
+  - [0-1 BFS - CP-Algorithms](https://cp-algorithms.com/graph/01_bfs.html)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [0-1 BFS - CP-Algorithms](https://cp-algorithms.com/graph/01_bfs.html)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                                   Name                                   |             Categories              |
   | :------------: | :----------------------------------------------------------------------: | :---------------------------------: |
@@ -894,34 +588,19 @@ Register accounts on Online Judges:
   | **Codeforces** |       [Shortest Path](https://codeforces.com/contest/59/problem/E)       | _Multi-source BFS, Data Structures_ |
   |    **VNOJ**    |        [voi18specone](https://oj.vnoi.info/problem/voi18specone)         | _Multi-source BFS, Data Structures_ |
 
-</details>
-
 ### Lesson 22 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Graph Traversal: Depth First Search (DFS).
+  - Advanced DFS: Assign Colors (to Detect Cycles and Bipartite Graph) and Compute the Entry & Exit Times.
 
-  * Graph Traversal: Depth First Search (DFS).
-  * Advanced DFS: Assign Colors (to Detect Cycles and Bipartite Graph) and Compute the Entry & Exit Times.
+- Resources:
 
-</details>
+  - [Depth First Search - CP-Algorithms](https://cp-algorithms.com/graph/depth-first-search.html)
+  - [Depth First Search - USACO Guide](https://usaco.guide/silver/dfs?lang=cpp)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Depth First Search - CP-Algorithms](https://cp-algorithms.com/graph/depth-first-search.html)
-  * [Depth First Search - USACO Guide](https://usaco.guide/silver/dfs?lang=cpp)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                                Name                                 |       Categories       |
   | :------------: | :-----------------------------------------------------------------: | :--------------------: |
@@ -931,34 +610,19 @@ Register accounts on Online Judges:
   |    **VNOJ**    |          [qbciarc](https://oj.vnoi.info/problem/qbcirarc)           |         _DFS_          |
   |    **VNOJ**    | [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d) |         _DFS_          |
 
-</details>
-
 ### Lesson 23 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Disjont Set Union (DSU or Union Find).
 
-  * Disjont Set Union (DSU or Union Find).
+- Resources:
 
-</details>
+  - [Disjoint Set Union - CP-Algorithms](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+  - [Disjoint Set Union - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/disjoint-set-union.md)
+  - [Disjoint Set Union - USACO Guide](https://usaco.guide/gold/dsu?lang=cpp)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [Disjoint Set Union - CP-Algorithms](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
-  * [Disjoint Set Union - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/disjoint-set-union.md)
-  * [Disjoint Set Union - USACO Guide](https://usaco.guide/gold/dsu?lang=cpp)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                                Name                                | Categories |
   | :------------: | :----------------------------------------------------------------: | :--------: |
@@ -968,35 +632,20 @@ Register accounts on Online Judges:
   |    **VNOJ**    |           [cwdctnce](https://nbk.homes/problem/cwdctnce)           |   _DSU_    |
   | **Codeforces** | [Information Graphs](https://codeforces.com/contest/466/problem/E) |   _DSU_    |
 
-</details>
-
 ### Lesson 24 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - Minimum Spanning Tree (MST): Prim's Algorithm and Kruskal's Algorithm.
 
-  * Minimum Spanning Tree (MST): Prim's Algorithm and Kruskal's Algorithm.
+- Resources:
 
-</details>
+  - [MST - Prim's Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
+  - [MST - Kruskal's Algorithm](https://cp-algorithms.com/graph/mst_kruskal.html)
+  - [Minimum Spanning Tree - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/minimum-spanning-tree.md)
+  - [Minimum Spanning Tree - USACO Guide](https://usaco.guide/gold/mst?lang=cpp)
 
-<details>
-
-  <summary>Resources:</summary>
-  </br>
-
-  * [MST - Prim's Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
-  * [MST - Kruskal's Algorithm](https://cp-algorithms.com/graph/mst_kruskal.html)
-  * [Minimum Spanning Tree - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/minimum-spanning-tree.md)
-  * [Minimum Spanning Tree - USACO Guide](https://usaco.guide/gold/mst?lang=cpp)
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                                 Name                                 |      Categories      |
   | :------------: | :------------------------------------------------------------------: | :------------------: |
@@ -1006,23 +655,13 @@ Register accounts on Online Judges:
   | **Codeforces** |    [Path Queries](https://codeforces.com/contest/1213/problem/G)     | _MST, Combinatorics_ |
   | **Codeforces** | [Connected Components](https://codeforces.com/contest/292/problem/D) |        _MST_         |
 
-</details>
-
 ### Lesson 25 (??.??)
 
-<details>
+- Concepts:
 
-  <summary>Concepts:</summary>
-  </br>
+  - DSU & MST Practice.
 
-  * DSU & MST Practice.
-
-</details>
-
-<details>
-
-  <summary>Practice Problems:</summary>
-  </br>
+- Practice Problems:
 
   |       OJ       |                                               Name                                                |       Categories       |
   | :------------: | :-----------------------------------------------------------------------------------------------: | :--------------------: |
@@ -1031,5 +670,3 @@ Register accounts on Online Judges:
   |    **VNOJ**    |                             [vmst](https://oj.vnoi.info/problem/vmst)                             | _MST, Graph Traversal_ |
   |    **VNOJ**    |                            [aznet](https://oj.vnoi.info/problem/aznet)                            |         _MST_          |
   | **Codeforces** |             [Roads not only in Berland](https://codeforces.com/contest/25/problem/D)              |         _DSU_          |
-  
-</details>
