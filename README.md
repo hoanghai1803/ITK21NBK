@@ -671,3 +671,43 @@ Register accounts on Online Judges:
   |    **VNOJ**    |                            [aznet](https://oj.vnoi.info/problem/aznet)                            |         _MST_          |
   |   **NBKOJ**    |                         [assignvar](https://nbk.homes/problem/assignvar)                          | _MST, Data Structures_ |
   |   **NBKOJ**    |                            [admire](https://nbk.homes/problem/admire)                             |         _DSU_          |
+
+### Lesson 26 (??.??)
+
+- Concepts:
+
+  - Range Minimum Query (RMQ).
+  - Lowest Common Ancestor (LCA).
+
+- Resources:
+
+  - [RMQ and LCA - Topcoder](https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor) (or [Vietnamese version](https://vnoi.info/wiki/translate/topcoder/Range-Minimum-Query-and-Lowest-Common-Ancestor.md))
+  - [Range Minimum Query - CP-Algorithms](https://cp-algorithms.com/sequences/rmq.html)
+  - [Sparse Table - CP-Algorithms](https://cp-algorithms.com/data_structures/sparse-table.html)
+
+- Practice Problems:
+
+  |       OJ       |                         Name                          |                     Categories                     |
+  | :------------: | :---------------------------------------------------: | :------------------------------------------------: |
+  |   **NBKOJ**    |    [bfstones](https://nbk.homes/problem/bfstones)     |                 _Data Structures_                  |
+  | **Codeforces** | [Strip](https://codeforces.com/contest/487/problem/B) | _DP, Data Structures, Binary Search, Two Pointers_ |
+  |    **VNOJ**    |     [hbtlca](https://oj.vnoi.info/problem/hbtlca)     |                       _LCA_                        |
+  |    **VNOJ**    |      [pwalk](https://oj.vnoi.info/problem/pwalk)      |                     _LCA, DP_                      |
+  |    **VNOJ**    |   [lubenica](https://oj.vnoi.info/problem/lubenica)   |                     _LCA, DP_                      |
+  |    **VNOJ**    |    [fselect](https://oj.vnoi.info/problem/fselect)    |                     _LCA, DP_                      |
+
+  **_Recommendation:_** [[ VNOJ ] Educational RMQ Contest](https://oj.vnoi.info/contest/rmq)
+
+### Lesson 26 (??.??)
+
+- Concepts:
+
+  - LCA Practice.
+
+- Practice Problems:
+
+  |    OJ    |                              Name                               |     Categories      |
+  | :------: | :-------------------------------------------------------------: | :-----------------: |
+  | **VNOJ** |          [votree](https://oj.vnoi.info/problem/votree)          | _LCA, Sparse Table_ |
+  | **VNOJ** |        [upgranet](https://oj.vnoi.info/problem/upgranet)        |   _LCA, MST, DP_    |
+  | **VNOJ** | [putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje) |   _LCA, DSU, DP_    | 
