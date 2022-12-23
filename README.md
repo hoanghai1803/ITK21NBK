@@ -650,16 +650,21 @@ Register accounts on Online Judges:
   |       OJ       |                                 Name                                 |      Categories      |
   | :------------: | :------------------------------------------------------------------: | :------------------: |
   |    **VNOJ**    |            [fwater](https://oj.vnoi.info/problem/fwater)             |        _MST_         |
-  |    **VNOJ**    |          [vnempire](https://oj.vnoi.info/problem/vnempire)           |     _MST, Math_      |
+  |    **VNOJ**    |          [vnempire](https://oj.vnoi.info/problem/vnempire)           |   _MST, Geometry_    |
   |   **NBKOJ**    |          [qn16emoter](https://nbk.homes/problem/qn16emotor)          |        _MST_         |
   | **Codeforces** |    [Path Queries](https://codeforces.com/contest/1213/problem/G)     | _MST, Combinatorics_ |
   | **Codeforces** | [Connected Components](https://codeforces.com/contest/292/problem/D) |        _MST_         |
 
 ### Lesson 25 (??.??)
 
-- Concepts:
+<details>
 
-  - DSU & MST Practice.
+  <summary> 
+    - Concepts:
+  </summary>
+
+    - DSU & MST Practice.
+</details>
 
 - Practice Problems:
 
