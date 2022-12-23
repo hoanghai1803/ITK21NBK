@@ -659,14 +659,15 @@ Register accounts on Online Judges:
 
 <details>
 
-  <summary> 
-    - Concepts:
-  </summary>
+  <summary>Concepts:</summary>
 
-    - DSU & MST Practice.
+  * DSU & MST Practice.
+
 </details>
 
-- Practice Problems:
+<details>
+
+  <summary>Practice Problems:</summary>
 
   |       OJ       |                                               Name                                                |       Categories       |
   | :------------: | :-----------------------------------------------------------------------------------------------: | :--------------------: |
@@ -675,3 +676,5 @@ Register accounts on Online Judges:
   |    **VNOJ**    |                             [vmst](https://oj.vnoi.info/problem/vmst)                             | _MST, Graph Traversal_ |
   |    **VNOJ**    |                            [aznet](https://oj.vnoi.info/problem/aznet)                            |         _MST_          |
   | **Codeforces** |             [Roads not only in Berland](https://codeforces.com/contest/25/problem/D)              |         _DSU_          |
+  
+</details>
