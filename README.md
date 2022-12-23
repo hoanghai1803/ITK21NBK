@@ -602,13 +602,14 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ       |                                Name                                 |       Categories       |
-  | :------------: | :-----------------------------------------------------------------: | :--------------------: |
-  |    **VNOJ**    |           [nkguard](https://oj.vnoi.info/problem/nkguard)           |   _Graph Traversal_    |
-  | **Codeforces** |      [DFS Order](https://codeforces.com/gym/103861/problem/A)       |         _DFS_          |
-  |   **NBKOJ**    |         [sumsubtree](https://nbk.homes/problem/sumsubtree)          | _DFS, Data Structures_ |
-  |    **VNOJ**    |          [qbciarc](https://oj.vnoi.info/problem/qbcirarc)           |         _DFS_          |
-  |    **VNOJ**    | [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d) |         _DFS_          |
+  |       OJ       |                                   Name                                   |       Categories       |
+  | :------------: | :----------------------------------------------------------------------: | :--------------------: |
+  |    **VNOJ**    |             [nkguard](https://oj.vnoi.info/problem/nkguard)              |   _Graph Traversal_    |
+  | **Codeforces** |         [DFS Order](https://codeforces.com/gym/103861/problem/A)         |         _DFS_          |
+  | **Codeforces** | [Roads not only in Berland](https://codeforces.com/contest/25/problem/D) | _Graph Traversal, DSU_ |
+  |   **NBKOJ**    |            [sumsubtree](https://nbk.homes/problem/sumsubtree)            | _DFS, Data Structures_ |
+  |    **VNOJ**    |             [qbciarc](https://oj.vnoi.info/problem/qbcirarc)             |         _DFS_          |
+  |    **VNOJ**    |   [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d)    |         _DFS_          |
 
 ### Lesson 23 (??.??)
 
@@ -669,4 +670,4 @@ Register accounts on Online Judges:
   |    **VNOJ**    |                             [vmst](https://oj.vnoi.info/problem/vmst)                             | _MST, Graph Traversal_ |
   |    **VNOJ**    |                            [aznet](https://oj.vnoi.info/problem/aznet)                            |         _MST_          |
   |   **NBKOJ**    |                         [assignvar](https://nbk.homes/problem/assignvar)                          | _MST, Data Structures_ |
-  | **Codeforces** |             [Roads not only in Berland](https://codeforces.com/contest/25/problem/D)              |         _DSU_          |
+  |   **NBKOJ**    |                            [admire](https://nbk.homes/problem/admire)                             |         _DSU_          |
