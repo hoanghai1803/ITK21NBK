@@ -698,7 +698,7 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ VNOJ ] Educational RMQ Contest](https://oj.vnoi.info/contest/rmq)
 
-### Lesson 26 (??.??)
+### Lesson 27 (??.??)
 
 - Concepts:
 
