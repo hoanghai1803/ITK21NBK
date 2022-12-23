@@ -650,7 +650,7 @@ Register accounts on Online Judges:
   |       OJ       |                                 Name                                 |      Categories      |
   | :------------: | :------------------------------------------------------------------: | :------------------: |
   |    **VNOJ**    |            [fwater](https://oj.vnoi.info/problem/fwater)             |        _MST_         |
-  |    **VNOJ**    |          [vnempire](https://oj.vnoi.info/problem/vnempire)           |   _MST, Geometry_    |
+  |    **VNOJ**    |          [vnempire](https://oj.vnoi.info/problem/vnempire)           |        _MST_         |
   |   **NBKOJ**    |          [qn16emoter](https://nbk.homes/problem/qn16emotor)          |        _MST_         |
   | **Codeforces** |    [Path Queries](https://codeforces.com/contest/1213/problem/G)     | _MST, Combinatorics_ |
   | **Codeforces** | [Connected Components](https://codeforces.com/contest/292/problem/D) |        _MST_         |
@@ -666,7 +666,7 @@ Register accounts on Online Judges:
   |       OJ       |                                               Name                                                |       Categories       |
   | :------------: | :-----------------------------------------------------------------------------------------------: | :--------------------: |
   | **Hackerrank** | [johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) |     _MST, Bitwise_     |
-  |    **VNOJ**    |                            [cheer](https://oj.vnoi.info/problem/cheer)                            |         _MST_          |
   |    **VNOJ**    |                             [vmst](https://oj.vnoi.info/problem/vmst)                             | _MST, Graph Traversal_ |
   |    **VNOJ**    |                            [aznet](https://oj.vnoi.info/problem/aznet)                            |         _MST_          |
+  |   **NBKOJ**    |                         [assignvar](https://nbk.homes/problem/assignvar)                          | _MST, Data Structures_ |
   | **Codeforces** |             [Roads not only in Berland](https://codeforces.com/contest/25/problem/D)              |         _DSU_          |
