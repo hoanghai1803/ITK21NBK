@@ -45,6 +45,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Competitive Programming Overview.
   * Setup Environment.
@@ -61,6 +62,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [What is Competitive Programming? (William Lin)](https://youtu.be/ueNT-w7Oluw)
   * [Starting Competitive Programming - Steps and Mistakes (William Lin)](https://youtu.be/bVKHRtafgPc)
@@ -73,6 +75,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ     |                               Name                                |           Categories            |
   | :-------: | :---------------------------------------------------------------: | :-----------------------------: |
@@ -93,6 +96,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Binary Search.
   * Two Pointers.
@@ -102,6 +106,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [ITMO Academy: pilot course](https://codeforces.com/edu/course/2)
   * [Binary Search - CP-Algorithms](https://cp-algorithms.com/num_methods/binary_search.html)
@@ -113,6 +118,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ     |                       Name                        |           Categories            |
   | :-------: | :-----------------------------------------------: | :-----------------------------: |
@@ -132,6 +138,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Binary Search (continued).
   * Ternary Search.
@@ -141,6 +148,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Ternary Search - CP-Algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
   * [Ternary Search - VNOI Wiki](https://vnoi.info/wiki/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search.md)
@@ -150,6 +158,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                                              Name                                              |                  Categories                   |
   | :------------: | :--------------------------------------------------------------------------------------------: | :-------------------------------------------: |
@@ -171,6 +180,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Parallel Binary Search.
   * Bitmask.
@@ -181,6 +191,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Parallel Binary Search [tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/45578)
   * [BITMASK - FOR BEGINNERS - Codeforces Blog](https://codeforces.com/blog/entry/18169)
@@ -193,6 +204,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ    |                          Name                           |                     Categories                      |
   | :------: | :-----------------------------------------------------: | :-------------------------------------------------: |
@@ -210,6 +222,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Prefix Sum.
   * Prefix Sum 2D.
@@ -219,6 +232,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Prefix Sum and Difference Array - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/prefix-sum-and-difference-array.md)
   * [Data Structures Overview - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/data-structures-overview.md)
@@ -230,6 +244,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ     |                          Name                          |           Categories           |
   | :-------: | :----------------------------------------------------: | :----------------------------: |
@@ -248,6 +263,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Congruence.
   * Fermat's Little Theorem.
@@ -260,6 +276,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Congruence - Wolfram MathWorld](https://mathworld.wolfram.com/Congruence.html)
   * [Modulo - VNOI Wiki](https://vnoi.info/wiki/translate/he/So-hoc-Phan-1-Modulo-gcd.md)
@@ -276,6 +293,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                           Name                           |               Categories               |
   | :------------: | :------------------------------------------------------: | :------------------------------------: |
@@ -292,6 +310,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Prime Number.
   * Sieve of Eratosthenes.
@@ -303,6 +322,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Sieve of Eratosthenes - CP-Algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
   * [Prime Number and Sieve of Eratosthenes - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
@@ -316,6 +336,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ     |                              Name                               |                  Categories                  |
   | :-------: | :-------------------------------------------------------------: | :------------------------------------------: |
@@ -335,6 +356,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Greatest Common Divisors (GCD) and Least Common Multiples (LCM) - Euclidean Algorithm.
   * Euler's Totient Function.
@@ -346,6 +368,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Euler's Totient Function - CP-Algorithms](https://cp-algorithms.com/algebra/phi-function.html)
   * [GCD & LCM - GeeksforGeeks](https://www.geeksforgeeks.org/mathematical-algorithms/mathematical-algorithms-gcd-lcm/)
@@ -357,6 +380,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                                               Name                                               |                      Categories                       |
   | :------------: | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
@@ -375,6 +399,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Basic of Combinatorics: Counting Problems.
 
@@ -384,6 +409,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Combinations and Permutations - Math is Fun](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
   * [Basic of Combinatorics - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-5.md)
@@ -394,6 +420,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                             Name                              |            Categories            |
   | :------------: | :-----------------------------------------------------------: | :------------------------------: |
@@ -411,6 +438,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Combinatorics: Inclusion-Exclusion Principle.
 
@@ -420,6 +448,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
   * [Inclusion-Exclusion Principle - VNOI Wiki](https://vnoi.info/wiki/translate/he/Number-Theory-7.md)
@@ -429,6 +458,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ     |                        Name                        |           Categories           |
   | :-------: | :------------------------------------------------: | :----------------------------: |
@@ -444,6 +474,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Dynamic Programming (DP) Overview.
   * Tracing.
@@ -454,6 +485,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [About Dynamic Programming](https://vnoi.info/wiki/algo/dp/thac-mac-ve-qhd.md)
   * [Dynamic Programming: From Novice to Advanced - Topcoder](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced) (or [Vietnamese version](https://vnoi.info/wiki/translate/topcoder/dynamic-programming.md))
@@ -468,6 +500,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ     |                           Name                           |              Categories              |
   | :-------: | :------------------------------------------------------: | :----------------------------------: |
@@ -486,14 +519,16 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
-  * Practice: Dynamic Programming.
+  * Dynamic Programming Practice.
 
 </details>
 
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Knapsack DP - USACO Guide](https://usaco.guide/gold/knapsack?lang=cpp)
   * [Path on Grids - USACO Guide](https://usaco.guide/gold/paths-grids?lang=cpp)
@@ -504,6 +539,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ     |                        Name                        |      Categories       |
   | :-------: | :------------------------------------------------: | :-------------------: |
@@ -519,6 +555,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Introduction to Data Structures.
   * Linked List.
@@ -529,6 +566,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Introduction to Data Structure - USACO Guide](https://usaco.guide/bronze/intro-ds?lang=cpp)
   * [Arrays and Linked Lists - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/array-vs-linked-lists.md)
@@ -542,6 +580,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                                         Name                                         |  Categories   |
   | :------------: | :----------------------------------------------------------------------------------: | :-----------: |
@@ -562,15 +601,17 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Deque.
-  * Practice: Stack.
+  * Stack Practice.
 
 </details>
 
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Minimum Queue - CP-Algorithms](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
   * [Deque - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/Deque)
@@ -582,6 +623,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ    |                       Name                        |         Categories         |
   | :------: | :-----------------------------------------------: | :------------------------: |
@@ -600,6 +642,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Data Structures Practice.
   * Some Useful Built-in Data Structures in C++.
@@ -609,6 +652,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                              Name                              |        Categories         |
   | :------------: | :------------------------------------------------------------: | :-----------------------: |
@@ -626,6 +670,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Introduction to Segment Tree and Fenwick Tree.
   * Difference Array.
@@ -635,6 +680,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Segment Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html)
   * [Fenwick Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/fenwick.html)
@@ -650,6 +696,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                             Name                             |                   Categories                   |
   | :------------: | :----------------------------------------------------------: | :--------------------------------------------: |
@@ -667,6 +714,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Lazy Update (Lazy Propagation) on Segment Tree.
   * Merge Sort Tree.
@@ -676,6 +724,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Range Update (Lazy Propagation) - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#range-updates-lazy-propagation)
   * [Lazy Propagation - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#2-lazy-propagation)
@@ -687,6 +736,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ     |                       Name                        |                      Categories                      |
   | :-------: | :-----------------------------------------------: | :--------------------------------------------------: |
@@ -705,6 +755,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Walk on Segment Tree.
   * Segment Tree combined with other Data Structures.
@@ -715,6 +766,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Walk on Segment Tree - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#9-ch%E1%BA%B7t-nh%E1%BB%8B-ph%C3%A2n-tr%C3%AAn-segment-tree)
   * [Advanced versions of Segment Trees - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#advanced-versions-of-segment-trees)
@@ -728,6 +780,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |    OJ     |                            Name                             |              Categories              |
   | :-------: | :---------------------------------------------------------: | :----------------------------------: |
@@ -744,14 +797,16 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
-  * Practice: Segment Tree and Fenwick Tree.
+  * Segment Tree and Fenwick Tree Practice.
 
 </details>
 
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                                        Name                                        |                Categories                |
   | :------------: | :--------------------------------------------------------------------------------: | :--------------------------------------: |
@@ -772,6 +827,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Graph Theory Overview.
   * Graph Traversal: Breadth First Search (BFS)
@@ -781,6 +837,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Algorithms Course - Graph Theory Tutorial - freeCodeCamp.org](https://youtu.be/09_LlHjoEiY)
   * [Breadth First Search - CP-Algorithms](https://cp-algorithms.com/graph/breadth-first-search.html)
@@ -792,6 +849,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                             Name                              |       Categories       |
   | :------------: | :-----------------------------------------------------------: | :--------------------: |
@@ -808,6 +866,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Advanced BFS: 0-1 BFS and Multi-source BFS.
 
@@ -816,6 +875,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [0-1 BFS - CP-Algorithms](https://cp-algorithms.com/graph/01_bfs.html)
 
@@ -824,6 +884,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                                   Name                                   |             Categories              |
   | :------------: | :----------------------------------------------------------------------: | :---------------------------------: |
@@ -840,6 +901,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Graph Traversal: Depth First Search (DFS).
   * Advanced DFS: Assign Colors (to Detect Cycles and Bipartite Graph) and Compute the Entry & Exit Times.
@@ -849,6 +911,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Depth First Search - CP-Algorithms](https://cp-algorithms.com/graph/depth-first-search.html)
   * [Depth First Search - USACO Guide](https://usaco.guide/silver/dfs?lang=cpp)
@@ -858,6 +921,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                                Name                                 |       Categories       |
   | :------------: | :-----------------------------------------------------------------: | :--------------------: |
@@ -874,6 +938,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Disjont Set Union (DSU or Union Find).
 
@@ -882,6 +947,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [Disjoint Set Union - CP-Algorithms](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
   * [Disjoint Set Union - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/disjoint-set-union.md)
@@ -892,6 +958,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                                Name                                | Categories |
   | :------------: | :----------------------------------------------------------------: | :--------: |
@@ -908,6 +975,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * Minimum Spanning Tree (MST): Prim's Algorithm and Kruskal's Algorithm.
 
@@ -916,6 +984,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Resources:</summary>
+  </br>
 
   * [MST - Prim's Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
   * [MST - Kruskal's Algorithm](https://cp-algorithms.com/graph/mst_kruskal.html)
@@ -927,6 +996,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                                 Name                                 |      Categories      |
   | :------------: | :------------------------------------------------------------------: | :------------------: |
@@ -943,6 +1013,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Concepts:</summary>
+  </br>
 
   * DSU & MST Practice.
 
@@ -951,6 +1022,7 @@ Register accounts on Online Judges:
 <details>
 
   <summary>Practice Problems:</summary>
+  </br>
 
   |       OJ       |                                               Name                                                |       Categories       |
   | :------------: | :-----------------------------------------------------------------------------------------------: | :--------------------: |
