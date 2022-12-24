@@ -684,6 +684,7 @@ Register accounts on Online Judges:
   - [RMQ and LCA - Topcoder](https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor) (or [Vietnamese version](https://vnoi.info/wiki/translate/topcoder/Range-Minimum-Query-and-Lowest-Common-Ancestor.md))
   - [Range Minimum Query - CP-Algorithms](https://cp-algorithms.com/sequences/rmq.html)
   - [Sparse Table - CP-Algorithms](https://cp-algorithms.com/data_structures/sparse-table.html)
+  - [Lowest Common Ancestor - Binary Lifting - CP-Algorithms](https://cp-algorithms.com/graph/lca_binary_lifting.html)
 
 - Practice Problems:
 
@@ -706,8 +707,9 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ    |                              Name                               |     Categories      |
-  | :------: | :-------------------------------------------------------------: | :-----------------: |
-  | **VNOJ** |          [votree](https://oj.vnoi.info/problem/votree)          | _LCA, Sparse Table_ |
-  | **VNOJ** |        [upgranet](https://oj.vnoi.info/problem/upgranet)        |   _LCA, MST, DP_    |
-  | **VNOJ** | [putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje) |   _LCA, DSU, DP_    | 
+  |       OJ       |                                   Name                                    |     Categories      |
+  | :------------: | :-----------------------------------------------------------------------: | :-----------------: |
+  |    **VNOJ**    |               [votree](https://oj.vnoi.info/problem/votree)               | _LCA, Sparse Table_ |
+  |    **VNOJ**    |             [upgranet](https://oj.vnoi.info/problem/upgranet)             |   _LCA, MST, DP_    |
+  |    **VNOJ**    |      [putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje)      |   _LCA, DSU, DP_    |
+  | **Codeforces** | [A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E) |      _LCA, DP_      |
