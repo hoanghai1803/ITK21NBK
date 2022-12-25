@@ -907,8 +907,8 @@ Register accounts on Online Judges:
 
 - Resources:
 
-  - [2-SAT](https://cp-algorithms.com/graph/2SAT.html)
-  - [2-SAT Tutorial](https://codeforces.com/blog/entry/16205)
+  - [2-SAT - CP-Algorithms](https://cp-algorithms.com/graph/2SAT.html)
+  - [2-SAT Tutorial - Codeforces Blog](https://codeforces.com/blog/entry/16205)
   - [2-SAT Problem](https://drive.google.com/file/d/15UbO4GWo1G6cUBDnV6uWk0KxjuEdurCG/view)
 
 - Practice Problems:
