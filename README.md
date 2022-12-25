@@ -822,3 +822,103 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |            [robot](https://lqdoj.edu.vn/problem/robot)            |      _Dijkstra_       |
   | **Codeforces** | [Dima and Bacteria](https://codeforces.com/contest/400/problem/D) | _Floyd-Warshall, DSU_ |
   |   **NBKOJ**    |       [voi23ticket](https://nbk.homes/problem/voi23ticket)        |    _Dijkstra, DP_     |
+
+### Lesson 34 (??.??)
+
+- Concepts:
+
+  - Tarjan's Algorithm and Related Problems: Finding Bridges and Articulation Points (Cut Vertex).
+
+- Resources:
+
+  - [Finding Bridges in a Graph in O(N + M) - CP-Algorithms](https://cp-algorithms.com/graph/bridge-searching.html)
+  - [Finding Bridges Online - CP-Algorithms](https://cp-algorithms.com/graph/bridge-searching-online.html) (problem: [onbridge](https://oj.vnoi.info/problem/onbridge))
+  - [Finding Articulation Points in a Graph in O(N + M) - CP-Algorithms](https://cp-algorithms.com/graph/cutpoints.html)
+  - [Application of DFS Tree in Finding Bridges and Articulation Points - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/Depth-First-Search-Tree.md#%E1%BB%A9ng-d%E1%BB%A5ng-c%C3%A2y-dfs-trong-b%C3%A0i-to%C3%A1n-t%C3%ACm-kh%E1%BB%9Bp-c%E1%BA%A7u)
+
+- Practice Problems:
+
+  |       OJ       |                               Name                                |        Categories         |
+  | :------------: | :---------------------------------------------------------------: | :-----------------------: |
+  |    **VNOJ**    |          [graph\_](https://oj.vnoi.info/problem/graph_)           |         _Tarjan_          |
+  |    **VNOJ**    |           [kbuild](https://oj.vnoi.info/problem/kbuild)           |     _Tarjan, LCA, DP_     |
+  |    **VNOJ**    |          [weather](https://oj.vnoi.info/problem/weather)          |  _Tarjan, Combinatorics_  |
+  |    **VNOJ**    |         [critical](https://oj.vnoi.info/problem/critical)         |  _Tarjan, Combinatorics_  |
+  |    **VNOJ**    |           [reform](https://oj.vnoi.info/problem/reform)           |  _Tarjan, Combinatorics_  |
+  |    **VNOJ**    |         [nkpolice](https://oj.vnoi.info/problem/nkpolice)         | _Tarjan, Data Structures_ |
+  | **Codeforces** | [Cutting Figure](https://codeforces.com/problemset/problem/193/A) |         _Tarjan_          |
+  | **Codeforces** |  [Tourist Reform](https://codeforces.com/contest/732/problem/F)   |         _Tarjan_          |
+  | **Codeforces** |   [Edges in MST](https://codeforces.com/contest/160/problem/D)    |       _Tarjan, MST_       |
+
+### Lesson 35 (??.??)
+
+- Concepts:
+
+  - Tarjan's Algorithm and Related Problems: Finding Strongly Connected Components
+
+- Resources:
+
+  - [Finding strongly connected components / Building condensation graph](https://cp-algorithms.com/graph/strongly-connected-components.html)
+  - [Application of DFS Tree in Finding Strongly Connected Components - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/Depth-First-Search-Tree.md#%E1%BB%A9ng-d%E1%BB%A5ng-c%C3%A2y-dfs-trong-b%C3%A0i-to%C3%A1n-li%E1%BB%87t-k%C3%AA-th%C3%A0nh-ph%E1%BA%A7n-li%C3%AAn-th%C3%B4ng-m%E1%BA%A1nh)
+
+- Practice Problems:
+
+  |       OJ       |                                Name                                 |       Categories       |
+  | :------------: | :-----------------------------------------------------------------: | :--------------------: |
+  |    **VNOJ**    |             [tjalg](https://oj.vnoi.info/problem/tjalg)             |        _Tarjan_        |
+  |    **VNOJ**    |           [message](https://oj.vnoi.info/problem/message)           |        _Tarjan_        |
+  |    **VNOJ**    |            [number](https://oj.vnoi.info/problem/number)            |        _Tarjan_        |
+  |    **VNOJ**    |          [nkonearc](https://oj.vnoi.info/problem/nkonearc)          |        _Tarjan_        |
+  |    **VNOJ**    |             [treat](https://oj.vnoi.info/problem/treat)             |  _Tarjan, DP on DAG_   |
+  | **Codeforces** |     [Checkposts](https://codeforces.com/contest/427/problem/C)      | _Tarjan, Two Pointers_ |
+  | **Codeforces** | [Ralph and Mushrooms](https://codeforces.com/contest/894/problem/E) |  _Tarjan, DP on DAG_   |
+
+### Lesson 36 (??.??)
+
+- Concepts:
+
+  - Tarjan's Algorithm and Related Problems: Topological Sorting and DP on DAG.
+
+- Resources:
+
+  - [Topological Sorting - CP-Algorithms](https://cp-algorithms.com/graph/topological-sort.html)
+  - [Topological Sorting - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/topological-sort.md)
+  - [Topological Sorting - USACO Guide](https://usaco.guide/gold/toposort)
+
+- Practice Problems:
+
+  |       OJ       |                                   Name                                   |       Categories        |
+  | :------------: | :----------------------------------------------------------------------: | :---------------------: |
+  |    **VNOJ**    |            [nkleague](https://oj.vnoi.info/problem/nkleague)             |       _Topo Sort_       |
+  |    **VNOJ**    |              [nkjump](https://oj.vnoi.info/problem/nkjump)               |       _Topo Sort_       |
+  |    **VNOJ**    |        [atcoder_dp_g](https://oj.vnoi.info/problem/atcoder_dp_g)         |     _Topo Sort, DP_     |
+  |    **VNOJ**    |                 [bic](https://oj.vnoi.info/problem/bic)                  |     _Topo Sort, DP_     |
+  | **Codeforces** |     [Fox and Names](https://codeforces.com/problemset/problem/510/C)     |       _Topo Sort_       |
+  | **Codeforces** |        [Substring](https://codeforces.com/contest/919/problem/D)         |     _Topo Sort, DP_     |
+  | **Codeforces** | [Gargari and Permutations](https://codeforces.com/contest/463/problem/D) |     _Topo Sort, DP_     |
+  |    **VNOJ**    |            [kcollect](https://oj.vnoi.info/problem/kcollect)             | _Tarjan, Topo Sort, DP_ |
+  |   **NBKOJ**    |                   [atm](https://nbk.homes/problem/atm)                   | _Tarjan, Topo Sort, DP_ |
+
+### Lesson 37 (??.??)
+
+- Concepts:
+
+  - Tarjan's Algorithm and Related Problems: 2-SAT Problem.
+
+- Resources:
+
+  - [2-SAT](https://cp-algorithms.com/graph/2SAT.html)
+  - [2-SAT Tutorial](https://codeforces.com/blog/entry/16205)
+  - [2-SAT Problem](https://drive.google.com/file/d/15UbO4GWo1G6cUBDnV6uWk0KxjuEdurCG/view)
+
+- Practice Problems:
+
+  |       OJ       |                                Name                                 | Categories |
+  | :------------: | :-----------------------------------------------------------------: | :--------: |
+  |    **VNOJ**    |            [twosat](https://oj.vnoi.info/problem/twosat)            |  _2-SAT_   |
+  |    **VNOJ**    |             [elect](https://oj.vnoi.info/problem/elect)             |  _2-SAT_   |
+  |   **NBKOJ**    |        [cwdgameshow](https://nbk.homes/problem/cwdgameshow)         |  _2-SAT_   |
+  | **Codeforces** |  [The Door Problem](https://codeforces.com/contest/776/problem/D)   |  _2-SAT_   |
+  | **Codeforces** | [The Road to Berland](https://codeforces.com/contest/228/problem/E) |  _2-SAT_   |
+  | **Codeforces** |    [Ring Road 2](https://codeforces.com/problemset/problem/27/D)    |  _2-SAT_   |
+  | **Codeforces** |   [Catowice City](https://codeforces.com/contest/1239/problem/D)    |  _2-SAT_   |
