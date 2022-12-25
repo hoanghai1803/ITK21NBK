@@ -669,8 +669,8 @@ Register accounts on Online Judges:
   | **Hackerrank** | [johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) |     _MST, Bitwise_     |
   |    **VNOJ**    |                             [vmst](https://oj.vnoi.info/problem/vmst)                             | _MST, Graph Traversal_ |
   |    **VNOJ**    |                            [aznet](https://oj.vnoi.info/problem/aznet)                            |         _MST_          |
-  |   **NBKOJ**    |                         [assignvar](https://nbk.homes/problem/assignvar)                          | _MST, Data Structures_ |
   |   **NBKOJ**    |                            [admire](https://nbk.homes/problem/admire)                             |         _DSU_          |
+  |   **NBKOJ**    |                         [assignvar](https://nbk.homes/problem/assignvar)                          | _MST, Data Structures_ |
 
 ### Lesson 26 (??.??)
 
@@ -713,3 +713,28 @@ Register accounts on Online Judges:
   |    **VNOJ**    |             [upgranet](https://oj.vnoi.info/problem/upgranet)             |   _LCA, MST, DP_    |
   |    **VNOJ**    |      [putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje)      |   _LCA, DSU, DP_    |
   | **Codeforces** | [A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E) |      _LCA, DP_      |
+
+### Lesson 28 (??.??)
+
+- Concepts:
+
+  - Square Root (SQRT) Decomposition.
+  - Mo's Algorithm.
+
+- Resources:
+
+  - [SQRT Decomposition - CP-Algorithms](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
+  - [Square Root Decomposition and Applications - Codeforces Blog](https://codeforces.com/blog/entry/83248)
+  - [Square Root Decomposition - USACO Guide](https://usaco.guide/plat/sqrt?lang=cpp)
+  - [SQRT Decomposition - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/sqrt-decomposition.md)
+  - [Mo's Algorithm - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/mo-algorithm.md)
+  - [Square Root Decomposition, Mo's Algorithm - Errichto](https://youtu.be/BJhzd_VG61k)
+
+- Practice Problems:
+
+  |       OJ       |                               Name                               |                      Categories                       |
+  | :------------: | :--------------------------------------------------------------: | :---------------------------------------------------: |
+  | **Codeforces** |  [Array Queries](https://codeforces.com/contest/797/problem/E)   |       _Data Structures, DP, Divide and Conquer_       |
+  | **Codeforces** |  [Xenia and Tree](https://codeforces.com/contest/342/problem/E)  |      _LCA, Divide and Conquer, Multi-source BFS_      |
+  |   **LQDOJ**    |        [npaircwd](https://lqdoj.edu.vn/problem/npaircwd)         |           _Data Structures, Mo's Algorithm_           |
+  | **Codeforces** | [Powerful Array](https://codeforces.com/problemset/problem/86/D) | _Data Structures, Math, Two Pointers, Mo's Algorithm_ |
