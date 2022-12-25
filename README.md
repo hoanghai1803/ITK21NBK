@@ -563,6 +563,7 @@ Register accounts on Online Judges:
   |       OJ       |                             Name                              |       Categories       |
   | :------------: | :-----------------------------------------------------------: | :--------------------: |
   |    **VNOJ**    |            [ads](https://oj.vnoi.info/problem/ads)            |   _Graph Traversal_    |
+  |    **VNOJ**    |         [stable](https://oj.vnoi.info/problem/stable)         |         _BFS_          |
   |    **VNOJ**    |       [qbbishop](https://oj.vnoi.info/problem/qbbishop)       |         _BFS_          |
   |    **VNOJ**    |         [vosnet](https://oj.vnoi.info/problem/vosnet)         |       _BFS, DP_        |
   |    **VNOJ**    |        [robocon](https://oj.vnoi.info/problem/robocon)        |         _BFS_          |
@@ -735,6 +736,89 @@ Register accounts on Online Judges:
   |       OJ       |                               Name                               |                      Categories                       |
   | :------------: | :--------------------------------------------------------------: | :---------------------------------------------------: |
   | **Codeforces** |  [Array Queries](https://codeforces.com/contest/797/problem/E)   |       _Data Structures, DP, Divide and Conquer_       |
-  | **Codeforces** |  [Xenia and Tree](https://codeforces.com/contest/342/problem/E)  |      _LCA, Divide and Conquer, Multi-source BFS_      |
+  | **Codeforces** |  [Xenia and Tree](https://codeforces.com/contest/342/problem/E)  |      _Divide and Conquer, Multi-source BFS, LCA_      |
   |   **LQDOJ**    |        [npaircwd](https://lqdoj.edu.vn/problem/npaircwd)         |           _Data Structures, Mo's Algorithm_           |
   | **Codeforces** | [Powerful Array](https://codeforces.com/problemset/problem/86/D) | _Data Structures, Math, Two Pointers, Mo's Algorithm_ |
+
+### Lesson 29 (??.??)
+
+- Concepts:
+
+  - Heavy-Light Decomposition (HLD).
+
+- Resources:
+
+  - [Heavy-Light Decomposition - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/heavy-light-decomposition.md)
+  - [Heavy-Light Decomposition - CP-Algorithms](https://cp-algorithms.com/graph/hld.html)
+  - [Heavy-Light Decomposition - Codeforces Blog](https://codeforces.com/blog/entry/81317)
+  - [Heavy-Light Decomposition - USACO Guide](https://usaco.guide/plat/hld?lang=cpp)
+
+- Practice Problems:
+
+  |    OJ    |                          Name                           |         Categories          |
+  | :------: | :-----------------------------------------------------: | :-------------------------: |
+  | **VNOJ** |      [qtree3](https://oj.vnoi.info/problem/qtree3)      |   _HLD, Data Structures_    |
+  | **VNOJ** |      [qtreex](https://oj.vnoi.info/problem/qtreex)      | _HLD, LCA, Data Structures_ |
+  | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _HLD, Data Structures_    |
+  | **CSES** | [Path Queries II](https://cses.fi/problemset/task/2134) | _HLD, LCA, Data Structures_ |
+
+### Lesson 31 (??.??)
+
+- Concepts:
+
+  - Shortest Paths Problems.
+  - Single-source Shortest Paths: Dijkstra's Algorithm.
+  - All-pair Shortest Paths: Floyd-Warshall Algorithm.
+
+- Resources:
+
+  - [Dijkstra Algorithm - CP-Algorithms](https://cp-algorithms.com/graph/dijkstra.html)
+  - [Floyd-Warshall Algorithm - CP-Algorithms](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
+  - [Shortest Paths with Non-Negative Edge Weights - USACO Guide](https://usaco.guide/gold/shortest-paths?lang=cpp)
+  - [Shortest Path - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/shortest-path.md)
+
+- Practice Problems:
+
+  |    OJ    |                       Name                        |    Categories    |
+  | :------: | :-----------------------------------------------: | :--------------: |
+  | **VNOJ** | [binladen](https://oj.vnoi.info/problem/binladen) |    _Dijkstra_    |
+  | **VNOJ** |  [pwrfail](https://oj.vnoi.info/problem/pwrfail)  |    _Dijkstra_    |
+  | **VNOJ** | [qbschool](https://oj.vnoi.info/problem/qbschool) |    _Dijkstra_    |
+  | **VNOJ** | [centre28](https://oj.vnoi.info/problem/centre28) |    _Dijkstra_    |
+  | **VNOJ** |    [roads](https://oj.vnoi.info/problem/roads)    |    _Dijkstra_    |
+  | **VNOJ** |  [qbrobot](https://oj.vnoi.info/problem/qbrobot)  |    _Dijkstra_    |
+  | **VNOJ** |  [vdanger](https://oj.vnoi.info/problem/vdanger)  | _Floyd-Warshall_ |
+  | **VNOJ** |   [dhserv](https://oj.vnoi.info/problem/dhserv)   | _Floyd-Warshall_ |
+  | **VNOJ** |  [qbbuild](https://oj.vnoi.info/problem/qbbuild)  | _Floyd-Warshall_ |
+
+### Lesson 32 (??.??)
+
+- Concepts:
+
+  - Shortest Paths Problems Practice.
+
+- Practice Problems:
+
+  |    OJ    |                          Name                           |    Categories    |
+  | :------: | :-----------------------------------------------------: | :--------------: |
+  | **VNOJ** |       [ttrip](https://oj.vnoi.info/problem/ttrip)       | _Floyd-Warshall_ |
+  | **VNOJ** | [icpc22_mt_h](https://oj.vnoi.info/problem/icpc22_mt_h) |    _Dijkstra_    |
+  | **VNOJ** |     [dhfrbus](https://oj.vnoi.info/problem/dhfrbus)     |    _Dijkstra_    |
+  | **VNOJ** |    [netaccel](https://oj.vnoi.info/problem/netaccel)    |    _Dijkstra_    |
+  | **VNOJ** |       [mele2](https://oj.vnoi.info/problem/mele2)       |    _Dijkstra_    |
+  | **VNOJ** |      [v8sort](https://oj.vnoi.info/problem/v8sort)      |    _Dijkstra_    |
+  | **VNOJ** |  [voi17metro](https://oj.vnoi.info/problem/voi17metro)  |    _Dijkstra_    |
+
+### Lesson 33 (??.??)
+
+- Concepts:
+
+  - Shortest Paths Problems Practice.
+
+- Practice Problems:
+
+  |       OJ       |                               Name                                |      Categories       |
+  | :------------: | :---------------------------------------------------------------: | :-------------------: |
+  |   **LQDOJ**    |            [robot](https://lqdoj.edu.vn/problem/robot)            |      _Dijkstra_       |
+  | **Codeforces** | [Dima and Bacteria](https://codeforces.com/contest/400/problem/D) | _Floyd-Warshall, DSU_ |
+  |   **NBKOJ**    |       [voi23ticket](https://nbk.homes/problem/voi23ticket)        |    _Dijkstra, DP_     |
