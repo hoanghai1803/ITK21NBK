@@ -737,8 +737,9 @@ Register accounts on Online Judges:
   | :------------: | :--------------------------------------------------------------: | :---------------------------------------------------: |
   | **Codeforces** |  [Array Queries](https://codeforces.com/contest/797/problem/E)   |       _Data Structures, DP, Divide and Conquer_       |
   | **Codeforces** |  [Xenia and Tree](https://codeforces.com/contest/342/problem/E)  |      _Divide and Conquer, Multi-source BFS, LCA_      |
-  |   **LQDOJ**    |        [npaircwd](https://lqdoj.edu.vn/problem/npaircwd)         |           _Data Structures, Mo's Algorithm_           |
+  | **Codeforces** |     [Holes](https://codeforces.com/problemset/problem/13/E)      |         _Data Structures, Divide and Conquer_         |
   | **Codeforces** | [Powerful Array](https://codeforces.com/problemset/problem/86/D) | _Data Structures, Math, Two Pointers, Mo's Algorithm_ |
+  |   **LQDOJ**    |        [npaircwd](https://lqdoj.edu.vn/problem/npaircwd)         |           _Data Structures, Mo's Algorithm_           |
 
 ### Lesson 29 (??.??)
 
@@ -821,7 +822,7 @@ Register accounts on Online Judges:
   | :------------: | :---------------------------------------------------------------: | :-------------------: |
   |   **LQDOJ**    |            [robot](https://lqdoj.edu.vn/problem/robot)            |      _Dijkstra_       |
   | **Codeforces** | [Dima and Bacteria](https://codeforces.com/contest/400/problem/D) | _Floyd-Warshall, DSU_ |
-  |   **NBKOJ**    |       [voi23ticket](https://nbk.homes/problem/voi23ticket)        |    _Dijkstra, DP_     |
+  |   **NBKOJ**    |       [ticket](https://nbk.homes/problem/voi23ticket)        |    _Dijkstra, DP_     |
 
 ### Lesson 34 (??.??)
 
