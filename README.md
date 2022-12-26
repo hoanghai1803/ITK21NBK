@@ -719,6 +719,27 @@ Register accounts on Online Judges:
 
 - Concepts:
 
+  - Heavy-Light Decomposition (HLD).
+
+- Resources:
+
+  - [Heavy-Light Decomposition - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/heavy-light-decomposition.md)
+  - [Heavy-Light Decomposition - CP-Algorithms](https://cp-algorithms.com/graph/hld.html)
+  - [Heavy-Light Decomposition - Codeforces Blog](https://codeforces.com/blog/entry/81317)
+  - [Heavy-Light Decomposition - USACO Guide](https://usaco.guide/plat/hld?lang=cpp)
+
+- Practice Problems:
+
+  |    OJ    |                          Name                           |         Categories          |
+  | :------: | :-----------------------------------------------------: | :-------------------------: |
+  | **VNOJ** |      [qtree3](https://oj.vnoi.info/problem/qtree3)      |   _HLD, Data Structures_    |
+  | **VNOJ** |      [qtreex](https://oj.vnoi.info/problem/qtreex)      | _HLD, LCA, Data Structures_ |
+  | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _HLD, Data Structures_    |
+  | **CSES** | [Path Queries II](https://cses.fi/problemset/task/2134) | _HLD, LCA, Data Structures_ |
+### Lesson 29 (??.??)
+
+- Concepts:
+
   - Square Root (SQRT) Decomposition.
   - Mo's Algorithm.
 
@@ -740,28 +761,6 @@ Register accounts on Online Judges:
   | **Codeforces** |     [Holes](https://codeforces.com/problemset/problem/13/E)      |         _Data Structures, Divide and Conquer_         |
   | **Codeforces** | [Powerful Array](https://codeforces.com/problemset/problem/86/D) | _Data Structures, Math, Two Pointers, Mo's Algorithm_ |
   |   **LQDOJ**    |        [npaircwd](https://lqdoj.edu.vn/problem/npaircwd)         |           _Data Structures, Mo's Algorithm_           |
-
-### Lesson 29 (??.??)
-
-- Concepts:
-
-  - Heavy-Light Decomposition (HLD).
-
-- Resources:
-
-  - [Heavy-Light Decomposition - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/heavy-light-decomposition.md)
-  - [Heavy-Light Decomposition - CP-Algorithms](https://cp-algorithms.com/graph/hld.html)
-  - [Heavy-Light Decomposition - Codeforces Blog](https://codeforces.com/blog/entry/81317)
-  - [Heavy-Light Decomposition - USACO Guide](https://usaco.guide/plat/hld?lang=cpp)
-
-- Practice Problems:
-
-  |    OJ    |                          Name                           |         Categories          |
-  | :------: | :-----------------------------------------------------: | :-------------------------: |
-  | **VNOJ** |      [qtree3](https://oj.vnoi.info/problem/qtree3)      |   _HLD, Data Structures_    |
-  | **VNOJ** |      [qtreex](https://oj.vnoi.info/problem/qtreex)      | _HLD, LCA, Data Structures_ |
-  | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _HLD, Data Structures_    |
-  | **CSES** | [Path Queries II](https://cses.fi/problemset/task/2134) | _HLD, LCA, Data Structures_ |
 
 ### Lesson 31 (??.??)
 
