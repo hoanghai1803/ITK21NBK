@@ -276,8 +276,6 @@ Register accounts on Online Judges:
 
 ### Practice Contest [#01](https://nbk.homes/contest/itk21train01)
 
------------------
-
 ### Lesson 9 (31.12)
 
 - Concepts:
