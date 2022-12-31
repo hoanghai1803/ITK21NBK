@@ -273,6 +273,11 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                         [cwdsquare](https://nbk.homes/problem/cwdsquare)                         |    _Probabilities, Number Theory, Data Structures_    |
   |    **VNOJ**    |               [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d)                |         _Probabilities, Interactive, Graphs_          |
 
+
+### Practice Contest [#01](https://nbk.homes/contest/itk21train01)
+
+-----------------
+
 ### Lesson 9 (31.12)
 
 - Concepts:
