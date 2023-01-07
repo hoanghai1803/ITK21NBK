@@ -273,7 +273,6 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                         [cwdsquare](https://nbk.homes/problem/cwdsquare)                         |    _Probabilities, Number Theory, Data Structures_    |
   |    **VNOJ**    |               [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d)                |         _Probabilities, Interactive, Graphs_          |
 
-
 ### Practice Contest [#01](https://nbk.homes/contest/itk21train01)
 
 ### Lesson 9 (31.12)
@@ -299,7 +298,7 @@ Register accounts on Online Judges:
   | **Codeforces** |  [Benches](https://codeforces.com/problemset/problem/630/H)   |         _Combinatorics_          |
   | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | _Combinatorics, Modular Inverse_ |
 
-### Lesson 10 (??.??)
+### Lesson 10 (05.01)
 
 - Concepts:
 
@@ -319,7 +318,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | _Combinatorics, Prefix Sum 2D_ |
   | **VNOJ**  |   [raygun](https://oj.vnoi.info/problem/raygun)    | _Combinatorics, Number Theory_ |
 
-### Lesson 11 (??.??)
+### Lesson 11 (07.01)
 
 - Concepts:
 
@@ -349,7 +348,7 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ AtCoder ] Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
 
-### Lesson 12 (??.??)
+### Lesson 12 (12.01)
 
 - Concepts:
 
@@ -368,6 +367,7 @@ Register accounts on Online Judges:
   | **VNOJ**  | [qbmarket](https://oj.vnoi.info/problem/qbmarket)  |         _DP_          |
   | **VNOJ**  |  [stmerge](https://oj.vnoi.info/problem/stmerge)   |         _DP_          |
   | **NBKOJ** | [qn21altstr](https://nbk.homes/problem/qn21altstr) | _DP, Data Structures_ |
+  | **NBKOJ** |     [bfrain](https://nbk.homes/problem/bfrain)     | _DP, Data Structures_ |
   | **NBKOJ** |   [knapsack](https://nbk.homes/problem/knapsack)   |         _DP_          |
 
 ### Lesson 13 (??.??)
