@@ -370,7 +370,7 @@ Register accounts on Online Judges:
   | **NBKOJ** |     [bfrain](https://nbk.homes/problem/bfrain)     | _DP, Data Structures_ |
   | **NBKOJ** |   [knapsack](https://nbk.homes/problem/knapsack)   |         _DP_          |
 
-### Lesson 13 (??.??)
+### Lesson 13 (14.01)
 
 - Concepts:
 
@@ -401,7 +401,7 @@ Register accounts on Online Judges:
   | **Codeforces** |        [Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)         |    _Stack_    |
   | **Codeforces** |            [Mike and Feet](https://codeforces.com/contest/547/problem/B)             |  _Stack, DP_  |
 
-### Lesson 14 (??.??)
+### Lesson 14 (02.02)
 
 - Concepts:
 
@@ -722,28 +722,6 @@ Register accounts on Online Judges:
 
 - Concepts:
 
-  - Heavy-Light Decomposition (HLD).
-
-- Resources:
-
-  - [Heavy-Light Decomposition - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/heavy-light-decomposition.md)
-  - [Heavy-Light Decomposition - CP-Algorithms](https://cp-algorithms.com/graph/hld.html)
-  - [Heavy-Light Decomposition - Codeforces Blog](https://codeforces.com/blog/entry/81317)
-  - [Heavy-Light Decomposition - USACO Guide](https://usaco.guide/plat/hld?lang=cpp)
-
-- Practice Problems:
-
-  |    OJ    |                          Name                           |         Categories          |
-  | :------: | :-----------------------------------------------------: | :-------------------------: |
-  | **VNOJ** |      [qtree3](https://oj.vnoi.info/problem/qtree3)      |   _HLD, Data Structures_    |
-  | **VNOJ** |      [qtreex](https://oj.vnoi.info/problem/qtreex)      | _HLD, LCA, Data Structures_ |
-  | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _HLD, Data Structures_    |
-  | **CSES** | [Path Queries II](https://cses.fi/problemset/task/2134) | _HLD, LCA, Data Structures_ |
-
-### Lesson 29 (??.??)
-
-- Concepts:
-
   - Square Root (SQRT) Decomposition.
   - Mo's Algorithm.
 
@@ -766,6 +744,51 @@ Register accounts on Online Judges:
   | **Codeforces** | [Powerful Array](https://codeforces.com/problemset/problem/86/D) | _Data Structures, Math, Two Pointers, Mo's Algorithm_ |
   |   **LQDOJ**    |        [npaircwd](https://lqdoj.edu.vn/problem/npaircwd)         |           _Data Structures, Mo's Algorithm_           |
   | **Codeforces** |  [Ann and Books](https://codeforces.com/contest/877/problem/F)   |           _Data Structures, Mo's Algorithm_           |
+
+### Lesson 29 (??.??)
+
+- Concepts:
+
+  - Centroid and Diameter of a Tree.
+  - Centroid Decomposition.
+
+- Resources:
+
+  - [Diameter of a tree and its applications - Codeforces Blog](https://codeforces.com/blog/entry/101271)
+  - [Centroid Decomposition - USACO Guide](https://usaco.guide/plat/centroid?lang=cpp)
+  - [Centroid Decomposition - Codeforces Blog](https://codeforces.com/blog/entry/81661)
+  - [Intro to Centroid Decomposition - VNOJ Blog](https://oj.vnoi.info/post/72-noobcpp)
+
+- Practice Problems:
+
+  |       OJ       |                                Name                                |          Categories          |
+  | :------------: | :----------------------------------------------------------------: | :--------------------------: |
+  |   **NBKOJ**    |             [bftree](https://nbk.homes/problem/bftree)             |         _DFS, Trees_         |
+  | **Codeforces** | [Ciel the Commander](https://codeforces.com/contest/321/problem/C) | _Divide and Conquer, Greedy_ |
+  | **CSES** |    [Fixed-Length Paths I](https://cses.fi/problemset/task/2080)    |     _Divide and Conquer_     |
+  | **CSES** |   [Fixed-Length Paths II](https://cses.fi/problemset/task/2081)    |     _Divide and Conquer_     |
+
+### Lesson 30 (??.??)
+
+- Concepts:
+
+  - Heavy-Light Decomposition (HLD).
+
+- Resources:
+
+  - [Heavy-Light Decomposition - VNOI Wiki](https://vnoi.info/wiki/algo/data-structures/heavy-light-decomposition.md)
+  - [Heavy-Light Decomposition - CP-Algorithms](https://cp-algorithms.com/graph/hld.html)
+  - [Heavy-Light Decomposition - Codeforces Blog](https://codeforces.com/blog/entry/81317)
+  - [Heavy-Light Decomposition - USACO Guide](https://usaco.guide/plat/hld?lang=cpp)
+
+- Practice Problems:
+
+  |    OJ    |                          Name                           |         Categories          |
+  | :------: | :-----------------------------------------------------: | :-------------------------: |
+  | **VNOJ** |      [qtree3](https://oj.vnoi.info/problem/qtree3)      |   _HLD, Data Structures_    |
+  | **VNOJ** |      [qtreex](https://oj.vnoi.info/problem/qtreex)      | _HLD, LCA, Data Structures_ |
+  | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _HLD, Data Structures_    |
+  | **CSES** | [Path Queries II](https://cses.fi/problemset/task/2134) | _HLD, LCA, Data Structures_ |
 
 ### Lesson 31 (??.??)
 
