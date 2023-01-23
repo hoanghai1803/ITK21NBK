@@ -785,10 +785,10 @@ Register accounts on Online Judges:
 
   |    OJ    |                          Name                           |         Categories          |
   | :------: | :-----------------------------------------------------: | :-------------------------: |
-  | **VNOJ** |      [qtree3](https://oj.vnoi.info/problem/qtree3)      |   _HLD, Data Structures_    |
-  | **VNOJ** |      [qtreex](https://oj.vnoi.info/problem/qtreex)      | _HLD, LCA, Data Structures_ |
-  | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _HLD, Data Structures_    |
-  | **CSES** | [Path Queries II](https://cses.fi/problemset/task/2134) | _HLD, LCA, Data Structures_ |
+  | **VNOJ** |      [qtree3](https://oj.vnoi.info/problem/qtree3)      |   _Divide and Conquer, Data Structures_    |
+  | **VNOJ** |      [qtreex](https://oj.vnoi.info/problem/qtreex)      | _Divide and Conquer, LCA, Data Structures_ |
+  | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _Divide and Conquer, Data Structures_    |
+  | **CSES** | [Path Queries II](https://cses.fi/problemset/task/2134) | _Divide and Conquer, LCA, Data Structures_ |
 
 ### Lesson 31 (??.??)
 
