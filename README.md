@@ -427,7 +427,7 @@ Register accounts on Online Judges:
   | **VNOJ** |   [crec01](https://oj.vnoi.info/problem/crec01)   |        _Stack, DP_         |
   | **VNOJ** |    [crect](https://oj.vnoi.info/problem/crect)    | _Stack, DP, Combinatorics_ |
 
-### Lesson 15 (??.??)
+### Lesson 15 (04.02)
 
 - Concepts:
 
@@ -440,8 +440,8 @@ Register accounts on Online Judges:
   | :------------: | :------------------------------------------------------------: | :-----------------------: |
   |   **NBKOJ**    |             [sum4](https://nbk.homes/problem/sum4)             |     _Data Structures_     |
   |   **NBKOJ**    |       [qn18poster](https://nbk.homes/problem/qn18poster)       |     _Data Structures_     |
+  |    **VNOJ**    |         [qbheap](https://oj.vnoi.info/problem/qbheap)          |     _Data Structures_     |
   |    **VNOJ**    |    [icpc22_mb_h](https://oj.vnoi.info/problem/icpc22_mb_h)     |     _Data Structures_     |
-  |    **VNOJ**    |         [qbheap](https://oj.vnoi.info/problem/qbheap)          | _Data Structures, Greedy_ |
   |    **VNOJ**    |           [kmin](https://oj.vnoi.info/problem/kmin)            | _Data Structures, Greedy_ |
   | **Codeforces** | [OpenStreetMap](https://codeforces.com/contest/1195/problem/E) |   _Data Structures, DP_   |
 
@@ -765,8 +765,8 @@ Register accounts on Online Judges:
   | :------------: | :----------------------------------------------------------------: | :--------------------------: |
   |   **NBKOJ**    |             [bftree](https://nbk.homes/problem/bftree)             |         _DFS, Trees_         |
   | **Codeforces** | [Ciel the Commander](https://codeforces.com/contest/321/problem/C) | _Divide and Conquer, Greedy_ |
-  | **CSES** |    [Fixed-Length Paths I](https://cses.fi/problemset/task/2080)    |     _Divide and Conquer_     |
-  | **CSES** |   [Fixed-Length Paths II](https://cses.fi/problemset/task/2081)    |     _Divide and Conquer_     |
+  |    **CSES**    |    [Fixed-Length Paths I](https://cses.fi/problemset/task/2080)    |     _Divide and Conquer_     |
+  |    **CSES**    |   [Fixed-Length Paths II](https://cses.fi/problemset/task/2081)    |     _Divide and Conquer_     |
 
 ### Lesson 30 (??.??)
 
@@ -783,8 +783,8 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ    |                          Name                           |         Categories          |
-  | :------: | :-----------------------------------------------------: | :-------------------------: |
+  |    OJ    |                          Name                           |                 Categories                 |
+  | :------: | :-----------------------------------------------------: | :----------------------------------------: |
   | **VNOJ** |      [qtree3](https://oj.vnoi.info/problem/qtree3)      |   _Divide and Conquer, Data Structures_    |
   | **VNOJ** |      [qtreex](https://oj.vnoi.info/problem/qtreex)      | _Divide and Conquer, LCA, Data Structures_ |
   | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _Divide and Conquer, Data Structures_    |
