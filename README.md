@@ -434,6 +434,11 @@ Register accounts on Online Judges:
   - Data Structures Practice.
   - Some Useful Built-in Data Structures in C++.
 
+- Resources:
+  
+  - [A Faster Hash Table in C++ - USACO Guide](https://usaco.guide/gold/faster-hashmap?lang=cpp)
+  - [C++ STL: Order of magnitude faster hash tables with Policy Based Data Structures - CF Blog](https://codeforces.com/blog/entry/60737)
+
 - Practice Problems:
 
   |       OJ       |                              Name                              |        Categories         |
