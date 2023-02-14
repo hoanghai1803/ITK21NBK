@@ -450,7 +450,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |           [kmin](https://oj.vnoi.info/problem/kmin)            | _Data Structures, Greedy_ |
   | **Codeforces** | [OpenStreetMap](https://codeforces.com/contest/1195/problem/E) |   _Data Structures, DP_   |
 
-### Lesson 16 (??.??)
+### Lesson 16 (09.02)
 
 - Concepts:
 
@@ -479,7 +479,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Subsequences](https://codeforces.com/contest/597/problem/C) |        _Segment Tree, Fenwick Tree, DP_        |
   |    **VNOJ**    |      [pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4)       |        _Segment Tree, Fenwick Tree, DP_        |
 
-### Lesson 17 (??.??)
+### Lesson 17 (11.02)
 
 - Concepts:
 
@@ -505,7 +505,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [updassign](https://nbk.homes/problem/updassign)  |             _Segment Tree (Lazy Update)_             |
   | **NBKOJ** | [polyquery](https://nbk.homes/problem/polyquery)  |          _Segment Tree (Lazy Update), Math_          |
 
-### Lesson 18 (??.??)
+### Lesson 18 (16.02)
 
 - Concepts:
 
@@ -532,7 +532,7 @@ Register accounts on Online Judges:
   | **NBKOJ** |    [bfprincess2](https://nbk.homes/problem/bfprincess2)     |  _Segment Tree 2D, Fenwick Tree 2D_  |
   | **VNOJ**  |      [smartdog](https://oj.vnoi.info/problem/smartdog)      |          _Segment Tree 2D_           |
 
-### Lesson 19 (??.??)
+### Lesson 19 (18.02)
 
 - Concepts:
 
