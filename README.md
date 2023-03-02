@@ -521,6 +521,7 @@ Register accounts on Online Judges:
   - [Fenwick Tree: Finding sum in two-dimensional array](https://cp-algorithms.com/data_structures/fenwick.html#finding-sum-in-two-dimensional-array)
   - [More Applications of Segment Tree - USACO Guide](https://usaco.guide/plat/segtree-ext?lang=cpp)
   - [2D Range Queries - USACO Guide](https://usaco.guide/plat/2DRQ?lang=cpp)
+  - [Segment Tree 2D - kc97ble](https://sites.google.com/site/kc97ble/2-ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/segment-tree-2d)
 
 - Practice Problems:
 
@@ -552,7 +553,7 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ VNOJ ] Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
-### Lesson 20 (??.??)
+### Lesson 20 (23.02)
 
 - Concepts:
 
@@ -577,7 +578,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |        [robocon](https://oj.vnoi.info/problem/robocon)        |         _BFS_          |
   | **Codeforces** | [Subsequences](https://codeforces.com/contest/1183/problem/E) | _BFS, Data Strucutres_ |
 
-### Lesson 21 (??.??)
+### Lesson 21 (25.02)
 
 - Concepts:
 
@@ -597,7 +598,7 @@ Register accounts on Online Judges:
   | **Codeforces** |       [Shortest Path](https://codeforces.com/contest/59/problem/E)       | _Multi-source BFS, Data Structures_ |
   |    **VNOJ**    |        [voi18specone](https://oj.vnoi.info/problem/voi18specone)         | _Multi-source BFS, Data Structures_ |
 
-### Lesson 22 (??.??)
+### Lesson 22 (02.03)
 
 - Concepts:
 
@@ -608,6 +609,7 @@ Register accounts on Online Judges:
 
   - [Depth First Search - CP-Algorithms](https://cp-algorithms.com/graph/depth-first-search.html)
   - [Depth First Search - USACO Guide](https://usaco.guide/silver/dfs?lang=cpp)
+  - [Finding Cycles - CP-Algorithms](https://cp-algorithms.com/graph/finding-cycle.html)
 
 - Practice Problems:
 
@@ -620,7 +622,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |             [qbciarc](https://oj.vnoi.info/problem/qbcirarc)             |         _DFS_          |
   |    **VNOJ**    |   [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d)    |         _DFS_          |
 
-### Lesson 23 (??.??)
+### Lesson 23 (04.03)
 
 - Concepts:
 
