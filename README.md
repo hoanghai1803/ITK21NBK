@@ -435,7 +435,7 @@ Register accounts on Online Judges:
   - Some Useful Built-in Data Structures in C++.
 
 - Resources:
-  
+
   - [A Faster Hash Table in C++ - USACO Guide](https://usaco.guide/gold/faster-hashmap?lang=cpp)
   - [C++ STL: Order of magnitude faster hash tables with Policy Based Data Structures - CF Blog](https://codeforces.com/blog/entry/60737)
 
@@ -644,7 +644,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |           [cwdctnce](https://nbk.homes/problem/cwdctnce)           |   _DSU_    |
   | **Codeforces** | [Information Graphs](https://codeforces.com/contest/466/problem/E) |   _DSU_    |
 
-### Lesson 24 (??.??)
+### Lesson 24 (09.03)
 
 - Concepts:
 
@@ -659,15 +659,15 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ       |                                 Name                                 |      Categories      |
-  | :------------: | :------------------------------------------------------------------: | :------------------: |
-  |    **VNOJ**    |            [fwater](https://oj.vnoi.info/problem/fwater)             |        _MST_         |
-  |    **VNOJ**    |          [vnempire](https://oj.vnoi.info/problem/vnempire)           |        _MST_         |
-  |   **NBKOJ**    |          [qn16emoter](https://nbk.homes/problem/qn16emotor)          |        _MST_         |
-  | **Codeforces** |    [Path Queries](https://codeforces.com/contest/1213/problem/G)     | _MST, Combinatorics_ |
-  | **Codeforces** | [Connected Components](https://codeforces.com/contest/292/problem/D) |        _MST_         |
+  |       OJ       |                                 Name                                 |                Categories                |
+  | :------------: | :------------------------------------------------------------------: | :--------------------------------------: |
+  |    **VNOJ**    |            [fwater](https://oj.vnoi.info/problem/fwater)             |                  _MST_                   |
+  |    **VNOJ**    |          [vnempire](https://oj.vnoi.info/problem/vnempire)           |                  _MST_                   |
+  |   **NBKOJ**    |          [qn16emoter](https://nbk.homes/problem/qn16emotor)          |        _MST, Offline Processing_         |
+  | **Codeforces** |    [Path Queries](https://codeforces.com/contest/1213/problem/G)     | _MST, Combinatorics, Offline Processing_ |
+  | **Codeforces** | [Connected Components](https://codeforces.com/contest/292/problem/D) |       _MST, , Offline Processing_        |
 
-### Lesson 25 (??.??)
+### Lesson 25 (14.04)
 
 - Concepts:
 
@@ -675,13 +675,13 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ       |                                               Name                                                |       Categories       |
-  | :------------: | :-----------------------------------------------------------------------------------------------: | :--------------------: |
-  | **Hackerrank** | [johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) |     _MST, Bitwise_     |
-  |    **VNOJ**    |                             [vmst](https://oj.vnoi.info/problem/vmst)                             | _MST, Graph Traversal_ |
-  |    **VNOJ**    |                            [aznet](https://oj.vnoi.info/problem/aznet)                            |         _MST_          |
-  |   **NBKOJ**    |                            [admire](https://nbk.homes/problem/admire)                             |         _DSU_          |
-  |   **NBKOJ**    |                         [assignvar](https://nbk.homes/problem/assignvar)                          | _MST, Data Structures_ |
+  |       OJ       |                                               Name                                                |            Categories             |
+  | :------------: | :-----------------------------------------------------------------------------------------------: | :-------------------------------: |
+  | **Hackerrank** | [johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) | _MST, DP, Combinatorics, Bitwise_ |
+  |    **VNOJ**    |                             [vmst](https://oj.vnoi.info/problem/vmst)                             |      _MST, Graph Traversal_       |
+  |    **VNOJ**    |                            [aznet](https://oj.vnoi.info/problem/aznet)                            |               _MST_               |
+  |   **NBKOJ**    |                         [assignvar](https://nbk.homes/problem/assignvar)                          |      _MST, Data Structures_       |
+  |   **NBKOJ**    |                            [admire](https://nbk.homes/problem/admire)                             |               _DSU_               |
 
 ### Lesson 26 (??.??)
 
