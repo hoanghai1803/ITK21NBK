@@ -641,7 +641,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |         [pbcgangs](https://oj.vnoi.info/problem/pbcgangs)          |   _DSU_    |
   |    **VNOJ**    |          [vosplay](https://oj.vnoi.info/problem/vosplay)           |   _DSU_    |
   |    **VNOJ**    |           [qhroad](https://oj.vnoi.info/problem/qhroad)            |   _DSU_    |
-  |    **VNOJ**    |           [cwdctnce](https://nbk.homes/problem/cwdctnce)           |   _DSU_    |
+  |   **NBKOJ**    |           [cwdctnce](https://nbk.homes/problem/cwdctnce)           |   _DSU_    |
   | **Codeforces** | [Information Graphs](https://codeforces.com/contest/466/problem/E) |   _DSU_    |
 
 ### Lesson 24 (09.03)
@@ -957,3 +957,144 @@ Register accounts on Online Judges:
   | **Codeforces** | [The Road to Berland](https://codeforces.com/contest/228/problem/E) |  _2-SAT_   |
   | **Codeforces** |    [Ring Road 2](https://codeforces.com/problemset/problem/27/D)    |  _2-SAT_   |
   | **Codeforces** |   [Catowice City](https://codeforces.com/contest/1239/problem/D)    |  _2-SAT_   |
+
+### Lesson 38 (??.??)
+
+- Concepts:
+
+  - DP on Trees.
+
+- Practice Problems:
+
+  |    OJ     |                           Name                            | Categories |
+  | :-------: | :-------------------------------------------------------: | :--------: |
+  | **VNOJ**  |        [v8org](https://oj.vnoi.info/problem/v8org)        | _DFS, DP_  |
+  | **VNOJ**  | [atcoder_dp_p](https://oj.vnoi.info/problem/atcoder_dp_p) | _DFS, DP_  |
+  | **NBKOJ** |     [paintbarn](https://nbk.homes/problem/paintbarn)      | _DFS, DP_  |
+  | **NBKOJ** |      [matching](https://nbk.homes/problem/matching)       | _DFS, DP_  |
+  | **VNOJ**  |        [mtree](https://oj.vnoi.info/problem/mtree)        | _DFS, DP_  |
+  | **VNOJ**  |      [lqdxeui](https://oj.vnoi.info/problem/lqdxeui)      | _DFS, DP_  |
+  | **VNOJ**  |      [kingdom](https://oj.vnoi.info/problem/kingdom)      | _DFS, DP_  |
+  | **LQDOJ** |      [service](https://lqdoj.edu.vn/problem/service)      | _DFS, DP_  |
+
+### Lesson 39 (??.??)
+
+- Concepts:
+
+  - DP on Trees (continued).
+
+- Practice Problems:
+
+  |       OJ       |                               Name                                | Categories |
+  | :------------: | :---------------------------------------------------------------: | :--------: |
+  | **Codeforces** | [Appleman and Tree](https://codeforces.com/contest/461/problem/B) | _DFS, DP_  |
+  | **Codeforecs** | [Distance in Tree](https://codeforces.com/contest/161/problem/D)  | _DFS, DP_  |
+  | **Codeforces** | [Tree Painting](https://codeforces.com/problemset/problem/1187/E) | _DFS, DP_  |
+  | **Codeforecs** | [Treeland Tour](https://codeforces.com/problemset/problem/490/F)  | _DFS, DP_  |
+
+### Lesson 40 (??.??)
+
+- Concepts:
+
+  - DP and Matrix Multiplication (MatMul).
+
+- Resources:
+
+  - [Matrix Exponentiation - HackerEarth](https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/)
+  - [Matrix Multiplication - VNOI Wiki](https://vnoi.info/wiki/algo/trick/matrix-multiplication.md)
+
+- Practice Problems:
+
+  |    OJ    |                                  Name                                  |  Categories  |
+  | :------: | :--------------------------------------------------------------------: | :----------: |
+  | **VNOJ** |           [latgach4](https://oj.vnoi.info/problem/latgach4)            | _DP, MatMul_ |
+  | **VNOJ** |             [dhloco](https://oj.vnoi.info/problem/dhloco)              | _DP, MatMul_ |
+  | **VNOJ** |           [vostribo](https://oj.vnoi.info/problem/vostribo)            | _DP, MatMul_ |
+  | **VNOJ** |            [vmatrix](https://oj.vnoi.info/problem/vmatrix)             | _DP, MatMul_ |
+  | **VNOJ** | [matexp_cntpath](https://oj.vnoi.info/problem/errichto_matexp_cntpath) | _DP, MatMul_ |
+  | **VNOJ** | [matexp_minpath](https://oj.vnoi.info/problem/errichto_matexp_minpath) | _DP, MatMul_ |
+  | **VNOJ** |             [c11cal](https://oj.vnoi.info/problem/c11cal)              | _DP, MatMul_ |
+
+### Lesson 41 (??.??)
+
+- Concepts:
+
+  - DP and Matrix Multiplication (continued).
+
+- Practice Problems:
+
+  |       OJ       |                                     Name                                     |  Categories  |
+  | :------------: | :--------------------------------------------------------------------------: | :----------: |
+  |    **VNOJ**    |           [voi17fibseq](https://oj.vnoi.info/problem/voi17fibseq)            | _DP, MatMul_ |
+  |    **VNOJ**    |              [vomarble](https://oj.vnoi.info/problem/vomarble)               | _DP, MatMul_ |
+  |    **VNOJ**    |     [icpc22_national_h](https://oj.vnoi.info/problem/icpc22_national_h)      | _DP, MatMul_ |
+  | **Codeforces** | [Product Oriented Recurrence](https://codeforces.com/contest/1182/problem/E) | _DP, MatMul_ |
+
+### Lesson 42 (??.??)
+
+- Concepts:
+
+  - Bitmask DP.
+
+- Resources:
+
+  - [Bitmask DP - USACO Guide](https://usaco.guide/gold/dp-bitmasks?lang=cpp)
+  - [Introduction to DP with Bitmasking](https://codeforces.com/blog/entry/81516)
+
+- Practice Problems:
+
+  |    OJ     |                            Name                             |    Categories     |
+  | :-------: | :---------------------------------------------------------: | :---------------: |
+  | **VNOJ**  |        [mixup2](https://oj.vnoi.info/problem/mixup2)        |   _Bitmask DP_    |
+  | **VNOJ**  |          [lem3](https://oj.vnoi.info/problem/lem3)          |   _Bitmask DP_    |
+  | **VNOJ**  |       [cowgirl](https://oj.vnoi.info/problem/cowgirl)       |   _Bitmask DP_    |
+  | **VNOJ**  |        [qbgame](https://oj.vnoi.info/problem/qbgame)        |   _Bitmask DP_    |
+  | **VNOJ**  | [predhbb21_cpu](https://oj.vnoi.info/problem/predhbb21_cpu) |   _Bitmask DP_    |
+  | **VNOJ**  |        [seq198](https://oj.vnoi.info/problem/seq198)        |   _Bitmask DP_    |
+  | **NBKOJ** |        [bfgifts](https://nbk.homes/problem/bfgifts)         | _Bitmask DP, BFS_ |
+
+### Lesson 43 (??.??)
+
+- Concepts:
+
+  - Bitmask DP (continued).
+  - Sum over Subsets (SOS) DP.
+
+- Resources
+
+  - [SOS Dynamic Programming [Tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/45223)
+  - [Sum over Subsets DP - USACO Guide](https://usaco.guide/adv/dp-sos?lang=cpp)
+
+- Practice Problems:
+
+  |       OJ       |                                Name                                |          Categories           |
+  | :------------: | :----------------------------------------------------------------: | :---------------------------: |
+  |   **NBKOJ**    |             [bfboat](https://nbk.homes/problem/bfboat)             |         _Bitmask DP_          |
+  |    **VNOJ**    |          [maugiao](https://oj.vnoi.info/problem/maugiao)           |         _Bitmask DP_          |
+  | **Codeforces** |    [A Simple Task](https://codeforces.com/contest/11/problem/D)    |         _Bitmask DP_          |
+  | **Codeforces** | [Compatible Numbers](https://codeforces.com/contest/165/problem/E) |           _SOS DP_            |
+  | **Codeforces** | [Square Subsets](https://codeforces.com/problemset/problem/895/C)  | _SOS DP, Math, Combinatorics_ |
+  |   **NBKOJ**    |           [cwdcnkce](https://nbk.homes/problem/cwdcnkce)           |    _SOS DP, Combinatorics_    |
+  |    **VNOJ**    |         [voi21_or](https://oj.vnoi.info/problem/voi21_or)          |    _SOS DP, Combinatorics_    |
+
+### Lesson 43 (??.??)
+
+- Concepts:
+
+  - Digit DP.
+
+- Resources
+
+  - [Digit DP - Codeforces Blog](https://codeforces.com/blog/entry/53960)
+  - [Digit DP Tutorial - Codeforces - Blog](https://codeforces.com/blog/entry/77096)
+  - [Digit DP | Introduction - GeeksforGeeks](https://www.geeksforgeeks.org/digit-dp-introduction/)
+
+- Practice Problems:
+
+  |       OJ       |                             Name                              | Categories |
+  | :------------: | :-----------------------------------------------------------: | :--------: |
+  |    **VNOJ**    |          [demso](https://oj.vnoi.info/problem/demso)          | _Digit DP_ |
+  |    **VNOJ**    |   [atcoder_dp_s](https://oj.vnoi.info/problem/atcoder_dp_s)   | _Digit DP_ |
+  |    **VNOJ**    |        [lucky13](https://oj.vnoi.info/problem/lucky13)        | _Digit DP_ |
+  |   **NBKOJ**    |        [cwdpearl](https://nbk.homes/problem/cwdpearl)         | _Digit DP_ |
+  | **Codeforces** | [Magic Numbers](https://codeforces.com/contest/628/problem/D) | _Digit DP_ |
