@@ -683,7 +683,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                         [assignvar](https://nbk.homes/problem/assignvar)                          |      _MST, Data Structures_       |
   |   **NBKOJ**    |                            [admire](https://nbk.homes/problem/admire)                             |               _DSU_               |
 
-### Lesson 26 (??.??)
+### Lesson 26 (15.04)
 
 - Concepts:
 
@@ -710,7 +710,7 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ VNOJ ] Educational RMQ Contest](https://oj.vnoi.info/contest/rmq)
 
-### Lesson 27 (??.??)
+### Lesson 27 (20.04)
 
 - Concepts:
 
@@ -725,7 +725,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |      [putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje)      |   _LCA, DSU, DP_    |
   | **Codeforces** | [A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E) |      _LCA, DP_      |
 
-### Lesson 28 (??.??)
+### Lesson 28 (22.04)
 
 - Concepts:
 
@@ -752,7 +752,7 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |        [npaircwd](https://lqdoj.edu.vn/problem/npaircwd)         |           _Data Structures, Mo's Algorithm_           |
   | **Codeforces** |  [Ann and Books](https://codeforces.com/contest/877/problem/F)   |           _Data Structures, Mo's Algorithm_           |
 
-### Lesson 29 (??.??)
+### Lesson 29 (27.04)
 
 - Concepts:
 
