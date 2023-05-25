@@ -775,7 +775,7 @@ Register accounts on Online Judges:
   |    **CSES**    |    [Fixed-Length Paths I](https://cses.fi/problemset/task/2080)    |     _Divide and Conquer_     |
   |    **CSES**    |   [Fixed-Length Paths II](https://cses.fi/problemset/task/2081)    |     _Divide and Conquer_     |
 
-### Lesson 30 (??.??)
+### Lesson 30 (29.04)
 
 - Concepts:
 
@@ -797,7 +797,7 @@ Register accounts on Online Judges:
   | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _Divide and Conquer, Data Structures_    |
   | **CSES** | [Path Queries II](https://cses.fi/problemset/task/2134) | _Divide and Conquer, LCA, Data Structures_ |
 
-### Lesson 31 (??.??)
+### Lesson 31 (18.05)
 
 - Concepts:
 
@@ -826,7 +826,7 @@ Register accounts on Online Judges:
   | **VNOJ** |   [dhserv](https://oj.vnoi.info/problem/dhserv)   | _Floyd-Warshall_ |
   | **VNOJ** |  [qbbuild](https://oj.vnoi.info/problem/qbbuild)  | _Floyd-Warshall_ |
 
-### Lesson 32 (??.??)
+### Lesson 32 (20.05)
 
 - Concepts:
 
@@ -844,7 +844,7 @@ Register accounts on Online Judges:
   | **VNOJ** |      [v8sort](https://oj.vnoi.info/problem/v8sort)      |    _Dijkstra_    |
   | **VNOJ** |  [voi17metro](https://oj.vnoi.info/problem/voi17metro)  |    _Dijkstra_    |
 
-### Lesson 33 (??.??)
+### Lesson 33 (25.05)
 
 - Concepts:
 
@@ -857,8 +857,9 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |            [robot](https://lqdoj.edu.vn/problem/robot)            |      _Dijkstra_       |
   | **Codeforces** | [Dima and Bacteria](https://codeforces.com/contest/400/problem/D) | _Floyd-Warshall, DSU_ |
   |   **NBKOJ**    |          [ticket](https://nbk.homes/problem/voi23ticket)          |    _Dijkstra, DP_     |
+  |   **NBKOJ**    |            [tourism](https://nbk.homes/problem/tourism)           |    _Dijkstra, DP_     |
 
-### Lesson 34 (??.??)
+### Lesson 34 (27.05)
 
 - Concepts:
 
