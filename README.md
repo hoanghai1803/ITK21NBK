@@ -886,7 +886,7 @@ Register accounts on Online Judges:
   | **Codeforces** |  [Tourist Reform](https://codeforces.com/contest/732/problem/F)   |         _Tarjan_          |
   | **Codeforces** |   [Edges in MST](https://codeforces.com/contest/160/problem/D)    |       _Tarjan, MST_       |
 
-### Lesson 35 (??.??)
+### Lesson 35 (01.06)
 
 - Concepts:
 
@@ -909,7 +909,7 @@ Register accounts on Online Judges:
   | **Codeforces** |     [Checkposts](https://codeforces.com/contest/427/problem/C)      | _Tarjan, Two Pointers_ |
   | **Codeforces** | [Ralph and Mushrooms](https://codeforces.com/contest/894/problem/E) |  _Tarjan, DP on DAG_   |
 
-### Lesson 36 (??.??)
+### Lesson 36 (04.06)
 
 - Concepts:
 
@@ -935,7 +935,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |            [kcollect](https://oj.vnoi.info/problem/kcollect)             | _Tarjan, Topo Sort, DP_ |
   |   **NBKOJ**    |                   [atm](https://nbk.homes/problem/atm)                   | _Tarjan, Topo Sort, DP_ |
 
-### Lesson 37 (??.??)
+### Lesson 37 (08.06)
 
 - Concepts:
 
