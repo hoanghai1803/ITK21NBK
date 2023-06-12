@@ -857,7 +857,7 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |            [robot](https://lqdoj.edu.vn/problem/robot)            |      _Dijkstra_       |
   | **Codeforces** | [Dima and Bacteria](https://codeforces.com/contest/400/problem/D) | _Floyd-Warshall, DSU_ |
   |   **NBKOJ**    |          [ticket](https://nbk.homes/problem/voi23ticket)          |    _Dijkstra, DP_     |
-  |   **NBKOJ**    |            [tourism](https://nbk.homes/problem/tourism)           |    _Dijkstra, DP_     |
+  |   **NBKOJ**    |           [tourism](https://nbk.homes/problem/tourism)            |    _Dijkstra, DP_     |
 
 ### Lesson 34 (27.05)
 
@@ -959,7 +959,7 @@ Register accounts on Online Judges:
   | **Codeforces** |    [Ring Road 2](https://codeforces.com/problemset/problem/27/D)    |  _2-SAT_   |
   | **Codeforces** |   [Catowice City](https://codeforces.com/contest/1239/problem/D)    |  _2-SAT_   |
 
-### Lesson 38 (??.??)
+### Lesson 38 (12.06)
 
 - Concepts:
 
@@ -976,9 +976,8 @@ Register accounts on Online Judges:
   | **VNOJ**  |        [mtree](https://oj.vnoi.info/problem/mtree)        | _DFS, DP_  |
   | **VNOJ**  |      [lqdxeui](https://oj.vnoi.info/problem/lqdxeui)      | _DFS, DP_  |
   | **VNOJ**  |      [kingdom](https://oj.vnoi.info/problem/kingdom)      | _DFS, DP_  |
-  | **LQDOJ** |      [service](https://lqdoj.edu.vn/problem/service)      | _DFS, DP_  |
 
-### Lesson 39 (??.??)
+### Lesson 39 (15.06)
 
 - Concepts:
 
@@ -988,6 +987,7 @@ Register accounts on Online Judges:
 
   |       OJ       |                               Name                                | Categories |
   | :------------: | :---------------------------------------------------------------: | :--------: |
+  |   **LQDOJ**    |          [service](https://lqdoj.edu.vn/problem/service)          | _DFS, DP_  |
   | **Codeforces** | [Appleman and Tree](https://codeforces.com/contest/461/problem/B) | _DFS, DP_  |
   | **Codeforecs** | [Distance in Tree](https://codeforces.com/contest/161/problem/D)  | _DFS, DP_  |
   | **Codeforces** | [Tree Painting](https://codeforces.com/problemset/problem/1187/E) | _DFS, DP_  |
