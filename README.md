@@ -988,13 +988,14 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ       |                               Name                                | Categories |
-  | :------------: | :---------------------------------------------------------------: | :--------: |
-  |   **LQDOJ**    |          [service](https://lqdoj.edu.vn/problem/service)          | _DFS, DP_  |
-  | **Codeforces** | [Appleman and Tree](https://codeforces.com/contest/461/problem/B) | _DFS, DP_  |
-  | **Codeforecs** | [Distance in Tree](https://codeforces.com/contest/161/problem/D)  | _DFS, DP_  |
-  | **Codeforces** | [Tree Painting](https://codeforces.com/problemset/problem/1187/E) | _DFS, DP_  |
-  | **Codeforecs** | [Treeland Tour](https://codeforces.com/problemset/problem/490/F)  | _DFS, DP_  |
+  |       OJ       |                               Name                                |   Categories   |
+  | :------------: | :---------------------------------------------------------------: | :------------: |
+  | **Codeforces** | [Appleman and Tree](https://codeforces.com/contest/461/problem/B) |   _DFS, DP_    |
+  | **Codeforecs** | [Distance in Tree](https://codeforces.com/contest/161/problem/D)  |   _DFS, DP_    |
+  | **Codeforces** | [Tree Painting](https://codeforces.com/problemset/problem/1187/E) |   _DFS, DP_    |
+  | **Codeforecs** | [Treeland Tour](https://codeforces.com/problemset/problem/490/F)  |   _DFS, DP_    |
+  |   **LQDOJ**    |          [service](https://lqdoj.edu.vn/problem/service)          |   _DFS, DP_    |
+  |   **LQDOJ**    |       [tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree)       | _DFS, LCA, DP_ |
 
 ### Lesson 40 (??.??)
 
@@ -1102,7 +1103,6 @@ Register accounts on Online Judges:
   |    **VNOJ**    |        [lucky13](https://oj.vnoi.info/problem/lucky13)        | _Digit DP_ |
   |   **NBKOJ**    |        [cwdpearl](https://nbk.homes/problem/cwdpearl)         | _Digit DP_ |
   | **Codeforces** | [Magic Numbers](https://codeforces.com/contest/628/problem/D) | _Digit DP_ |
-
 
 ---
 
