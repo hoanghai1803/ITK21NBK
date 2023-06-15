@@ -273,8 +273,6 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                         [cwdsquare](https://nbk.homes/problem/cwdsquare)                         |    _Probabilities, Number Theory, Data Structures_    |
   |    **VNOJ**    |               [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d)                |         _Probabilities, Interactive, Graphs_          |
 
-### Practice Contest [#01](https://nbk.homes/contest/itk21train01)
-
 ### Lesson 9 (31.12)
 
 - Concepts:
@@ -965,6 +963,11 @@ Register accounts on Online Judges:
 
   - DP on Trees.
 
+- Resources:
+
+  - [DP on Trees - Introduction - USACO Guide](https://usaco.guide/gold/dp-trees?lang=cpp)
+  - [DP on Trees Tutorial - Codeforces Blog](https://codeforces.com/blog/entry/20935)
+
 - Practice Problems:
 
   |    OJ     |                           Name                            | Categories |
@@ -1099,3 +1102,16 @@ Register accounts on Online Judges:
   |    **VNOJ**    |        [lucky13](https://oj.vnoi.info/problem/lucky13)        | _Digit DP_ |
   |   **NBKOJ**    |        [cwdpearl](https://nbk.homes/problem/cwdpearl)         | _Digit DP_ |
   | **Codeforces** | [Magic Numbers](https://codeforces.com/contest/628/problem/D) | _Digit DP_ |
+
+
+---
+
+## Practice Contests
+
+- [[BF Training] ITK21 Practice Contest #01](https://nbk.homes/contest/itk21train01)
+
+- [[BF Training] ITK21 Practice Contest #02](https://codeforces.com/group/G0iFI97YZN/contest/431808)
+
+- [[BF Training] ITK21 Practice Contest #03](https://nbk.homes/contest/itk21train03)
+
+- [[BF Training] ITK21 Practice Contest #04](https://nbk.homes/contest/itk21train04)
