@@ -997,7 +997,7 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |          [service](https://lqdoj.edu.vn/problem/service)          |   _DFS, DP_    |
   |   **LQDOJ**    |       [tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree)       | _DFS, LCA, DP_ |
 
-### Lesson 40 (??.??)
+### Lesson 40 (18.06)
 
 - Concepts:
 
@@ -1018,9 +1018,8 @@ Register accounts on Online Judges:
   | **VNOJ** |            [vmatrix](https://oj.vnoi.info/problem/vmatrix)             | _DP, MatMul_ |
   | **VNOJ** | [matexp_cntpath](https://oj.vnoi.info/problem/errichto_matexp_cntpath) | _DP, MatMul_ |
   | **VNOJ** | [matexp_minpath](https://oj.vnoi.info/problem/errichto_matexp_minpath) | _DP, MatMul_ |
-  | **VNOJ** |             [c11cal](https://oj.vnoi.info/problem/c11cal)              | _DP, MatMul_ |
 
-### Lesson 41 (??.??)
+### Lesson 41 (22.06)
 
 - Concepts:
 
@@ -1030,10 +1029,13 @@ Register accounts on Online Judges:
 
   |       OJ       |                                     Name                                     |  Categories  |
   | :------------: | :--------------------------------------------------------------------------: | :----------: |
+  |    **VNOJ**    |                [c11cal](https://oj.vnoi.info/problem/c11cal)                 | _DP, MatMul_ |
   |    **VNOJ**    |           [voi17fibseq](https://oj.vnoi.info/problem/voi17fibseq)            | _DP, MatMul_ |
   |    **VNOJ**    |              [vomarble](https://oj.vnoi.info/problem/vomarble)               | _DP, MatMul_ |
   |    **VNOJ**    |     [icpc22_national_h](https://oj.vnoi.info/problem/icpc22_national_h)      | _DP, MatMul_ |
   | **Codeforces** | [Product Oriented Recurrence](https://codeforces.com/contest/1182/problem/E) | _DP, MatMul_ |
+
+**_Recommendation:_** [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
 
 ### Lesson 42 (??.??)
 
