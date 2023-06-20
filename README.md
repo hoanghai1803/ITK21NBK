@@ -1091,7 +1091,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |           [cwdcnkce](https://nbk.homes/problem/cwdcnkce)           |    _SOS DP, Combinatorics_    |
   |    **VNOJ**    |         [voi21_or](https://oj.vnoi.info/problem/voi21_or)          |    _SOS DP, Combinatorics_    |
 
-### Lesson 43 (??.??)
+### Lesson 44 (??.??)
 
 - Concepts:
 
