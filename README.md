@@ -1025,14 +1025,21 @@ Register accounts on Online Judges:
 
   - DP and Matrix Multiplication (continued).
 
+- Resources:
+
+  - [Pigeonhole principle - Wikipedia](https://en.wikipedia.org/wiki/Pigeonhole_principle)
+  - [Binomial Theorem - Wikipedia](https://en.wikipedia.org/wiki/Binomial_theorem)
+  - [Primitive Root modulo n - Wikipedia](https://en.wikipedia.org/wiki/Primitive_root_modulo_n) (How to [find smallest primitive root of a prime number n modulo n](https://www.geeksforgeeks.org/primitive-root-of-a-prime-number-n-modulo-n/)?)
+  - [Discrete Logarithm - CP-Algorithms](https://cp-algorithms.com/algebra/discrete-log.html)
+
 - Practice Problems:
 
   |       OJ       |                                     Name                                     |  Categories  |
   | :------------: | :--------------------------------------------------------------------------: | :----------: |
-  |    **VNOJ**    |                [c11cal](https://oj.vnoi.info/problem/c11cal)                 | _DP, MatMul_ |
   |    **VNOJ**    |           [voi17fibseq](https://oj.vnoi.info/problem/voi17fibseq)            | _DP, MatMul_ |
-  |    **VNOJ**    |              [vomarble](https://oj.vnoi.info/problem/vomarble)               | _DP, MatMul_ |
+  |    **VNOJ**    |                [c11cal](https://oj.vnoi.info/problem/c11cal)                 | _DP, MatMul_ |
   |    **VNOJ**    |     [icpc22_national_h](https://oj.vnoi.info/problem/icpc22_national_h)      | _DP, MatMul_ |
+  |    **VNOJ**    |              [vomarble](https://oj.vnoi.info/problem/vomarble)               | _DP, MatMul_ |
   | **Codeforces** | [Product Oriented Recurrence](https://codeforces.com/contest/1182/problem/E) | _DP, MatMul_ |
 
 **_Recommendation:_** [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
