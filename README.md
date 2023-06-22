@@ -1029,7 +1029,9 @@ Register accounts on Online Judges:
 
   - [Pigeonhole principle - Wikipedia](https://en.wikipedia.org/wiki/Pigeonhole_principle)
   - [Binomial Theorem - Wikipedia](https://en.wikipedia.org/wiki/Binomial_theorem)
-  - [Primitive Root modulo n - Wikipedia](https://en.wikipedia.org/wiki/Primitive_root_modulo_n) (How to [find smallest primitive root of a prime number n modulo n](https://www.geeksforgeeks.org/primitive-root-of-a-prime-number-n-modulo-n/)?)
+  - Primitive Root modulo n - [Wikipedia](https://en.wikipedia.org/wiki/Primitive_root_modulo_n) or [Brilliant.org](https://brilliant.org/wiki/primitive-roots/)
+    - How to [test if a number is a primitive root of p](https://math.stackexchange.com/questions/124408/finding-a-primitive-root-of-a-prime-number)?
+    - How to [find smallest primitive root of a prime number n modulo n](https://www.geeksforgeeks.org/primitive-root-of-a-prime-number-n-modulo-n/)?
   - [Discrete Logarithm - CP-Algorithms](https://cp-algorithms.com/algebra/discrete-log.html)
 
 - Practice Problems:
