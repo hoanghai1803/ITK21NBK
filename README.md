@@ -1046,7 +1046,7 @@ Register accounts on Online Judges:
 
 **_Recommendation:_** [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
 
-### Lesson 42 (??.??)
+### Lesson 42 (29.06)
 
 - Concepts:
 
@@ -1126,3 +1126,5 @@ Register accounts on Online Judges:
 - [[BF Training] ITK21 Practice Contest #03](https://nbk.homes/contest/itk21train03)
 
 - [[BF Training] ITK21 Practice Contest #04](https://nbk.homes/contest/itk21train04)
+
+- [[BF Training] ITK21 Practice Contest #05](https://nbk.homes/contest/itk21train05)
