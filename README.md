@@ -1069,7 +1069,7 @@ Register accounts on Online Judges:
   | **VNOJ**  |        [seq198](https://oj.vnoi.info/problem/seq198)        |   _Bitmask DP_    |
   | **NBKOJ** |        [bfgifts](https://nbk.homes/problem/bfgifts)         | _Bitmask DP, BFS_ |
 
-### Lesson 43 (??.??)
+### Lesson 43 (17.07)
 
 - Concepts:
 
@@ -1080,6 +1080,8 @@ Register accounts on Online Judges:
 
   - [SOS Dynamic Programming [Tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/45223)
   - [Sum over Subsets DP - USACO Guide](https://usaco.guide/adv/dp-sos?lang=cpp)
+  - [Properties of Combination](https://www.toppr.com/ask/content/concept/properties-of-combination-formula-i-207927/)
+  - Solution for VOI21_OR: [VNOI Livestream](https://www.facebook.com/watch/live/?ref=watch_permalink&v=308545883881762) and [Slide](https://docs.google.com/presentation/d/1e-7OVilzj9tnCBYvUELETWgmGrGoCSWbEwn6bkicEZA/edit)
 
 - Practice Problems:
 
