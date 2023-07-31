@@ -1099,6 +1099,21 @@ Register accounts on Online Judges:
 
 - Concepts:
 
+  - DP and Combinatorics.
+
+- Practice Problems:
+
+  |    OJ     |                        Name                        |     Categories      |
+  | :-------: | :------------------------------------------------: | :-----------------: |
+  | **NBKOJ** |    [cnttree](https://nbk.homes/problem/cnttree)    | _DP, Combinatorics_ |
+  | **NBKOJ** |    [camping](https://nbk.homes/problem/camping)    | _DP, Combinatorics_ |
+  | **NBKOJ** |     [genstr](https://nbk.homes/problem/genstr)     | _DP, Combinatorics_ |
+  | **NBKOJ** | [reordering](https://nbk.homes/problem/reordering) | _DP, Combinatorics_ |
+
+### Lesson 45 (??.??)
+
+- Concepts:
+
   - Digit DP.
 
 - Resources
