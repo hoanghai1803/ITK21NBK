@@ -1140,6 +1140,82 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |        [cwdpearl](https://nbk.homes/problem/cwdpearl)         | _Digit DP_ |
   | **Codeforces** | [Magic Numbers](https://codeforces.com/contest/628/problem/D) | _Digit DP_ |
 
+### Lesson 46 (??.??)
+
+- Concepts:
+
+  - Hashing.
+
+- Resources
+
+  - [Hash: A String Matching Algorithm - VNOI Wiki](https://vnoi.info/wiki/algo/string/hash.md)
+  - [String Hashing - CP-Algorithms](https://cp-algorithms.com/string/string-hashing.html)
+  - [String Hashing - USACO Guide](https://usaco.guide/gold/string-hashing?lang=cpp)
+
+- Practice Problems:
+
+  |    OJ     |                     Name                      |    Categories    |
+  | :-------: | :-------------------------------------------: | :--------------: |
+  | **LQDOJ** |    [pun](https://lqdoj.edu.vn/problem/pun)    | _String Hashing_ |
+  | **NBKOJ** |  [period](https://nbk.homes/problem/period)   | _String Hashing_ |
+  | **VNOJ**  | [paliny](https://oj.vnoi.info/problem/paliny) | _String Hashing_ |
+  | **LQDOJ** | [twostr](https://lqdoj.edu.vn/problem/twostr) | _String Hashing_ |
+
+### Lesson 47 (??.??)
+
+- Concepts:
+
+  - Hashing (continued).
+
+- Practice Problems:
+
+  |    OJ     |                       Name                        | Categories |
+  | :-------: | :-----------------------------------------------: | :--------: |
+  | **VNOJ**  |  [tnhtest](https://oj.vnoi.info/problem/tnhtest)  | _Hashing_  |
+  | **VNOJ**  | [vobignum](https://oj.vnoi.info/problem/vobignum) | _Hashing_  |
+  | **LQDOJ** |  [catalan](https://lqdoj.edu.vn/problem/catalan)  | _Hashing_  |
+  | **LQDOJ** | [coinflip](https://lqdoj.edu.vn/problem/coinflip) | _Hashing_  |
+
+### Lesson 48 (??.??)
+
+- Concepts:
+
+  - Prefix Function - KMP Algorithm.
+
+- Resources:
+
+  - [KMP - VNOI Wiki](https://vnoi.info/wiki/translate/wcipeg/kmp)
+  - [Prefix function. Knuth–Morris–Pratt algorithm - CP-Algorithms](https://cp-algorithms.com/string/prefix-function.html)
+  - [Knuth–Morris–Pratt algorithm - USACO Guide](https://usaco.guide/adv/string-search?lang=cpp#knuth-morris-pratt-algorithm)
+
+- Practice Problems:
+
+  |       OJ       |                                 Name                                  |                     Categories                      |
+  | :------------: | :-------------------------------------------------------------------: | :-------------------------------------------------: |
+  |    **VNOJ**    |             [substr](https://oj.vnoi.info/problem/substr)             |        _DP, KMP, Z-function, String Hashing_        |
+  | **Codeforces** |  [MUH and Cube Walls](https://codeforces.com/contest/471/problem/D)   | _DP, KMP, Z-function, Suffix Array, String Hashing_ |
+  | **Codeforces** | [Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) |             _DP, KMP, Z-function, Dfs_              |
+  |   **LQDOJ**    |             [lpdstr](https://lqdoj.edu.vn/problem/lpdstr)             |                _DP, KMP, Z-function_                |
+
+### Lesson 49 (??.??)
+
+- Concepts:
+
+  - Z-function.
+
+- Resources:
+
+  - [Z-function - VNOI Wiki](https://vnoi.info/wiki/algo/string/z-algo.md)
+  - [Z-function and its calculation - CP-Algorithms](https://cp-algorithms.com/string/z-function.html)
+  - [Z algorithm - USACO Guide](https://usaco.guide/adv/string-search?lang=cpp#z-algorithm)
+
+- Practice Problems:
+
+  |       OJ       |                            Name                             |      Categories       |
+  | :------------: | :---------------------------------------------------------: | :-------------------: |
+  | **Codeforces** | [Password](https://codeforces.com/problemset/problem/126/B) | _DP, KMP, Z-function_ |
+  |    **VNOJ**    |       [c11str2](https://oj.vnoi.info/problem/c11str2)       | _DP, KMP, Z-function_ |
+
 ---
 
 ## Practice Contests
