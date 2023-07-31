@@ -1095,7 +1095,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |           [cwdcnkce](https://nbk.homes/problem/cwdcnkce)           |    _SOS DP, Combinatorics_    |
   |    **VNOJ**    |         [voi21_or](https://oj.vnoi.info/problem/voi21_or)          |    _SOS DP, Combinatorics_    |
 
-### Lesson 44 (??.??)
+### Lesson 44 (03.08)
 
 - Concepts:
 
@@ -1118,7 +1118,7 @@ Register accounts on Online Judges:
   | **Codeforces** |         [Arena](https://codeforces.com/problemset/problem/1606/E)          |     _DP, Combinatorics_     |
   | **Codeforces** | [Number of Simple Paths](https://codeforces.com/problemset/problem/1454/E) | _DP, Combinatorics, Graphs_ |
 
-### Lesson 45 (??.??)
+### Lesson 45 (05.08)
 
 - Concepts:
 
