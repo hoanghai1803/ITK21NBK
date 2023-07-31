@@ -330,7 +330,7 @@ Register accounts on Online Judges:
   - [Dynamic Programming: From Novice to Advanced - Topcoder](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced) (or [Vietnamese version](https://vnoi.info/wiki/translate/topcoder/dynamic-programming.md))
   - [Palindrome DP - VNOI Wiki](https://vnoi.info/wiki/algo/dp/palindrome-problems.md)
   - [Some Basic DP Problems - VNOI Wiki](https://vnoi.info/wiki/algo/dp/basic-problems.md)
-  - [Some Optimization Techniques - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
+  - [Some Optimization Techniques in DP- VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
   - [Introduction to DP - USACO Guide](https://usaco.guide/gold/intro-dp?lang=cpp)
   - [Longest Increasing Subsequence - USACO Guide](https://usaco.guide/gold/lis?lang=cpp)
 
@@ -403,8 +403,8 @@ Register accounts on Online Judges:
 
 - Concepts:
 
-  - Deque.
   - Practice: Stack.
+  - Deque.
 
 - Resources:
 
@@ -436,6 +436,7 @@ Register accounts on Online Judges:
 
   - [A Faster Hash Table in C++ - USACO Guide](https://usaco.guide/gold/faster-hashmap?lang=cpp)
   - [C++ STL: Order of magnitude faster hash tables with Policy Based Data Structures - CF Blog](https://codeforces.com/blog/entry/60737)
+  - Most Frequently Used Data Structures in C++: [vector](https://cplusplus.com/reference/vector/vector/), [map](https://cplusplus.com/reference/map/map/), [unordered_map](https://cplusplus.com/reference/unordered_map/unordered_map/), [multimap](https://cplusplus.com/reference/map/multimap/), [set](https://cplusplus.com/reference/set/set), [unordered_set](https://cplusplus.com/reference/unordered_set/unordered_set), [multiset](https://cplusplus.com/reference/set/multiset), [stack](https://cplusplus.com/reference/stack/stack/), [queue](https://cplusplus.com/reference/queue/queue), [deque](https://cplusplus.com/reference/deque/deque), [priority_queue](https://cplusplus.com/reference/queue/priority_queue/), ...
 
 - Practice Problems:
 
