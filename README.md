@@ -1115,7 +1115,6 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                [camping](https://nbk.homes/problem/camping)                |     _DP, Combinatorics_     |
   |   **NBKOJ**    |                 [genstr](https://nbk.homes/problem/genstr)                 |     _DP, Combinatorics_     |
   |   **NBKOJ**    |             [reordering](https://nbk.homes/problem/reordering)             |     _DP, Combinatorics_     |
-  | **Codeforces** |    [Colorful Bricks](https://codeforces.com/problemset/problem/1081/C)     |     _DP, Combinatorcs_      |
   | **Codeforces** |         [Arena](https://codeforces.com/problemset/problem/1606/E)          |     _DP, Combinatorics_     |
   | **Codeforces** | [Number of Simple Paths](https://codeforces.com/problemset/problem/1454/E) | _DP, Combinatorics, Graphs_ |
 
