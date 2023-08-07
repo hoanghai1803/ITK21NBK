@@ -1154,12 +1154,14 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                     Name                      |    Categories    |
-  | :-------: | :-------------------------------------------: | :--------------: |
-  | **LQDOJ** |    [pun](https://lqdoj.edu.vn/problem/pun)    | _String Hashing_ |
-  | **NBKOJ** |  [period](https://nbk.homes/problem/period)   | _String Hashing_ |
-  | **VNOJ**  | [paliny](https://oj.vnoi.info/problem/paliny) | _String Hashing_ |
-  | **LQDOJ** | [twostr](https://lqdoj.edu.vn/problem/twostr) | _String Hashing_ |
+  |       OJ       |                                Name                                |    Categories    |
+  | :------------: | :----------------------------------------------------------------: | :--------------: |
+  | **Codeforces** | [Palindrome Degree](https://codeforces.com/problemset/problem/7/D) | _String Hashing_ |
+  |   **LQDOJ**    |              [pun](https://lqdoj.edu.vn/problem/pun)               | _String Hashing_ |
+  |   **NBKOJ**    |             [period](https://nbk.homes/problem/period)             | _String Hashing_ |
+  |    **VNOJ**    |           [paliny](https://oj.vnoi.info/problem/paliny)            | _String Hashing_ |
+  |   **LQDOJ**    |           [twostr](https://lqdoj.edu.vn/problem/twostr)            | _String Hashing_ |
+  | **Codeforces** |       [Test](https://codeforces.com/problemset/problem/25/E)       | _String Hashing_ |
 
 ### Lesson 47 (??.??)
 
@@ -1169,12 +1171,13 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                       Name                        | Categories |
-  | :-------: | :-----------------------------------------------: | :--------: |
-  | **VNOJ**  |  [tnhtest](https://oj.vnoi.info/problem/tnhtest)  | _Hashing_  |
-  | **VNOJ**  | [vobignum](https://oj.vnoi.info/problem/vobignum) | _Hashing_  |
-  | **LQDOJ** |  [catalan](https://lqdoj.edu.vn/problem/catalan)  | _Hashing_  |
-  | **LQDOJ** | [coinflip](https://lqdoj.edu.vn/problem/coinflip) | _Hashing_  |
+  |       OJ       |                                   Name                                   | Categories |
+  | :------------: | :----------------------------------------------------------------------: | :--------: |
+  |    **VNOJ**    |             [tnhtest](https://oj.vnoi.info/problem/tnhtest)              | _Hashing_  |
+  |    **VNOJ**    |            [vobignum](https://oj.vnoi.info/problem/vobignum)             | _Hashing_  |
+  |   **LQDOJ**    |             [catalan](https://lqdoj.edu.vn/problem/catalan)              | _Hashing_  |
+  |   **LQDOJ**    |            [coinflip](https://lqdoj.edu.vn/problem/coinflip)             | _Hashing_  |
+  | **Codeforces** | [Dasha and Nightmares](https://codeforces.com/problemset/problem/1800/F) | _Hashing_  |
 
 ### Lesson 48 (??.??)
 
