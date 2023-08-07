@@ -1181,15 +1181,18 @@ Register accounts on Online Judges:
 
 ### Lesson 48 (??.??)
 
-- Concepts:
+- Concepts: **String Searching**.
 
   - Prefix Function - KMP Algorithm.
+  - Z-Function - Z Algorithm.
+  - Manacher Algorithm.
+  - Trie
 
 - Resources:
 
-  - [KMP - VNOI Wiki](https://vnoi.info/wiki/translate/wcipeg/kmp)
-  - [Prefix function. Knuth–Morris–Pratt algorithm - CP-Algorithms](https://cp-algorithms.com/string/prefix-function.html)
-  - [Knuth–Morris–Pratt algorithm - USACO Guide](https://usaco.guide/adv/string-search?lang=cpp#knuth-morris-pratt-algorithm)
+  - [KMP](https://vnoi.info/wiki/translate/wcipeg/kmp) and [Z-function](https://vnoi.info/wiki/algo/string/z-algo.md) and [Trie](https://vnoi.info/wiki/algo/data-structures/trie.md) - VNOI Wiki
+  - [KMP](https://cp-algorithms.com/string/prefix-function.html) and [Z-Function](https://cp-algorithms.com/string/z-function.html) - CP-Algorithms
+  - [String Searching](https://usaco.guide/adv/string-search?lang=cpp)  - USACO Guide
 
 - Practice Problems:
 
@@ -1202,15 +1205,7 @@ Register accounts on Online Judges:
 
 ### Lesson 49 (??.??)
 
-- Concepts:
-
-  - Z-function.
-
-- Resources:
-
-  - [Z-function - VNOI Wiki](https://vnoi.info/wiki/algo/string/z-algo.md)
-  - [Z-function and its calculation - CP-Algorithms](https://cp-algorithms.com/string/z-function.html)
-  - [Z algorithm - USACO Guide](https://usaco.guide/adv/string-search?lang=cpp#z-algorithm)
+- Concepts: **String Searching** (continued).
 
 - Practice Problems:
 
