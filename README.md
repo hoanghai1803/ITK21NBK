@@ -1140,34 +1140,37 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |        [cwdpearl](https://nbk.homes/problem/cwdpearl)         | _Digit DP_ |
   | **Codeforces** | [Magic Numbers](https://codeforces.com/contest/628/problem/D) | _Digit DP_ |
 
-### Lesson 46 (??.??)
+### Lesson 46 (10.08)
 
 - Concepts:
 
-  - Hashing.
+  - String Hashing and Rabin-Karp Algorithm.
 
 - Resources
 
   - [Hash: A String Matching Algorithm - VNOI Wiki](https://vnoi.info/wiki/algo/string/hash.md)
   - [String Hashing - CP-Algorithms](https://cp-algorithms.com/string/string-hashing.html)
+  - [Rabin-Karp Algorithm for string matching](https://cp-algorithms.com/string/rabin-karp.html)
   - [String Hashing - USACO Guide](https://usaco.guide/gold/string-hashing?lang=cpp)
 
 - Practice Problems:
 
-  |       OJ       |                                Name                                |    Categories    |
-  | :------------: | :----------------------------------------------------------------: | :--------------: |
-  | **Codeforces** | [Palindrome Degree](https://codeforces.com/problemset/problem/7/D) | _String Hashing_ |
-  |   **LQDOJ**    |              [pun](https://lqdoj.edu.vn/problem/pun)               | _String Hashing_ |
-  |   **NBKOJ**    |             [period](https://nbk.homes/problem/period)             | _String Hashing_ |
-  |    **VNOJ**    |           [paliny](https://oj.vnoi.info/problem/paliny)            | _String Hashing_ |
-  |   **LQDOJ**    |           [twostr](https://lqdoj.edu.vn/problem/twostr)            | _String Hashing_ |
-  | **Codeforces** |       [Test](https://codeforces.com/problemset/problem/25/E)       | _String Hashing_ |
+  |       OJ       |                                    Name                                     |    Categories    |
+  | :------------: | :-------------------------------------------------------------------------: | :--------------: |
+  |   **LQDOJ**    |                   [pun](https://lqdoj.edu.vn/problem/pun)                   | _String Hashing_ |
+  |   **LQDOJ**    |                [twostr](https://lqdoj.edu.vn/problem/twostr)                | _String Hashing_ |
+  |   **NBKOJ**    |                 [period](https://nbk.homes/problem/period)                  | _String Hashing_ |
+  |    **VNOJ**    |                [paliny](https://oj.vnoi.info/problem/paliny)                | _String Hashing_ |
+  | **Codeforces** |     [Palindrome Degree](https://codeforces.com/problemset/problem/7/D)      | _String Hashing_ |
+  | **Codeforces** | [Palindromic characteristics](https://codeforces.com/contest/835/problem/D) | _String Hashing_ |
+  | **Codeforces** |     [Good Substrings](https://codeforces.com/problemset/problem/271/D)      | _String Hashing_ |
+  | **Codeforces** |           [Test](https://codeforces.com/problemset/problem/25/E)            | _String Hashing_ |
 
 ### Lesson 47 (??.??)
 
 - Concepts:
 
-  - Hashing (continued).
+  - Hashing.
 
 - Practice Problems:
 
@@ -1186,13 +1189,13 @@ Register accounts on Online Judges:
   - Prefix Function - KMP Algorithm.
   - Z-Function - Z Algorithm.
   - Manacher Algorithm.
-  - Trie
+  - Trie.
 
 - Resources:
 
   - [KMP](https://vnoi.info/wiki/translate/wcipeg/kmp) and [Z-function](https://vnoi.info/wiki/algo/string/z-algo.md) and [Trie](https://vnoi.info/wiki/algo/data-structures/trie.md) - VNOI Wiki
   - [KMP](https://cp-algorithms.com/string/prefix-function.html) and [Z-Function](https://cp-algorithms.com/string/z-function.html) - CP-Algorithms
-  - [String Searching](https://usaco.guide/adv/string-search?lang=cpp)  - USACO Guide
+  - [String Searching](https://usaco.guide/adv/string-search?lang=cpp) - USACO Guide
 
 - Practice Problems:
 
