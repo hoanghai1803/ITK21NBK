@@ -40,7 +40,7 @@ Register accounts on Online Judges:
 
 ## Syllabus
 
-### Lesson 1 (08.11)
+### Lesson 1 (08.11.22)
 
 - Concepts:
 
@@ -75,7 +75,7 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ VNOJ ] Educational Backtracking Contest](https://oj.vnoi.info/contest/backtrack)
 
-### Lesson 2 (13.11)
+### Lesson 2 (13.11.22)
 
 - Concepts:
 
@@ -102,7 +102,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [qn21dance](https://nbk.homes/problem/qn21dance)  |         _Two Pointers_          |
   | **VNOJ**  | [vmquabeo](https://oj.vnoi.info/problem/vmquabeo) | _Two Pointers, Data Structures_ |
 
-### Lesson 3 (16.11)
+### Lesson 3 (16.11.22)
 
 - Concepts:
 
@@ -129,7 +129,7 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |                        [surebet](https://lqdoj.edu.vn/problem/surebet)                         | _Ternary Search, Binary Search, Two Pointers_ |
   |   **KATTIS**   | [europeantrip](https://open.kattis.com/contests/vietnam-national17-open/problems/europeantrip) |          _Ternary Search, Geometry_           |
 
-### Lesson 4 (24.11)
+### Lesson 4 (24.11.22)
 
 - Concepts:
 
@@ -156,7 +156,7 @@ Register accounts on Online Judges:
   | **VNOJ** |      [dttui1](https://oj.vnoi.info/problem/dttui1)      |         _Meet-in-the-middle, Two Pointers_          |
   | **VNOJ** |       [dgold](https://oj.vnoi.info/problem/dgold)       | _Meet-in-the-middle, Two Pointers, Data Structures_ |
 
-### Lesson 5 (26.11)
+### Lesson 5 (26.11.22)
 
 - Concepts:
 
@@ -182,7 +182,7 @@ Register accounts on Online Judges:
   | **NBKOJ** |       [plants](https://nbk.homes/problem/plants)       |        _Prefix Sum 2D_         |
   | **NBKOJ** |  [voi15mincut](https://nbk.homes/problem/voi15mincut)  | _Prefix Sum 2D, Binary Search_ |
 
-### Lesson 6 (03.12)
+### Lesson 6 (03.12.22)
 
 - Concepts:
 
@@ -214,7 +214,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |       [goodarr](https://nbk.homes/problem/goodarr)       |            _Number Theory_             |
   |   **NBKOJ**    |   [sumdivisors](https://nbk.homes/problem/sumdivisors)   |            _Number Theory_             |
 
-### Lesson 7 (11.12)
+### Lesson 7 (11.12.22)
 
 - Concepts:
 
@@ -245,7 +245,7 @@ Register accounts on Online Judges:
   | **VNOJ**  |          [ctnown](https://oj.vnoi.info/problem/ctnown)          |         _Sieve, Dynamic Programming_         |
   | **NBKOJ** |          [bddivan](https://nbk.homes/problem/bddivan)           | _DP, Binary Exponentiation, Modular Inverse_ |
 
-### Lesson 8 (15.12)
+### Lesson 8 (15.12.22)
 
 - Concepts:
 
@@ -273,7 +273,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                         [cwdsquare](https://nbk.homes/problem/cwdsquare)                         |    _Probabilities, Number Theory, Data Structures_    |
   |    **VNOJ**    |               [icpc22_national_d](https://oj.vnoi.info/problem/icpc22_national_d)                |         _Probabilities, Interactive, Graphs_          |
 
-### Lesson 9 (31.12)
+### Lesson 9 (31.12.22)
 
 - Concepts:
 
@@ -296,7 +296,7 @@ Register accounts on Online Judges:
   | **Codeforces** |  [Benches](https://codeforces.com/problemset/problem/630/H)   |         _Combinatorics_          |
   | **Codeforces** | [Count Arrays](https://codeforces.com/contest/1312/problem/D) | _Combinatorics, Modular Inverse_ |
 
-### Lesson 10 (05.01)
+### Lesson 10 (05.01.23)
 
 - Concepts:
 
@@ -316,7 +316,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [voi18bonus](https://nbk.homes/problem/voi18bonus) | _Combinatorics, Prefix Sum 2D_ |
   | **VNOJ**  |   [raygun](https://oj.vnoi.info/problem/raygun)    | _Combinatorics, Number Theory_ |
 
-### Lesson 11 (07.01)
+### Lesson 11 (07.01.23)
 
 - Concepts:
 
@@ -346,7 +346,7 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ AtCoder ] Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
 
-### Lesson 12 (12.01)
+### Lesson 12 (12.01.23)
 
 - Concepts:
 
@@ -368,7 +368,7 @@ Register accounts on Online Judges:
   | **NBKOJ** |     [bfrain](https://nbk.homes/problem/bfrain)     | _DP, Data Structures_ |
   | **NBKOJ** |   [knapsack](https://nbk.homes/problem/knapsack)   |         _DP_          |
 
-### Lesson 13 (14.01)
+### Lesson 13 (14.01.23)
 
 - Concepts:
 
@@ -399,7 +399,7 @@ Register accounts on Online Judges:
   | **Codeforces** |        [Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)         |    _Stack_    |
   | **Codeforces** |            [Mike and Feet](https://codeforces.com/contest/547/problem/B)             |  _Stack, DP_  |
 
-### Lesson 14 (02.02)
+### Lesson 14 (02.02.23)
 
 - Concepts:
 
@@ -425,7 +425,7 @@ Register accounts on Online Judges:
   | **VNOJ** |   [crec01](https://oj.vnoi.info/problem/crec01)   |        _Stack, DP_         |
   | **VNOJ** |    [crect](https://oj.vnoi.info/problem/crect)    | _Stack, DP, Combinatorics_ |
 
-### Lesson 15 (04.02)
+### Lesson 15 (04.02.23)
 
 - Concepts:
 
@@ -449,7 +449,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |           [kmin](https://oj.vnoi.info/problem/kmin)            | _Data Structures, Greedy_ |
   | **Codeforces** | [OpenStreetMap](https://codeforces.com/contest/1195/problem/E) |   _Data Structures, DP_   |
 
-### Lesson 16 (09.02)
+### Lesson 16 (09.02.23)
 
 - Concepts:
 
@@ -478,7 +478,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Subsequences](https://codeforces.com/contest/597/problem/C) |        _Segment Tree, Fenwick Tree, DP_        |
   |    **VNOJ**    |      [pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4)       |        _Segment Tree, Fenwick Tree, DP_        |
 
-### Lesson 17 (11.02)
+### Lesson 17 (11.02.23)
 
 - Concepts:
 
@@ -504,7 +504,7 @@ Register accounts on Online Judges:
   | **NBKOJ** | [updassign](https://nbk.homes/problem/updassign)  |             _Segment Tree (Lazy Update)_             |
   | **NBKOJ** | [polyquery](https://nbk.homes/problem/polyquery)  |          _Segment Tree (Lazy Update), Math_          |
 
-### Lesson 18 (16.02)
+### Lesson 18 (16.02.23)
 
 - Concepts:
 
@@ -532,7 +532,7 @@ Register accounts on Online Judges:
   | **NBKOJ** |    [bfprincess2](https://nbk.homes/problem/bfprincess2)     |  _Segment Tree 2D, Fenwick Tree 2D_  |
   | **VNOJ**  |      [smartdog](https://oj.vnoi.info/problem/smartdog)      |          _Segment Tree 2D_           |
 
-### Lesson 19 (18.02)
+### Lesson 19 (18.02.23)
 
 - Concepts:
 
@@ -552,7 +552,7 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ VNOJ ] Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
-### Lesson 20 (23.02)
+### Lesson 20 (23.02.23)
 
 - Concepts:
 
@@ -577,7 +577,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |        [robocon](https://oj.vnoi.info/problem/robocon)        |         _BFS_          |
   | **Codeforces** | [Subsequences](https://codeforces.com/contest/1183/problem/E) | _BFS, Data Strucutres_ |
 
-### Lesson 21 (25.02)
+### Lesson 21 (25.02.23)
 
 - Concepts:
 
@@ -597,7 +597,7 @@ Register accounts on Online Judges:
   | **Codeforces** |       [Shortest Path](https://codeforces.com/contest/59/problem/E)       | _Multi-source BFS, Data Structures_ |
   |    **VNOJ**    |        [voi18specone](https://oj.vnoi.info/problem/voi18specone)         | _Multi-source BFS, Data Structures_ |
 
-### Lesson 22 (02.03)
+### Lesson 22 (02.03.23)
 
 - Concepts:
 
@@ -621,7 +621,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |             [qbciarc](https://oj.vnoi.info/problem/qbcirarc)             |         _DFS_          |
   |    **VNOJ**    |   [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d)    |         _DFS_          |
 
-### Lesson 23 (04.03)
+### Lesson 23 (04.03.23)
 
 - Concepts:
 
@@ -643,7 +643,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |           [cwdctnce](https://nbk.homes/problem/cwdctnce)           |   _DSU_    |
   | **Codeforces** | [Information Graphs](https://codeforces.com/contest/466/problem/E) |   _DSU_    |
 
-### Lesson 24 (09.03)
+### Lesson 24 (09.03.23)
 
 - Concepts:
 
@@ -666,7 +666,7 @@ Register accounts on Online Judges:
   | **Codeforces** |    [Path Queries](https://codeforces.com/contest/1213/problem/G)     | _MST, Combinatorics, Offline Processing_ |
   | **Codeforces** | [Connected Components](https://codeforces.com/contest/292/problem/D) |       _MST, , Offline Processing_        |
 
-### Lesson 25 (14.04)
+### Lesson 25 (14.04.23)
 
 - Concepts:
 
@@ -682,7 +682,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |                         [assignvar](https://nbk.homes/problem/assignvar)                          |      _MST, Data Structures_       |
   |   **NBKOJ**    |                            [admire](https://nbk.homes/problem/admire)                             |               _DSU_               |
 
-### Lesson 26 (15.04)
+### Lesson 26 (15.04.23)
 
 - Concepts:
 
@@ -709,7 +709,7 @@ Register accounts on Online Judges:
 
   **_Recommendation:_** [[ VNOJ ] Educational RMQ Contest](https://oj.vnoi.info/contest/rmq)
 
-### Lesson 27 (20.04)
+### Lesson 27 (20.04.23)
 
 - Concepts:
 
@@ -724,7 +724,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |      [putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje)      |   _LCA, DSU, DP_    |
   | **Codeforces** | [A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E) |      _LCA, DP_      |
 
-### Lesson 28 (22.04)
+### Lesson 28 (22.04.23)
 
 - Concepts:
 
@@ -751,7 +751,7 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |        [npaircwd](https://lqdoj.edu.vn/problem/npaircwd)         |           _Data Structures, Mo's Algorithm_           |
   | **Codeforces** |  [Ann and Books](https://codeforces.com/contest/877/problem/F)   |           _Data Structures, Mo's Algorithm_           |
 
-### Lesson 29 (27.04)
+### Lesson 29 (27.04.23)
 
 - Concepts:
 
@@ -774,7 +774,7 @@ Register accounts on Online Judges:
   |    **CSES**    |    [Fixed-Length Paths I](https://cses.fi/problemset/task/2080)    |     _Divide and Conquer_     |
   |    **CSES**    |   [Fixed-Length Paths II](https://cses.fi/problemset/task/2081)    |     _Divide and Conquer_     |
 
-### Lesson 30 (29.04)
+### Lesson 30 (29.04.23)
 
 - Concepts:
 
@@ -796,7 +796,7 @@ Register accounts on Online Judges:
   | **CSES** |  [Path Queries](https://cses.fi/problemset/task/1138)   |   _Divide and Conquer, Data Structures_    |
   | **CSES** | [Path Queries II](https://cses.fi/problemset/task/2134) | _Divide and Conquer, LCA, Data Structures_ |
 
-### Lesson 31 (18.05)
+### Lesson 31 (18.05.23)
 
 - Concepts:
 
@@ -825,7 +825,7 @@ Register accounts on Online Judges:
   | **VNOJ** |   [dhserv](https://oj.vnoi.info/problem/dhserv)   | _Floyd-Warshall_ |
   | **VNOJ** |  [qbbuild](https://oj.vnoi.info/problem/qbbuild)  | _Floyd-Warshall_ |
 
-### Lesson 32 (20.05)
+### Lesson 32 (20.05.23)
 
 - Concepts:
 
@@ -843,7 +843,7 @@ Register accounts on Online Judges:
   | **VNOJ** |      [v8sort](https://oj.vnoi.info/problem/v8sort)      |    _Dijkstra_    |
   | **VNOJ** |  [voi17metro](https://oj.vnoi.info/problem/voi17metro)  |    _Dijkstra_    |
 
-### Lesson 33 (25.05)
+### Lesson 33 (25.05.23)
 
 - Concepts:
 
@@ -858,7 +858,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |          [ticket](https://nbk.homes/problem/voi23ticket)          |    _Dijkstra, DP_     |
   |   **NBKOJ**    |           [tourism](https://nbk.homes/problem/tourism)            |    _Dijkstra, DP_     |
 
-### Lesson 34 (27.05)
+### Lesson 34 (27.05.23)
 
 - Concepts:
 
@@ -885,7 +885,7 @@ Register accounts on Online Judges:
   | **Codeforces** |  [Tourist Reform](https://codeforces.com/contest/732/problem/F)   |         _Tarjan_          |
   | **Codeforces** |   [Edges in MST](https://codeforces.com/contest/160/problem/D)    |       _Tarjan, MST_       |
 
-### Lesson 35 (01.06)
+### Lesson 35 (01.06.23)
 
 - Concepts:
 
@@ -908,7 +908,7 @@ Register accounts on Online Judges:
   | **Codeforces** |     [Checkposts](https://codeforces.com/contest/427/problem/C)      | _Tarjan, Two Pointers_ |
   | **Codeforces** | [Ralph and Mushrooms](https://codeforces.com/contest/894/problem/E) |  _Tarjan, DP on DAG_   |
 
-### Lesson 36 (04.06)
+### Lesson 36 (04.06.23)
 
 - Concepts:
 
@@ -934,7 +934,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |            [kcollect](https://oj.vnoi.info/problem/kcollect)             | _Tarjan, Topo Sort, DP_ |
   |   **NBKOJ**    |                   [atm](https://nbk.homes/problem/atm)                   | _Tarjan, Topo Sort, DP_ |
 
-### Lesson 37 (08.06)
+### Lesson 37 (08.06.23)
 
 - Concepts:
 
@@ -958,7 +958,7 @@ Register accounts on Online Judges:
   | **Codeforces** |    [Ring Road 2](https://codeforces.com/problemset/problem/27/D)    |  _2-SAT_   |
   | **Codeforces** |   [Catowice City](https://codeforces.com/contest/1239/problem/D)    |  _2-SAT_   |
 
-### Lesson 38 (12.06)
+### Lesson 38 (12.06.23)
 
 - Concepts:
 
@@ -981,7 +981,7 @@ Register accounts on Online Judges:
   | **VNOJ**  |      [lqdxeui](https://oj.vnoi.info/problem/lqdxeui)      | _DFS, DP_  |
   | **VNOJ**  |      [kingdom](https://oj.vnoi.info/problem/kingdom)      | _DFS, DP_  |
 
-### Lesson 39 (15.06)
+### Lesson 39 (15.06.23)
 
 - Concepts:
 
@@ -998,7 +998,7 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |          [service](https://lqdoj.edu.vn/problem/service)          |   _DFS, DP_    |
   |   **LQDOJ**    |       [tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree)       | _DFS, LCA, DP_ |
 
-### Lesson 40 (18.06)
+### Lesson 40 (18.06.23)
 
 - Concepts:
 
@@ -1020,7 +1020,7 @@ Register accounts on Online Judges:
   | **VNOJ** | [matexp_cntpath](https://oj.vnoi.info/problem/errichto_matexp_cntpath) | _DP, MatMul_ |
   | **VNOJ** | [matexp_minpath](https://oj.vnoi.info/problem/errichto_matexp_minpath) | _DP, MatMul_ |
 
-### Lesson 41 (22.06)
+### Lesson 41 (22.06.23)
 
 - Concepts:
 
@@ -1047,7 +1047,7 @@ Register accounts on Online Judges:
 
 **_Recommendation:_** [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
 
-### Lesson 42 (29.06)
+### Lesson 42 (29.06.23)
 
 - Concepts:
 
@@ -1070,7 +1070,7 @@ Register accounts on Online Judges:
   | **VNOJ**  |        [seq198](https://oj.vnoi.info/problem/seq198)        |   _Bitmask DP_    |
   | **NBKOJ** |        [bfgifts](https://nbk.homes/problem/bfgifts)         | _Bitmask DP, BFS_ |
 
-### Lesson 43 (17.07)
+### Lesson 43 (17.07.23)
 
 - Concepts:
 
@@ -1096,7 +1096,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |           [cwdcnkce](https://nbk.homes/problem/cwdcnkce)           |    _SOS DP, Combinatorics_    |
   |    **VNOJ**    |         [voi21_or](https://oj.vnoi.info/problem/voi21_or)          |    _SOS DP, Combinatorics_    |
 
-### Lesson 44 (03.08)
+### Lesson 44 (03.08.23)
 
 - Concepts:
 
@@ -1118,7 +1118,7 @@ Register accounts on Online Judges:
   | **Codeforces** |         [Arena](https://codeforces.com/problemset/problem/1606/E)          |     _DP, Combinatorics_     |
   | **Codeforces** | [Number of Simple Paths](https://codeforces.com/problemset/problem/1454/E) | _DP, Combinatorics, Graphs_ |
 
-### Lesson 45 (05.08)
+### Lesson 45 (05.08.23)
 
 - Concepts:
 
@@ -1140,7 +1140,7 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |        [cwdpearl](https://nbk.homes/problem/cwdpearl)         | _Digit DP_ |
   | **Codeforces** | [Magic Numbers](https://codeforces.com/contest/628/problem/D) | _Digit DP_ |
 
-### Lesson 46 (10.08)
+### Lesson 46 (10.08.23)
 
 - Concepts:
 
@@ -1166,7 +1166,7 @@ Register accounts on Online Judges:
   | **Codeforces** |     [Good Substrings](https://codeforces.com/problemset/problem/271/D)      | _String Hashing_ |
   | **Codeforces** |           [Test](https://codeforces.com/problemset/problem/25/E)            | _String Hashing_ |
 
-### Lesson 47 (19.08)
+### Lesson 47 (19.08.23)
 
 - Concepts:
 
@@ -1182,7 +1182,7 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |            [coinflip](https://lqdoj.edu.vn/problem/coinflip)             | _Hashing_  |
   | **Codeforces** | [Dasha and Nightmares](https://codeforces.com/problemset/problem/1800/F) | _Hashing_  |
 
-### Lesson 48 (21.08)
+### Lesson 48 (21.08.23)
 
 - Concepts: **String Searching**.
 
