@@ -1166,7 +1166,7 @@ Register accounts on Online Judges:
   | **Codeforces** |     [Good Substrings](https://codeforces.com/problemset/problem/271/D)      | _String Hashing_ |
   | **Codeforces** |           [Test](https://codeforces.com/problemset/problem/25/E)            | _String Hashing_ |
 
-### Lesson 47 (??.??)
+### Lesson 47 (19.08)
 
 - Concepts:
 
@@ -1182,7 +1182,7 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |            [coinflip](https://lqdoj.edu.vn/problem/coinflip)             | _Hashing_  |
   | **Codeforces** | [Dasha and Nightmares](https://codeforces.com/problemset/problem/1800/F) | _Hashing_  |
 
-### Lesson 48 (??.??)
+### Lesson 48 (21.08)
 
 - Concepts: **String Searching**.
 
@@ -1199,12 +1199,12 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ       |                                 Name                                  |                     Categories                      |
-  | :------------: | :-------------------------------------------------------------------: | :-------------------------------------------------: |
-  |    **VNOJ**    |             [substr](https://oj.vnoi.info/problem/substr)             |        _DP, KMP, Z-function, String Hashing_        |
-  | **Codeforces** |  [MUH and Cube Walls](https://codeforces.com/contest/471/problem/D)   | _DP, KMP, Z-function, Suffix Array, String Hashing_ |
-  | **Codeforces** | [Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) |             _DP, KMP, Z-function, Dfs_              |
-  |   **LQDOJ**    |             [lpdstr](https://lqdoj.edu.vn/problem/lpdstr)             |                _DP, KMP, Z-function_                |
+  |       OJ       |                                 Name                                  |       Categories       |
+  | :------------: | :-------------------------------------------------------------------: | :--------------------: |
+  |    **VNOJ**    |             [substr](https://oj.vnoi.info/problem/substr)             | _DP, String Searching_ |
+  | **Codeforces** |  [MUH and Cube Walls](https://codeforces.com/contest/471/problem/D)   | _DP, String Searching_ |
+  | **Codeforces** | [Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) | _DP, String Searching_ |
+  |   **LQDOJ**    |             [lpdstr](https://lqdoj.edu.vn/problem/lpdstr)             | _DP, String Searching_ |
 
 ### Lesson 49 (??.??)
 
