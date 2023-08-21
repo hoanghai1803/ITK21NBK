@@ -1204,7 +1204,7 @@ Register accounts on Online Judges:
   |    **VNOJ**    |             [substr](https://oj.vnoi.info/problem/substr)             | _DP, String Searching_ |
   | **Codeforces** |  [MUH and Cube Walls](https://codeforces.com/contest/471/problem/D)   | _DP, String Searching_ |
   | **Codeforces** | [Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) | _DP, String Searching_ |
-  |   **LQDOJ**    |             [lpdstr](https://lqdoj.edu.vn/problem/lpdstr)             | _DP, String Searching_ |
+  | **Codeforces** |      [Password](https://codeforces.com/problemset/problem/126/B)      | _DP, String Searching_ |
 
 ### Lesson 49 (??.??)
 
@@ -1212,10 +1212,10 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ       |                            Name                             |      Categories       |
-  | :------------: | :---------------------------------------------------------: | :-------------------: |
-  | **Codeforces** | [Password](https://codeforces.com/problemset/problem/126/B) | _DP, KMP, Z-function_ |
-  |    **VNOJ**    |       [c11str2](https://oj.vnoi.info/problem/c11str2)       | _DP, KMP, Z-function_ |
+  |    OJ     |                      Name                       |       Categories       |
+  | :-------: | :---------------------------------------------: | :--------------------: |
+  | **VNOJ**  | [c11str2](https://oj.vnoi.info/problem/c11str2) | _DP, String Searching_ |
+  | **LQDOJ** |  [lpdstr](https://lqdoj.edu.vn/problem/lpdstr)  | _DP, String Searching_ |
 
 ---
 
