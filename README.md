@@ -1216,6 +1216,7 @@ Register accounts on Online Judges:
   | :------------: | :---------------------------------------------------------------------: | :--------------------: |
   |    **VNOJ**    |             [c11str2](https://oj.vnoi.info/problem/c11str2)             | _DP, String Searching_ |
   |   **LQDOJ**    |              [lpdstr](https://lqdoj.edu.vn/problem/lpdstr)              | _DP, String Searching_ |
+  | **Codeforces** |  [Anthem of Berland](https://codeforces.com/problemset/problem/808/G)   | _DP, String Searching_ |
   | **Codeforces** | [Vasya and Big Integers](https://codeforces.com/contest/1051/problem/E) | _DP, String Searching_ |
 
 ---
