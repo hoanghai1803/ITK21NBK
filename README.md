@@ -1230,6 +1230,8 @@ Register accounts on Online Judges:
   | :------------: | :-----------------------------------------------------------------------------: | :--------------------: |
   | **Codeforces** |         [A Lot of Games](https://codeforces.com/contest/456/problem/D)          | _DP, String Searching_ |
   | **Codeforces** | [Kuro and GCD and XOR and SUM](https://codeforces.com/problemset/problem/979/D) | _DP, String Searching_ |
+  | **Codeforces** |           [Short Code](https://codeforces.com/contest/965/problem/E)            | _DP, String Searching_ |
+  | **Codeforces** |     [Beautiful Subarrays](https://codeforces.com/problemset/problem/665/E)      | _DP, String Searching_ |
   |   **NBKOJ**    |                  [xorgame](https://nbk.homes/problem/xorgame)                   | _DP, String Searching_ |
 
 ---
