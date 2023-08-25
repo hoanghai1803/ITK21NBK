@@ -1195,6 +1195,7 @@ Register accounts on Online Judges:
 
   - [KMP](https://vnoi.info/wiki/translate/wcipeg/kmp) and [Z-function](https://vnoi.info/wiki/algo/string/z-algo.md) and [Trie](https://vnoi.info/wiki/algo/data-structures/trie.md) - VNOI Wiki
   - [KMP](https://cp-algorithms.com/string/prefix-function.html) and [Z-Function](https://cp-algorithms.com/string/z-function.html) - CP-Algorithms
+  - Manacher's Algorithm: [VNOI Wiki](https://vnoi.info/wiki/algo/string/manacher.md) and [Cp-Algorithm](https://cp-algorithms.com/string/manacher.html)
   - [String Searching](https://usaco.guide/adv/string-search?lang=cpp) - USACO Guide
 
 - Practice Problems:
@@ -1218,6 +1219,18 @@ Register accounts on Online Judges:
   |   **LQDOJ**    |              [lpdstr](https://lqdoj.edu.vn/problem/lpdstr)              | _DP, String Searching_ |
   | **Codeforces** |  [Anthem of Berland](https://codeforces.com/problemset/problem/808/G)   | _DP, String Searching_ |
   | **Codeforces** | [Vasya and Big Integers](https://codeforces.com/contest/1051/problem/E) | _DP, String Searching_ |
+
+### Lesson 50 (28.08.23)
+
+- Concepts: **String Searching** (continued)
+
+- Practice Problems:
+
+  |       OJ       |                                      Name                                       |       Categories       |
+  | :------------: | :-----------------------------------------------------------------------------: | :--------------------: |
+  | **Codeforces** |         [A Lot of Games](https://codeforces.com/contest/456/problem/D)          | _DP, String Searching_ |
+  | **Codeforces** | [Kuro and GCD and XOR and SUM](https://codeforces.com/problemset/problem/979/D) | _DP, String Searching_ |
+  |   **NBKOJ**    |                  [xorgame](https://nbk.homes/problem/xorgame)                   | _DP, String Searching_ |
 
 ---
 
