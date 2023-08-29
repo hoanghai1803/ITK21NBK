@@ -1234,6 +1234,20 @@ Register accounts on Online Judges:
   | **Codeforces** |     [Beautiful Subarrays](https://codeforces.com/problemset/problem/665/E)      | _DP, String Searching_ |
   |   **NBKOJ**    |                  [xorgame](https://nbk.homes/problem/xorgame)                   | _DP, String Searching_ |
 
+### Lesson 51 (31.08.23)
+
+- Concepts: **Geometry**.
+
+- Resources:
+
+  - VNOJ: [Basic 1](https://vnoi.info/wiki/algo/geometry/basic-geometry-1.md) & [Basic 2](https://vnoi.info/wiki/algo/geometry/basic-geometry-2.md) & [Sweep Line](https://vnoi.info/wiki/algo/geometry/Sweep-Line.md) & [Convex Hull](https://vnoi.info/wiki/translate/wcipeg/Convex-Hull.md)  
+  - CP-Algorithms: [Elementary Operations](https://cp-algorithms.com/geometry/basic-geometry.html) & [Polygons](https://cp-algorithms.com/geometry/oriented-triangle-area.html) & [Sweep Line](https://cp-algorithms.com/geometry/intersecting_segments.html) & [Convex Hull](https://cp-algorithms.com/geometry/convex-hull.html)
+  - USACO Guide: [Geometry Primitives](https://usaco.guide/plat/geo-pri?lang=cpp) & [Sweep Line](https://usaco.guide/plat/sweep-line?lang=cpp) & [Convex Hull](https://usaco.guide/plat/convex-hull?lang=cpp)
+  - [Handbook of Geometry for CP](/https://victorlecomte.com/cp-geo.pdf)
+
+
+
+
 ---
 
 ## Practice Contests
