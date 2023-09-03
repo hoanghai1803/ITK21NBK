@@ -73,7 +73,8 @@ Register accounts on Online Judges:
   | **VNOJ**  |              [car](https://oj.vnoi.info/problem/car)              |            _Greedy_             |
   | **VNOJ**  | [bedao_g07_resort](https://oj.vnoi.info/problem/bedao_g07_resort) |            _Greedy_             |
 
-  **_Recommendation:_** [[ VNOJ ] Educational Backtracking Contest](https://oj.vnoi.info/contest/backtrack)
+- **_Recommendation:_**
+  - [[ VNOJ ] Educational Backtracking Contest](https://oj.vnoi.info/contest/backtrack)
 
 ### Lesson 2 (13.11.22)
 
@@ -214,6 +215,9 @@ Register accounts on Online Judges:
   |   **NBKOJ**    |       [goodarr](https://nbk.homes/problem/goodarr)       |            _Number Theory_             |
   |   **NBKOJ**    |   [sumdivisors](https://nbk.homes/problem/sumdivisors)   |            _Number Theory_             |
 
+- **_Recommendation_**
+  - [[CSES] Mathematics](https://cses.fi/problemset/)
+
 ### Lesson 7 (11.12.22)
 
 - Concepts:
@@ -344,7 +348,9 @@ Register accounts on Online Judges:
   | **NBKOJ** | [qn17doanthang](https://nbk.homes/problem/qn17doanthang) | _DP, Binary Search, Data Structures_ |
   | **VNOJ**  |     [binpack](https://oj.vnoi.info/problem/binpack)      |      _DP, Brute-force, Greedy_       |
 
-  **_Recommendation:_** [[ AtCoder ] Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
+- **_Recommendation:_**
+  - [[ AtCoder ] Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
+  - [[CSES] Dynamic Programming](https://cses.fi/problemset/)
 
 ### Lesson 12 (12.01.23)
 
@@ -478,6 +484,9 @@ Register accounts on Online Judges:
   | **Codeforces** | [Subsequences](https://codeforces.com/contest/597/problem/C) |        _Segment Tree, Fenwick Tree, DP_        |
   |    **VNOJ**    |      [pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4)       |        _Segment Tree, Fenwick Tree, DP_        |
 
+- **_Recommendation:_**
+  - [[CSES] Range Queries](https://cses.fi/problemset/)
+
 ### Lesson 17 (11.02.23)
 
 - Concepts:
@@ -550,7 +559,8 @@ Register accounts on Online Judges:
   |    **VNOJ**    |         [segtree_itladder](https://oj.vnoi.info/problem/segtree_itladder)          |              _Segment Tree_              |
   |    **VNOJ**    |                   [bgmine](https://oj.vnoi.info/problem/bgmine)                    | _Segment Tree, Fenwick Tree, Prefix Sum_ |
 
-  **_Recommendation:_** [[ VNOJ ] Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
+- **_Recommendation:_**
+  - [[ VNOJ ] Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
 ### Lesson 20 (23.02.23)
 
@@ -707,7 +717,8 @@ Register accounts on Online Judges:
   |    **VNOJ**    |   [lubenica](https://oj.vnoi.info/problem/lubenica)   |                     _LCA, DP_                      |
   |    **VNOJ**    |    [fselect](https://oj.vnoi.info/problem/fselect)    |                     _LCA, DP_                      |
 
-  **_Recommendation:_** [[ VNOJ ] Educational RMQ Contest](https://oj.vnoi.info/contest/rmq)
+- **_Recommendation:_**
+  - [[ VNOJ ] Educational RMQ Contest](https://oj.vnoi.info/contest/rmq)
 
 ### Lesson 27 (20.04.23)
 
@@ -1045,7 +1056,8 @@ Register accounts on Online Judges:
   |    **VNOJ**    |              [vomarble](https://oj.vnoi.info/problem/vomarble)               | _DP, MatMul_ |
   | **Codeforces** | [Product Oriented Recurrence](https://codeforces.com/contest/1182/problem/E) | _DP, MatMul_ |
 
-**_Recommendation:_** [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
+- **_Recommendation:_**
+  - [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
 
 ### Lesson 42 (29.06.23)
 
@@ -1166,6 +1178,9 @@ Register accounts on Online Judges:
   | **Codeforces** |     [Good Substrings](https://codeforces.com/problemset/problem/271/D)      | _String Hashing_ |
   | **Codeforces** |           [Test](https://codeforces.com/problemset/problem/25/E)            | _String Hashing_ |
 
+- **_Recommendation_**
+  - [[CSES] String Algorithms](https://cses.fi/problemset/)
+
 ### Lesson 47 (19.08.23)
 
 - Concepts:
@@ -1240,13 +1255,57 @@ Register accounts on Online Judges:
 
 - Resources:
 
-  - VNOJ: [Basic 1](https://vnoi.info/wiki/algo/geometry/basic-geometry-1.md) & [Basic 2](https://vnoi.info/wiki/algo/geometry/basic-geometry-2.md) & [Sweep Line](https://vnoi.info/wiki/algo/geometry/Sweep-Line.md) & [Convex Hull](https://vnoi.info/wiki/translate/wcipeg/Convex-Hull.md)  
-  - CP-Algorithms: [Elementary Operations](https://cp-algorithms.com/geometry/basic-geometry.html) & [Polygons](https://cp-algorithms.com/geometry/oriented-triangle-area.html) & [Sweep Line](https://cp-algorithms.com/geometry/intersecting_segments.html) & [Convex Hull](https://cp-algorithms.com/geometry/convex-hull.html)
-  - USACO Guide: [Geometry Primitives](https://usaco.guide/plat/geo-pri?lang=cpp) & [Sweep Line](https://usaco.guide/plat/sweep-line?lang=cpp) & [Convex Hull](https://usaco.guide/plat/convex-hull?lang=cpp)
+  - VNOI Wiki: [Basic 1](https://vnoi.info/wiki/algo/geometry/basic-geometry-1.md) and [Basic 2](https://vnoi.info/wiki/algo/geometry/basic-geometry-2.md)
+  - CP-Algorithms: [Elementary Operations](https://cp-algorithms.com/geometry/basic-geometry.html) and [Polygons](https://cp-algorithms.com/geometry/oriented-triangle-area.html)
+  - USACO Guide: [Geometry Primitives](https://usaco.guide/plat/geo-pri?lang=cpp)
   - [Handbook of Geometry for CP](/https://victorlecomte.com/cp-geo.pdf)
 
+- Practice Problems:
 
+  |       OJ        |                                  Name                                  | Categories |
+  | :-------------: | :--------------------------------------------------------------------: | :--------: |
+  | **Codeforces**  |  [New Year and Curling](https://codeforces.com/contest/908/problem/C)  | _Geometry_ |
+  | **Codeforces**  |    [Nearest vectors](https://codeforces.com/contest/598/problem/C)     | _Geometry_ |
+  | **Codeforcces** | [Peter and Snow Blower](https://codeforces.com/contest/613/problem/A)  | _Geometry_ |
+  | **Codeforces**  |    [Robo-Footballer](https://codeforces.com/contest/248/problem/C)     | _Geometry_ |
+  | **Codeforces**  | [Runaway to a Shadow](https://codeforces.com/problemset/problem/681/E) | _Geometry_ |
+  |    **VNOJ**     |           [hinhthoi](https://oj.vnoi.info/problem/hinhthoi)            | _Geometry_ |
+  |    **VNOJ**     |            [areatri](https://oj.vnoi.info/problem/areatri)             | _Geometry_ |
+  |    **VNOJ**     |             [tfield](https://oj.vnoi.info/problem/tfield)              | _Geometry_ |
 
+- **_Recommendation:_**
+  - [[ VNOJ ] Educational Geometry Contest](https://oj.vnoi.info/contest/backtrack) (or [Russian orignal version](https://codeforces.com/gym/100168))
+  - [[CSES] Geometry](https://cses.fi/problemset/)
+
+### Lesson 52 (04.09.23)
+
+- Concepts: **Geometry**.
+
+- Resources:
+
+  - [Sweep Line - VNOI Wiki](https://vnoi.info/wiki/algo/geometry/Sweep-Line.md)
+  - [Sweep Line - CP-Algorithms](https://cp-algorithms.com/geometry/intersecting_segments.html)
+  - [Sweep Line - USACO Guide](https://usaco.guide/plat/sweep-line?lang=cpp)
+
+- Practice Problems:
+
+  |       OJ        |                                  Name                                  | Categories |
+  | :-------------: | :--------------------------------------------------------------------: | :--------: |
+
+### Lesson 53 (07.09.23)
+
+- Concepts: **Geometry**.
+
+- Resources:
+
+  - [Convex Hull - VNOI Wiki](https://vnoi.info/wiki/translate/wcipeg/Convex-Hull.md)
+  - [Convex Hull - CP-Algorithms](https://cp-algorithms.com/geometry/convex-hull.html)
+  - [Convex Hull - USACO Guide](https://usaco.guide/plat/convex-hull?lang=cpp)
+
+- Practice Problems:
+
+  |       OJ        |                                  Name                                  | Categories |
+  | :-------------: | :--------------------------------------------------------------------: | :--------: |
 
 ---
 
