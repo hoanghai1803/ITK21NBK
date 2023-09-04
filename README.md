@@ -1289,8 +1289,12 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ        |                                  Name                                  | Categories |
-  | :-------------: | :--------------------------------------------------------------------: | :--------: |
+  |     OJ     |                        Name                         |  Categories  |
+  | :--------: | :-------------------------------------------------: | :----------: |
+  |  **SPOJ**  |  [nearest](https://vn.spoj.com/problems/NEAREST/)   | _Sweep Line_ |
+  |  **SPOJ**  |  [CS345A1](https://www.spoj.com/problems/CS345A1/)  | _Sweep Line_ |
+  |  **VNOJ**  |      [area](https://oj.vnoi.info/problem/area)      | _Sweep Line_ |
+  | **Kattis** | [gridmst](https://open.kattis.com/problems/gridmst) | _Sweep Line_ |
 
 ### Lesson 53 (07.09.23)
 
@@ -1304,8 +1308,8 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ        |                                  Name                                  | Categories |
-  | :-------------: | :--------------------------------------------------------------------: | :--------: |
+  | OJ  | Name | Categories |
+  | :-: | :--: | :--------: |
 
 ---
 
