@@ -1269,6 +1269,7 @@ Register accounts on Online Judges:
   | **Codeforcces** | [Peter and Snow Blower](https://codeforces.com/contest/613/problem/A)  | _Geometry_ |
   | **Codeforces**  |    [Robo-Footballer](https://codeforces.com/contest/248/problem/C)     | _Geometry_ |
   | **Codeforces**  | [Runaway to a Shadow](https://codeforces.com/problemset/problem/681/E) | _Geometry_ |
+  |    **VNOJ**     |           [meterain](https://oj.vnoi.info/problem/meterain)            | _Geometry_ |
   |    **VNOJ**     |           [hinhthoi](https://oj.vnoi.info/problem/hinhthoi)            | _Geometry_ |
   |    **VNOJ**     |            [areatri](https://oj.vnoi.info/problem/areatri)             | _Geometry_ |
   |    **VNOJ**     |             [tfield](https://oj.vnoi.info/problem/tfield)              | _Geometry_ |
@@ -1308,8 +1309,12 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  | OJ  | Name | Categories |
-  | :-: | :--: | :--------: |
+  |    OJ    |                         Name                         |  Categories   |
+  | :------: | :--------------------------------------------------: | :-----------: |
+  | **CSES** | [Convex Hull](https://cses.fi/problemset/task/2195/) | _Convex Hull_ |
+  | **VNOJ** |  [military](https://oj.vnoi.info/problem/military)   | _Convex Hull_ |
+  | **VNOJ** |   [headqrt](https://oj.vnoi.info/problem/headqrt)    | _Convex Hull_ |
+  | **VNOJ** |      [kmix](https://oj.vnoi.info/problem/kmix)       | _Convex Hull_ |
 
 ---
 
