@@ -775,6 +775,7 @@ Register accounts on Online Judges:
   - [Centroid Decomposition - USACO Guide](https://usaco.guide/plat/centroid?lang=cpp)
   - [Centroid Decomposition - Codeforces Blog](https://codeforces.com/blog/entry/81661)
   - [Intro to Centroid Decomposition - VNOJ Blog](https://oj.vnoi.info/post/72-noobcpp)
+  - [Centroid Decomposition - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/centroid-decomposition.md)
 
 - Practice Problems:
 
@@ -1315,6 +1316,29 @@ Register accounts on Online Judges:
   | **VNOJ** |  [military](https://oj.vnoi.info/problem/military)   | _Convex Hull_ |
   | **VNOJ** |   [headqrt](https://oj.vnoi.info/problem/headqrt)    | _Convex Hull_ |
   | **VNOJ** |      [kmix](https://oj.vnoi.info/problem/kmix)       | _Convex Hull_ |
+
+### Lesson 54 (10.09.23)
+
+- Concepts: **Advanced DP**.
+
+  - Range DP.
+  - Divide and Conquer DP.
+
+- Resources:
+
+  - [Range DP - USACO Guide](https://usaco.guide/gold/dp-ranges?lang=cpp)
+  - [Divide and Conquer DP - USACO Guide](https://usaco.guide/plat/DC-DP)
+  - [Divide and Conquer DP - CP-Algorithms](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
+  - [Some optimization techniques for DP - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
+
+- Practice Problems:
+
+  |       OJ       |                                       Name                                       | Categories |
+  | :------------: | :------------------------------------------------------------------------------: | :--------: |
+  |    **SAPO**    | [Space Jazz](https://saco-evaluator.org.za/cms/sapo2015z/tasks/jazz/description) |    _DP_    |
+  |    **CSES**    |               [Empty String](https://cses.fi/problemset/task/1080)               |    _DP_    |
+  | **Codeforces** |      [Number of Palindromes](https://codeforces.com/contest/245/problem/H)       |    _DP_    |
+  | **Codeforces** |             [Zuma](https://codeforces.com/problemset/problem/607/B)              |    _DP_    |
 
 ---
 
