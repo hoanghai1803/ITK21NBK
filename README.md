@@ -1333,6 +1333,7 @@ Register accounts on Online Judges:
   | :------------: | :------------------------------------------------------------------------------: | :--------: |
   |    **SAPO**    | [Space Jazz](https://saco-evaluator.org.za/cms/sapo2015z/tasks/jazz/description) |    _DP_    |
   |    **CSES**    |               [Empty String](https://cses.fi/problemset/task/1080)               |    _DP_    |
+  |  **Codechef**  |  [Brackets](https://www.codechef.com/INOIPRAC/problems/INOI1602?tab=statement)   |    _DP_    |
   | **Codeforces** |      [Number of Palindromes](https://codeforces.com/contest/245/problem/H)       |    _DP_    |
   | **Codeforces** |             [Zuma](https://codeforces.com/problemset/problem/607/B)              |    _DP_    |
   |    **DMOJ**    |               [BOI 09 - Beetle](https://dmoj.ca/problem/btoi09p1)                |    _DP_    |
@@ -1351,9 +1352,8 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ       |                                       Name                                       | Categories |
-  | :------------: | :------------------------------------------------------------------------------: | :--------: |
-
+  | OJ  | Name | Categories |
+  | :-: | :--: | :--------: |
 
 ---
 
