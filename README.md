@@ -1319,17 +1319,13 @@ Register accounts on Online Judges:
 
 ### Lesson 54 (10.09.23)
 
-- Concepts: **Advanced DP**.
+- Concepts:
 
   - Range DP.
-  - Divide and Conquer DP.
 
 - Resources:
 
   - [Range DP - USACO Guide](https://usaco.guide/gold/dp-ranges?lang=cpp)
-  - [Divide and Conquer DP - USACO Guide](https://usaco.guide/plat/DC-DP)
-  - [Divide and Conquer DP - CP-Algorithms](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
-  - [Some optimization techniques for DP - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
 
 - Practice Problems:
 
@@ -1339,6 +1335,25 @@ Register accounts on Online Judges:
   |    **CSES**    |               [Empty String](https://cses.fi/problemset/task/1080)               |    _DP_    |
   | **Codeforces** |      [Number of Palindromes](https://codeforces.com/contest/245/problem/H)       |    _DP_    |
   | **Codeforces** |             [Zuma](https://codeforces.com/problemset/problem/607/B)              |    _DP_    |
+  |    **DMOJ**    |               [BOI 09 - Beetle](https://dmoj.ca/problem/btoi09p1)                |    _DP_    |
+
+### Lesson 55 (14.09.23)
+
+- Concepts:
+
+  - Divide and Conquer DP.
+
+- Resources:
+
+  - [Divide and Conquer DP - USACO Guide](https://usaco.guide/plat/DC-DP)
+  - [Divide and Conquer DP - CP-Algorithms](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
+  - [Some optimization techniques for DP - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
+
+- Practice Problems:
+
+  |       OJ       |                                       Name                                       | Categories |
+  | :------------: | :------------------------------------------------------------------------------: | :--------: |
+
 
 ---
 
