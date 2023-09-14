@@ -1342,6 +1342,23 @@ Register accounts on Online Judges:
 
 - Concepts:
 
+  - Dynamic Programming Practice.
+
+- Practice Problems:
+
+  |       OJ       |                                   Name                                    | Categories |
+  | :------------: | :-----------------------------------------------------------------------: | :--------: |
+  | **Codeforces** |         [Bargain](https://codeforces.com/contest/1422/problem/C)          |    _DP_    |
+  |  **Atcoder**   | [Strange Constraints ](https://atcoder.jp/contests/arc162/tasks/arc162_e) |    _DP_    |
+  | **Codeforces** |    [Runner's Problem](https://codeforces.com/problemset/problem/954/F)    |    _DP_    |
+  | **Codeforces** |       [Lucky Tree](https://codeforces.com/problemset/problem/109/C)       |    _DP_    |
+  | **Codeforces** |       [0-1-Tree](https://codeforces.com/problemset/problem/1156/D)        |    _DP_    |
+
+<!--
+### Lesson 55 (14.09.23)
+
+- Concepts:
+
   - Divide and Conquer DP.
 
 - Resources:
@@ -1353,7 +1370,7 @@ Register accounts on Online Judges:
 - Practice Problems:
 
   | OJ  | Name | Categories |
-  | :-: | :--: | :--------: |
+  | :-: | :--: | :--------: | -->
 
 ---
 
