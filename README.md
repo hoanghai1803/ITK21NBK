@@ -1346,31 +1346,20 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ       |                                   Name                                    | Categories |
-  | :------------: | :-----------------------------------------------------------------------: | :--------: |
-  | **Codeforces** |         [Bargain](https://codeforces.com/contest/1422/problem/C)          |    _DP_    |
-  |  **Atcoder**   | [Strange Constraints ](https://atcoder.jp/contests/arc162/tasks/arc162_e) |    _DP_    |
-  | **Codeforces** |    [Runner's Problem](https://codeforces.com/problemset/problem/954/F)    |    _DP_    |
-  | **Codeforces** |       [Lucky Tree](https://codeforces.com/problemset/problem/109/C)       |    _DP_    |
-  | **Codeforces** |       [0-1-Tree](https://codeforces.com/problemset/problem/1156/D)        |    _DP_    |
+  |       OJ       |                                 Name                                  |          Categories          |
+  | :------------: | :-------------------------------------------------------------------: | :--------------------------: |
+  | **Codeforces** |       [Bargain](https://codeforces.com/contest/1422/problem/C)        |     _DP, Combinatorics_      |
+  | **Codeforces** |  [Runner's Problem](https://codeforces.com/problemset/problem/954/F)  |         _DP, MatMul_         |
+  | **Codeforces** |     [Lucky Tree](https://codeforces.com/problemset/problem/109/C)     | _DP on Trees, Combinatorics_ |
+  | **Codeforces** |     [0-1-Tree](https://codeforces.com/problemset/problem/1156/D)      | _DP on Tree, Combinatorics_  |
+  |   **USACO**    | [Odometer](http://www.usaco.org/index.php?page=viewproblem2&cpid=435) |          _Digit DP_          |
 
-<!--
-### Lesson 55 (14.09.23)
+- Self-Practice:
 
-- Concepts:
-
-  - Divide and Conquer DP.
-
-- Resources:
-
-  - [Divide and Conquer DP - USACO Guide](https://usaco.guide/plat/DC-DP)
-  - [Divide and Conquer DP - CP-Algorithms](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
-  - [Some optimization techniques for DP - VNOI Wiki](https://vnoi.info/wiki/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong.md)
-
-- Practice Problems:
-
-  | OJ  | Name | Categories |
-  | :-: | :--: | :--------: | -->
+  |       OJ       |                                   Name                                   |         Categories          |
+  | :------------: | :----------------------------------------------------------------------: | :-------------------------: |
+  | **Codeforces** |     [Segment Sum](https://codeforces.com/problemset/problem/1073/E)      | _Bitmask DP, Combinatorics_ |
+  |  **Atcoder**   | [Strange Constraints](https://atcoder.jp/contests/arc162/tasks/arc162_e) |     _DP, Combinatorics_     |
 
 ---
 
