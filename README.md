@@ -1367,7 +1367,7 @@ Register accounts on Online Judges:
 
   - Eulerian Path and Circuit.
   - Eulerian Tour on Tree.
-  - Small-to-Large Merging
+  - Small-to-Large Merging.
 
 - Resources
 
