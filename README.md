@@ -1367,6 +1367,7 @@ Register accounts on Online Judges:
 
   - Eulerian Path and Circuit.
   - Eulerian Tour on Tree.
+  - Small-to-Large Merging
 
 - Resources
 
@@ -1374,13 +1375,16 @@ Register accounts on Online Judges:
   - [Finding Euler Path - CP-Algorithms](https://cp-algorithms.com/graph/euler_path.html)
   - [Eulerian Tour on Tree - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/euler-tour-on-tree.md)
   - [Eulerian Tour Technique - USACO Guide](https://usaco.guide/gold/tree-euler?lang=cpp)
+  - [Small-To-Large Merging - USACO Guide](https://usaco.guide/plat/merging?lang=cpp)
 
 - Practice Problems:
 
-  |    OJ    |                           Name                            |   Categories    |
-  | :------: | :-------------------------------------------------------: | :-------------: |
-  | **CSES** | [Teleporters Path](https://cses.fi/problemset/task/1693/) | _Euler Circuit_ |
-  | **VNOJ** |       [pcycle](https://oj.vnoi.info/problem/pcycle)       | _Euler Circuit_ |
+  |    OJ    |                           Name                            |          Categories           |
+  | :------: | :-------------------------------------------------------: | :---------------------------: |
+  | **CSES** | [Teleporters Path](https://cses.fi/problemset/task/1693/) |        _Euler Circuit_        |
+  | **VNOJ** |       [pcycle](https://oj.vnoi.info/problem/pcycle)       |        _Euler Circuit_        |
+  | **VNOJ** |         [draw](https://oj.vnoi.info/problem/draw)         |        _Euler Circuit_        |
+  | **CSES** |  [Distinct Color](https://cses.fi/problemset/task/1139)   | _Euler Tour, Data Structures_ |
 
 ---
 
