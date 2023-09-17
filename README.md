@@ -1338,7 +1338,7 @@ Register accounts on Online Judges:
   | **Codeforces** |             [Zuma](https://codeforces.com/problemset/problem/607/B)              |    _DP_    |
   |    **DMOJ**    |               [BOI 09 - Beetle](https://dmoj.ca/problem/btoi09p1)                |    _DP_    |
 
-### Lesson 55 (14.09.23)
+### Lesson 55 (15.09.23)
 
 - Concepts:
 
@@ -1349,17 +1349,38 @@ Register accounts on Online Judges:
   |       OJ       |                                 Name                                  |          Categories          |
   | :------------: | :-------------------------------------------------------------------: | :--------------------------: |
   | **Codeforces** |       [Bargain](https://codeforces.com/contest/1422/problem/C)        |     _DP, Combinatorics_      |
-  | **Codeforces** |  [Runner's Problem](https://codeforces.com/problemset/problem/954/F)  |         _DP, MatMul_         |
   | **Codeforces** |     [Lucky Tree](https://codeforces.com/problemset/problem/109/C)     | _DP on Trees, Combinatorics_ |
   | **Codeforces** |     [0-1-Tree](https://codeforces.com/problemset/problem/1156/D)      | _DP on Tree, Combinatorics_  |
+  | **Codeforces** |  [Runner's Problem](https://codeforces.com/problemset/problem/954/F)  |         _DP, MatMul_         |
   |   **USACO**    | [Odometer](http://www.usaco.org/index.php?page=viewproblem2&cpid=435) |          _Digit DP_          |
 
-- Self-Practice:
+- Self-Practice Problems:
 
   |       OJ       |                                   Name                                   |         Categories          |
   | :------------: | :----------------------------------------------------------------------: | :-------------------------: |
   | **Codeforces** |     [Segment Sum](https://codeforces.com/problemset/problem/1073/E)      | _Bitmask DP, Combinatorics_ |
   |  **Atcoder**   | [Strange Constraints](https://atcoder.jp/contests/arc162/tasks/arc162_e) |     _DP, Combinatorics_     |
+
+### Lesson 56 (17.08.23)
+
+- Concepts:
+
+  - Eulerian Path and Circuit.
+  - Eulerian Tour on Tree.
+
+- Resources
+
+  - [Eulerian Path and Circuit - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/euler-cycle.md)
+  - [Finding Euler Path - CP-Algorithms](https://cp-algorithms.com/graph/euler_path.html)
+  - [Eulerian Tour on Tree - VNOI Wiki](https://vnoi.info/wiki/algo/graph-theory/euler-tour-on-tree.md)
+  - [Eulerian Tour Technique - USACO Guide](https://usaco.guide/gold/tree-euler?lang=cpp)
+
+- Practice Problems:
+
+  |    OJ    |                           Name                            |   Categories    |
+  | :------: | :-------------------------------------------------------: | :-------------: |
+  | **CSES** | [Teleporters Path](https://cses.fi/problemset/task/1693/) | _Euler Circuit_ |
+  | **VNOJ** |       [pcycle](https://oj.vnoi.info/problem/pcycle)       | _Euler Circuit_ |
 
 ---
 
