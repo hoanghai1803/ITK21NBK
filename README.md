@@ -60,6 +60,7 @@ Register accounts on Online Judges:
   - [How to start Competitive Programming? For beginners! (Errichto)](https://youtu.be/xAeiXy8-9Y8)
   - [Recursion in Programming - freeCodeCamp.org](https://youtu.be/IJDJ0kBx2LM)
   - [Greedy Algorithms Tutorial - Solve Coding Challenges - freeCodeCamp.org](https://youtu.be/bC7o8P_Ste4)
+  - [Recursion and Backtracking - VNOI Wiki](https://vnoi.info/wiki/algo/basic/backtracking.md)
 
 - Practice Problems:
 
@@ -1391,6 +1392,8 @@ Register accounts on Online Judges:
 
 ## Practice Contests
 
+### BF Contests for ITK21
+
 - [[BF Training] ITK21 Practice Contest #01](https://nbk.homes/contest/itk21train01)
 
 - [[BF Training] ITK21 Practice Contest #02](https://codeforces.com/group/G0iFI97YZN/contest/431808)
@@ -1400,3 +1403,23 @@ Register accounts on Online Judges:
 - [[BF Training] ITK21 Practice Contest #04](https://nbk.homes/contest/itk21train04)
 
 - [[BF Training] ITK21 Practice Contest #05](https://nbk.homes/contest/itk21train05)
+
+- [BF Educational Marathon Contest](https://codeforces.com/group/G0iFI97YZN/contest/474605)
+
+### Mirror for QNOI through years
+
+- [[Mirror] QNOI](https://nbk.homes/contests/?contest=%5Bmirror%5D+qnoi)
+
+### Pre-QNOI 2022
+
+- [Pre-QNOI 2022 #01](https://nbk.homes/contest/preqnoi01)
+
+- [Pre-QNOI 2022 #02](https://nbk.homes/contest/preqnoi02)
+
+- [Practice Round 1: Mashup](https://codeforces.com/group/G0iFI97YZN/contest/399716)
+
+- [Practice Round 2: Mashup](https://codeforces.com/group/G0iFI97YZN/contest/399899)
+
+- [Practice Round 3: DP](https://codeforces.com/group/G0iFI97YZN/contest/400071)
+
+- [Practice Round 4: Graph](https://codeforces.com/group/G0iFI97YZN/contest/400265)
